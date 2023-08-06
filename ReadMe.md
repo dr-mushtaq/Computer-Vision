@@ -1,22 +1,13 @@
 **About**
 
-This repository is a related to all about Machine Learning - an A-Z guide to the world of Data Science. This supplement contains the implementation of algorithms, statistical methods and techniques (in Python), Feature Selection technique in python etc 
+This repository is related to all about Computer Vision - an A-Z guide to the world of Computer Vision. This supplement contains the implementation of algorithms, statistical methods and techniques (in Python) 
 
                               https://coursesteach.com/
+                              [Complete Computer Vision Python Notebook](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)
 
-## Module 01  - [Unsupervised Learning](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
-   - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
-  - [BIRCH Clustering in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/BIRCH_Clustering_in_Machine_Learning.ipynb)
-  - [Anomaly_Detection_with_Isolation_Forest_algorithm](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection_with_Isolation_Forest_algorithm.ipynb)
-  - [Kmean](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Kmean%20.ipynb)
-  - [**Unsupervised_learning**](https://github.com/hussain0048/Machine-Learning/blob/master/Unsupervised_learning.ipynb)
-  - [DBSCAN Clustering in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/DBSCAN_Clustering_in_Machine_Learning.ipynb)
-  - [Clus-K-Means-Customer-Seg-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Clus-K-Means-Customer-Seg-py-v1.ipynb)
-  - [Clus-Hierarchical-Cars-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Clus-Hierarchical-Cars-py-v1.ipynb)
-  - [Clus-DBSCN-weather-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Clus-DBSCN-weather-py-v1.ipynb)
-  - [**Hierarchical Clustering-Agglomerative method**](https://github.com/hussain0048/Machine-Learning/blob/master/Agglomerative_Clustering_using_scikit_learn.ipynb)
- 
-
+## 📚Chapter1: - [**Introduction**]()
+   - [**What is computer Vision?**](https://medium.com/@Coursesteach/computer-vision-part-1-ff493a713887)
+  - [**Computer Vision Tasks and Applications**](https://medium.com/@Coursesteach/computer-vision-part-2-c0d0619cce0a)
 
 ## Module 02  - [Supervised Learning](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/supervised%20algorithm)
   - [Bagging_&_Random_Forests](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Bagging_%26_Random_Forests.ipynb)
