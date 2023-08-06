@@ -3,7 +3,7 @@
 This repository is related to all about Computer Vision - an A-Z guide to the world of Computer Vision. This supplement contains the implementation of algorithms, statistical methods and techniques (in Python) 
 
                               https://coursesteach.com/
-                              [Complete Computer Vision Python Notebook](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)
+-[**Complete Computer Vision Python Notebook**](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)
 
 ## 📚Chapter1: - [**Introduction**]()
    - [**What is computer Vision?**](https://medium.com/@Coursesteach/computer-vision-part-1-ff493a713887)
