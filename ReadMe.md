@@ -12,7 +12,11 @@ Together, let's make this the best AI learning hub website! 🚀
 
 ## 📚Chapter1: - [**Introduction**]()
    - [**What is computer Vision?**](https://medium.com/@Coursesteach/computer-vision-part-1-ff493a713887)
-  - [**Computer Vision Tasks and Applications**](https://medium.com/@Coursesteach/computer-vision-part-2-c0d0619cce0a)
+   - [**Computer Vision Tasks and Applications**](https://medium.com/@Coursesteach/computer-vision-part-2-c0d0619cce0a)
+
+## 📚Chapter2: - [**Image As Function **]()
+   - [**Images as Functions Part 1?**](https://medium.com/@Coursesteach/computer-vision-part-3-3fae0bb7d768)
+
 
 ## Module 02  - [Supervised Learning](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/supervised%20algorithm)
   - [Bagging_&_Random_Forests](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Bagging_%26_Random_Forests.ipynb)
