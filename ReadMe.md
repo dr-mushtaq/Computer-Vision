@@ -18,6 +18,7 @@ Together, let's make this the best AI learning hub website! 🚀
    - [**Images as Functions Part 1?**](https://medium.com/@Coursesteach/computer-vision-part-3-3fae0bb7d768)
    - [**Images as Functions Part 2?**](https://medium.com/@Coursesteach/computer-vision-part-3-3fae0bb7d768)
    - [**Define an Image as a Function (Quiz)**](https://medium.com/@Coursesteach/computer-vision-part-5-b597c6e67be1)
+   - [Define a Color Image as a Function(Quiz)](https://medium.com/@Coursesteach/computer-vision-part-6-9731da76bbf5)
 
 
 ## Module 02  - [Supervised Learning](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/supervised%20algorithm)
