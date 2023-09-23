@@ -20,6 +20,7 @@ Together, let's make this the best AI learning hub website! 🚀
    - [**Define an Image as a Function (Quiz)**](https://medium.com/@Coursesteach/computer-vision-part-5-b597c6e67be1)
    - [Define a Color Image as a Function(Quiz)](https://medium.com/@Coursesteach/computer-vision-part-6-9731da76bbf5)
    - [**Digital Images**](https://medium.com/@Coursesteach/computer-vision-part-7-4e50b0e8b653)
+   - [**Compute Image Size Quiz**](https://medium.com/@Coursesteach/computer-vision-part-8-6b19ed614360)
 
 
 ## Module 02  - [Supervised Learning](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/supervised%20algorithm)
