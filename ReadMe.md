@@ -11,6 +11,10 @@ Together, let's make this the best AI learning hub website! 🚀
 -[**Complete Computer Vision Python Notebook**](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)
 
 ## 📚Chapter1: - [**Introduction**]()
+| Tutorial | Video | Code |
+|---|---|---|
+| [**1- What is computer Vision?**](https://medium.com/@Coursesteach/computer-vision-part-1-ff493a713887) | Content 2 | Content 3 |
+| Content 4 | Content 5 | Content 6 |
           | Tutorial | Video | Code |
           |---|---|---|
           | [**1- What is computer Vision?**](https://medium.com/@Coursesteach/computer-vision-part-1-ff493a713887)| --| -- |
