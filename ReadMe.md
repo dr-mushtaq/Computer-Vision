@@ -11,8 +11,11 @@ Together, let's make this the best AI learning hub website! 🚀
 -[**Complete Computer Vision Python Notebook**](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)
 
 ## 📚Chapter1: - [**Introduction**]()
-   - [**What is computer Vision?**](https://medium.com/@Coursesteach/computer-vision-part-1-ff493a713887)
-   - [**Computer Vision Tasks and Applications**](https://medium.com/@Coursesteach/computer-vision-part-2-c0d0619cce0a)
+          | Tutorial | Video | Code |
+          |---|---|---|
+          | [**1- What is computer Vision?**](https://medium.com/@Coursesteach/computer-vision-part-1-ff493a713887) | --| -- |
+          | [**2- What is computer Vision?**](https://medium.com/@Coursesteach/computer-vision-part-1-ff493a713887) | Content 5 | Content 6 |
+          |[**Computer Vision Tasks and Applications**](https://medium.com/@Coursesteach/computer-vision-part-2-c0d0619cce0a)|---|---|
 
 ## 📚Chapter2: - [**Image As Function**]()
    - [**Images as Functions Part 1?**](https://medium.com/@Coursesteach/computer-vision-part-3-3fae0bb7d768)
