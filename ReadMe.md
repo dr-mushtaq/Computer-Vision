@@ -14,10 +14,10 @@ Together, let's make this the best AI learning hub website! 🚀
 | Tutorial | Video | Code |
 |---|---|---|
 | [**1- What is computer Vision?**](https://medium.com/@Coursesteach/computer-vision-part-1-ff493a713887) | Content 2 | Content 3 |
-| Content 4 | Content 5 | Content 6 |
+|  [**2- What is computer Vision?**](https://medium.com/@Coursesteach/computer-vision-part-1-ff493a713887) | Content 5 | Content 6 |
           | Tutorial | Video | Code |
           |---|---|---|
-          | [**1- What is computer Vision?**](https://medium.com/@Coursesteach/computer-vision-part-1-ff493a713887)| --| -- |
+          
           | [**2- What is computer Vision?**](https://medium.com/@Coursesteach/computer-vision-part-1-ff493a713887)| Content 5 | Content 6 |
           |[**Computer Vision Tasks and Applications**](https://medium.com/@Coursesteach/computer-vision-part-2-c0d0619cce0a)|---|---|
 
