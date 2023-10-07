@@ -13,9 +13,8 @@ Together, let's make this the best AI learning hub website! 🚀
 ## 📚Chapter1: - [**Introduction**]()
 | Tutorial | Video | Code |
 |---|---|---|
-| [**1- What is computer Vision?**](https://medium.com/@Coursesteach/computer-vision-part-1-ff493a713887) | Content 2 | Content 3 |
-|  [**2- What is computer Vision?**](https://medium.com/@Coursesteach/computer-vision-part-1-ff493a713887) | Content 5 | Content 6 |
-|[**3-Computer Vision Tasks and Applications**](https://medium.com/@Coursesteach/computer-vision-part-2-c0d0619cce0a)|---|---|
+| [**1- What is computer Vision?**](https://medium.com/@Coursesteach/computer-vision-part-1-ff493a713887) | [Video](https://drive.google.com/file/d/1Cb-Cz0dRwNZzAp5f2K5cVNNwBRo3hki4/view) | Content 3 |
+|[**3-Computer Vision Tasks and Applications**](https://medium.com/@Coursesteach/computer-vision-part-2-c0d0619cce0a)|[Video1](https://drive.google.com/file/d/1DCR-0UllT5J0GNHrTlklsHtF1OCskV0V/view)[|Video2](https://drive.google.com/file/d/1hDHQfd5h9Jiauk8olHG6Jft0AbOUh36n/view)|---|
 
 ## 📚Chapter2: - [**Image As Function**]()
    - [**Images as Functions Part 1?**](https://medium.com/@Coursesteach/computer-vision-part-3-3fae0bb7d768)
