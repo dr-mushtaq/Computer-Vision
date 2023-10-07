@@ -18,6 +18,7 @@ Together, let's make this the best AI learning hub website! 🚀
 
 ## 📚Chapter2: - [**Image As Function**]()
 | Tutorial | Video| Code |
+|---|---|---|
 |[**1-Images as Functions Part 1?**](https://medium.com/@Coursesteach/computer-vision-part-3-3fae0bb7d768)|---|---|
 | [**2-Images as Functions Part 2?**](https://medium.com/@Coursesteach/computer-vision-part-3-3fae0bb7d768) | Content 2 | Content 3 |
 | [**3-Define an Image as a Function (Quiz)**](https://medium.com/@Coursesteach/computer-vision-part-5-b597c6e67be1) | Content 5 | Content 6 |
