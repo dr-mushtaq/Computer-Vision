@@ -26,6 +26,7 @@ Together, let's make this the best AI learning hub website! 🚀
 |[**5- Digital Images**](https://medium.com/@Coursesteach/computer-vision-part-7-4e50b0e8b653)|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 |[**6-Compute Image Size Quiz**](https://medium.com/@Coursesteach/computer-vision-part-8-6b19ed614360)|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 |[**7-Read image in Matlab and Python**](https://medium.com/@Coursesteach/computer-vision-part-9-9f7b396fe462)|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
+|[**8-Image Size and Data Type Quiz/Solution**](https://medium.com/@Coursesteach/computer-vision-part-10-f08f94c71c95)|[**Video**](https://drive.google.com/file/d/1-zlCSlEvKsBPyuPpUUCio15KdedHG_lj/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 
    
 ## **Contributors**
