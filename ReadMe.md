@@ -7,8 +7,6 @@ This repository is related to all about Computer Vision - an A-Z guide to the wo
 
 **Together, let's make this the best Computer Vision Course! 🚀**
 
-                              
--[**Complete Computer Vision Python Notebook**](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)
 
 ## 📚Chapter1: - [**Introduction**]()
 | Tutorial | Video | Code |
