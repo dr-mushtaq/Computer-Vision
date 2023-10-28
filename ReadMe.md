@@ -8,6 +8,7 @@ email:mushtaqmsit@gmail.com
 
 **Together, let's make this the best Computer Vision Course! 🚀**
 
+## Course 01  - **📚🧑‍🎓📺 Introduction of Computer Vision**
 
 ## 📚Chapter1: - [**Introduction**]()
 | Tutorial | Video | Code |
