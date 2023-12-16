@@ -7,6 +7,7 @@ This repository is related to all about Computer Vision - an A-Z guide to the wo
 email:mushtaqmsit@gmail.com
 
 **Together, let's make this the best Computer Vision Course! 🚀**
+
 Star this repo if you find it useful ⭐
 
 <details> 
