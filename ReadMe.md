@@ -36,8 +36,9 @@ Star this repo if you find it useful ⭐
 |[**11-Multiply image by a scaler and Blend 2 Images**](https://medium.com/@Coursesteach/computer-vision-part-13-multiply-by-a-scaler-60627d66c820)|[**1**](https://drive.google.com/file/d/1QKr5Vw3G1HfjyL3PgD1R6AuY8QU_XhSA/view?pli=1)[-2](https://drive.google.com/file/d/14bY1HdOaC5w4jLby2LwaawzmTwfzhSeB/view)[-3](https://drive.google.com/file/d/11W_RKLTU7XMZ1RHzBZYicBvCBCLxXhrg/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 |[**12-Common Types of Noise**](https://medium.com/@Coursesteach/computer-vision-part-13-multiply-by-a-scaler-60627d66c820)|[**1**](https://drive.google.com/file/d/1BhYdBxwZZLRp144ozXJOVKSvVDRLUPs0/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 |[**13-Image Difference**](https://medium.com/@Coursesteach/computer-vision-part-15-image-difference-c4a1738abf2b)|[**1**](https://drive.google.com/file/d/1NgBBgdzHdmG9UPjFBr4HRYuwtJuSux2t/view)[-2](https://drive.google.com/file/d/1FBPEClURy0oNh-Nt23UmBO2hGwGn3sqw/view)[-3](https://drive.google.com/drive/folders/1q_lNYRTS2ggibGcrc6dEAS-SbRQYF4N2)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
-</details>
 |[**14-Generate Gaussian Noise**](https://medium.com/@Coursesteach/computer-vision-part-16-generate-gaussian-noise-54b5746eb4f5)|[**1**](https://drive.google.com/file/d/15ho2IRjIMlZ6dPslpwo9MGR6SumyM938/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
+</details>
+
    
 ## **Contributors**
 Thanks goes to these wonderful people 
