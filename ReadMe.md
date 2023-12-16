@@ -43,7 +43,7 @@ Star this repo if you find it useful ⭐
 Thanks goes to these wonderful people 
 
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
+  <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
 
 
