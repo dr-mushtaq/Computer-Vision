@@ -14,14 +14,14 @@ Star this repo if you find it useful ⭐
 <summary> <h2>Course 01 - 📚Introduction of Computer Vision </h2> </summary>
 
 ## 📚Chapter1: - **Introduction**
-| Tutorial | Video | Code |
+| Topic Name/Tutorial | Video | Code |
 |---|---|---|
 | [**1- What is computer Vision?**](https://medium.com/@Coursesteach/computer-vision-part-1-ff493a713887) | [1](https://drive.google.com/file/d/1Cb-Cz0dRwNZzAp5f2K5cVNNwBRo3hki4/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 |[**2-Computer Vision Tasks and Applications**](https://medium.com/@Coursesteach/computer-vision-part-2-c0d0619cce0a)|[1](https://drive.google.com/file/d/1DCR-0UllT5J0GNHrTlklsHtF1OCskV0V/view)[-2](https://drive.google.com/file/d/1hDHQfd5h9Jiauk8olHG6Jft0AbOUh36n/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 |[**Best Free Resources to Computer Vision**](https://medium.com/@Coursesteach/best-free-resources-to-computer-vision-f570f69218ef)|---|---|
 
 ## 📚Chapter2: - **Image As Function**
-| Tutorial | Video| Code |
+| Topic Name/Tutorial | Video| Code |
 |---|---|---|
 |[**1-Images as Functions Part 1?**](https://medium.com/@Coursesteach/computer-vision-part-3-3fae0bb7d768)|[**1**](https://drive.google.com/file/d/1c6plHK4Yqg_ch8QiNTtfGuSZSK0mt3lf/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 | [**2-Images as Functions Part 2?**](https://medium.com/@Coursesteach/computer-vision-part-3-3fae0bb7d768) | [**1**](https://drive.google.com/file/d/1X5RS1-6JfZUmcyDvsP5KF1SR97CFzus2/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb) |
