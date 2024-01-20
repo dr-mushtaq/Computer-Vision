@@ -40,6 +40,11 @@ Star this repo if you find it useful ⭐
 |[**🌐15-Effect of Sigma on Gaussian Noise**](https://medium.com/@Coursesteach/computer-vision-part-17-effect-of-sigma-on-gaussian-noise-12fbda6e936b)|[**1**](https://drive.google.com/file/d/1SOL6VtxIT08__IBVEsOOrhqYg2xicy2Q/view?usp=sharing)[-2](https://drive.google.com/file/d/1e9wH3cny9Z1UzMgi6-vcmUIJ-mGnDhtx/view)[-3](https://drive.google.com/file/d/1ixofehPc8WprhjNOKqtGIVx4dyyAbqwv/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 |[**🌐16-Apply Gaussian Noise**](https://medium.com/@Coursesteach/computer-vision-part-18-apply-gaussian-noise-4947cc2d129e)|[**1**](https://drive.google.com/file/d/17-X3uDm-_bKEZCLWrh6dzywgrd9Mc6pc/view)[-2](https://drive.google.com/file/d/1HdiI6F0MVJ3OB3VkTiMDreTA_mccXweC/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 |[**🌐17-Displaying Images in Matlab and Python**](https://medium.com/@Coursesteach/computer-vision-part-19-displaying-images-in-matlab-and-python-1e2df433fcf0)|[**1**](https://drive.google.com/file/d/1H06n5AKN-XKDAAPk2GRaloQdSnG8fTgq/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
+
+## 📚Chapter3: - **Filtering**
+| Topic Name/Tutorial | Video | Code |
+|---|---|---|
+| [**🌐1- What is Filtering?**](https://medium.com/@Coursesteach/computer-vision-part-20-introduction-to-filter-074e84e0b85b) | [1](https://drive.google.com/file/d/1Dw9Iw2B7ag8bF8uz6jp1RfwuIsf5Cgsj/view?usp=sharing) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 </details>
 </details>
 
