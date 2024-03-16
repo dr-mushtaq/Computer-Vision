@@ -1,4 +1,4 @@
-**About**
+## **Welcome to Computer Vision👋🛒**
 
 This repository is related to all about Computer Vision - an A-Z guide to the world of Computer Vision. This supplement contains the implementation of algorithms, statistical methods, and techniques (in Python) 
 
