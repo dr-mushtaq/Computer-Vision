@@ -76,6 +76,11 @@ Star this repo if you find it useful ⭐
 >
 ## ⚙️ Things to Note
 
+* Anybody interested in learning and contributing to computer Vision repository
+* There are no hard prerequisites other than a dedication to learning
+* Some experience with the following will be beneficial:
+C++ Programming
+Basic of Computer 
 * Make sure you do not copy codes from external sources because that work will not be considered. Plagiarism is strictly not allowed.
 * You can only work on issues that have been assigned to you.
 * If you want to contribute the algorithm, it's preferrable that you create a new issue before making a PR and link your PR to that issue.
