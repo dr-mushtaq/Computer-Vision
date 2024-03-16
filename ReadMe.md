@@ -57,6 +57,19 @@ Star this repo if you find it useful ⭐
 </details>
 </details>
 
+## 💻 Workflow:
+
+- Fork the repository
+
+- Clone your forked repository using terminal or gitbash.
+
+- Make changes to the cloned repository
+
+- Add, Commit and Push
+
+- Then in Github, in your cloned repository find the option to make a pull request 
+
+> print("Start contributing for Machine Learning")
    
 ## **✨Top Contributors**
 We would love your help in making this repository even better! If you know of an amazing AI course that isn't listed here, or if you have any suggestions for improvement in any course content, feel free to open an issue or submit a course contribution request.
