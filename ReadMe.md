@@ -5,11 +5,6 @@
 
 This repository is related to all about Computer Vision - an A-Z guide to the world of Computer Vision. This supplement contains the implementation of algorithms, statistical methods, and techniques (in Python) 
 
-**Contribution**: We would love your help in making this course even better! If you want to contribute to this course then you are welcome, or if you have any suggestions for improving this repository content, feel free to contact.
-email:mushtaqmsit@gmail.com
-
-**Together, let's make this the best Computer Vision Course! 🚀**
-
 Star this repo if you find it useful ⭐
 ## **📬 Contact**
    
