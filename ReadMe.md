@@ -16,14 +16,17 @@
 
 💡 **Why Choose Us?**:
 
-Comprehensive Coverage: We've curated a comprehensive collection of resources covering every aspect of computer vision, providing you with a holistic learning experience.
-Hands-On Learning: Put theory into practice with hands-on examples and practical exercises designed to reinforce your understanding.
-Accessible to All: Whether you're a beginner or an expert, our repository caters to learners of all levels, offering something valuable for everyone.
+**1-Comprehensive Coverage:** We've curated a comprehensive collection of resources covering every aspect of computer vision, providing you with a holistic learning experience.
+
+**2-Hands-On Learning:** Put theory into practice with hands-on examples and practical exercises designed to reinforce your understanding.
+
+**3-Accessible to All:**  Whether you're a beginner or an expert, our repository caters to learners of all levels, offering something valuable for everyone.
 
 👥** Get Involved**:
 
-Contribute: Help us expand our repository by contributing your own implementations, insights, and optimizations. Together, we can build a richer resource for the entire computer vision community.
-Engage: Join the discussion, ask questions, and share your experiences on our forums. Connect with fellow enthusiasts and expand your network.
+**Contribute:** Help us expand our repository by contributing your own implementations, insights, and optimizations. Together, we can build a richer resource for the entire computer vision community.
+
+**Engage:** Join the discussion, ask questions, and share your experiences on our forums. Connect with fellow enthusiasts and expand your network.
 Learn and Grow: Embark on your journey through the world of computer vision, and let our repository serve as your trusted companion along the way.
 
 🌟 Join us as we unravel the mysteries of computer vision, one algorithm at a time. Let's empower each other to push the boundaries of what's possible in this fascinating domain!
