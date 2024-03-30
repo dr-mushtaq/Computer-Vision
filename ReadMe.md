@@ -1,4 +1,4 @@
-## **👁️ Welcome to the Computer Vision Compendium!👋🛒**
+ ## **👁️ Welcome to the Computer Vision Compendium!👋🛒**
 <p align="center">
 <img src="https://github.com/hussain0048/Computer-Vision-/blob/main/Computer%20Vision.png"></a>
 </p>
@@ -41,7 +41,7 @@ Star this repo if you find it useful ⭐
 <details> 
 <summary> <h2>Course 01 - 📚Introduction of Computer Vision </h2> </summary>
 
-## 📚Chapter1: - **Introduction**
+## 👁️ Chapter1: - **Introduction**
 | Topic Name/Tutorial | Video | Code |
 |---|---|---|
 | [**🌐1- What is computer Vision?**](https://medium.com/@Coursesteach/computer-vision-part-1-ff493a713887) | [1](https://drive.google.com/file/d/1Cb-Cz0dRwNZzAp5f2K5cVNNwBRo3hki4/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
