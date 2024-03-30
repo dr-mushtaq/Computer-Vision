@@ -22,7 +22,7 @@
 
 **3-Accessible to All:**  Whether you're a beginner or an expert, our repository caters to learners of all levels, offering something valuable for everyone.
 
-👥** Get Involved**:
+👥**Get Involved**:
 
 **Contribute:** Help us expand our repository by contributing your own implementations, insights, and optimizations. Together, we can build a richer resource for the entire computer vision community.
 
