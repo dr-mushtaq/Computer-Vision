@@ -8,9 +8,11 @@
 
 🔍 **What We Offer**:
 
-Algorithm Implementations: Dive into meticulously crafted implementations of key computer vision algorithms, from classic techniques to cutting-edge methods.
-Statistical Methods: Harness the power of statistical analysis for robust image interpretation and feature extraction.
-Pythonic Solutions: Our repository is entirely Python-based, offering clear and concise code snippets for seamless integration into your projects.
+**1-Algorithm Implementations:** Dive into meticulously crafted implementations of key computer vision algorithms, from classic techniques to cutting-edge methods.
+
+**2-Statistical Methods:** Harness the power of statistical analysis for robust image interpretation and feature extraction.
+
+**3-Pythonic Solutions:** Our repository is entirely Python-based, offering clear and concise code snippets for seamless integration into your projects.
 
 💡 **Why Choose Us?**:
 
