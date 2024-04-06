@@ -49,7 +49,7 @@ Star this repo if you find it useful ⭐
 |[**🌐Best Free Resources to Computer Vision**](https://medium.com/@Coursesteach/best-free-resources-to-computer-vision-f570f69218ef)|---|---|
 
 ## 📚Chapter2: - **Image As Function**
-| Topic Name/Tutorial | Video| Code |
+| Topic Name/Tutorial | Video| Notbook |
 |---|---|---|
 |[**🌐1-Images as Functions Part 1?**](https://medium.com/@Coursesteach/computer-vision-part-3-3fae0bb7d768)|[**1**](https://drive.google.com/file/d/1c6plHK4Yqg_ch8QiNTtfGuSZSK0mt3lf/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 | [**🌐2-Images as Functions Part 2?**](https://medium.com/@Coursesteach/computer-vision-part-3-3fae0bb7d768) | [**1**](https://drive.google.com/file/d/1X5RS1-6JfZUmcyDvsP5KF1SR97CFzus2/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb) |
@@ -70,7 +70,7 @@ Star this repo if you find it useful ⭐
 |[**🌐17-Displaying Images in Matlab and Python**](https://medium.com/@Coursesteach/computer-vision-part-19-displaying-images-in-matlab-and-python-1e2df433fcf0)|[**1**](https://drive.google.com/file/d/1H06n5AKN-XKDAAPk2GRaloQdSnG8fTgq/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 
 ## 📚Chapter3: - **Filtering**
-| Topic Name/Tutorial | Video | Code |
+| Topic Name/Tutorial | Video | NoteBook |
 |---|---|---|
 | [**🌐1- What is Filtering?**](https://medium.com/@Coursesteach/computer-vision-part-20-introduction-to-filter-074e84e0b85b) | [1](https://drive.google.com/file/d/1Dw9Iw2B7ag8bF8uz6jp1RfwuIsf5Cgsj/view?usp=sharing) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 | [**🌐2- What is Gaussian Noise?**](https://medium.com/@Coursesteach/computer-vision-part-21-gaussian-noise-d0fa12b1d533) | [1](https://drive.google.com/file/d/1K6OvG6Hchl_3kNRw7OBIV40GgbCK3mMM/view?usp=sharing)[-2](https://drive.google.com/file/d/1L4-pNTYyvvts9em7w3cNuBGmNCEHy1IZ/view?usp=sharing) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
