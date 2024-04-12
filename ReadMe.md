@@ -80,6 +80,11 @@ Star this repo if you find it useful ⭐
 | [**🌐6- Gaussian Filter?**](https://medium.com/@Coursesteach/computer-vision-part-25-gaussian-filter-c81ea05a4630) | [1](https://drive.google.com/file/d/1RV_UK3USN7rQjiB3Eq1ZZnR8ujAgHJD6/view?usp=sharing)[-2](https://drive.google.com/file/d/1z7svvKJn87Lmj1BchAViLLJ44_YTqFlN/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 | [**🌐7- Gaussian Filter with Matlab and Python?**](https://medium.com/@Coursesteach/computer-vision-part-26-gaussian-filter-with-matlab-and-python-672919cfb0c1) | [1](https://drive.google.com/file/d/1DY8UFbByrBrdbE4sdmcZa8G-kK3s3Q31/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 | [**🌐8- Remove Noise?(r)**](https://medium.com/@Coursesteach/computer-vision-part-27-remove-noise-001e6a7c838b) | [1](https://drive.google.com/file/d/1fzGcwjrWgzc57etIPUsnX_34LciTG1vs/view?usp=sharing)[-2](https://drive.google.com/file/d/1DgS_rRdmpJCckziIn1fRi6h_b0kLfTgj/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
+
+## 📚Chapter4: - **Linearity and Convolution '**
+| Topic Name/Tutorial | Video | NoteBook |
+|---|---|---|
+| [**🌐1- Introduction of linear intuition of filtering**](https://medium.com/@Coursesteach/computer-vision-part-28-introduction-of-linear-intuition-of-filtering-83b4269f6019) | [1](https://drive.google.com/file/d/1NRaqwkMiXd5oYWaBnm2BfgpQR3rSvjaj/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 </details>
 </details>
 
