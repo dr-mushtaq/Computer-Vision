@@ -1,6 +1,6 @@
  ## **👁️ Welcome to the Computer Vision Compendium!👋🛒**
 <p align="center">
-<img src="https://github.com/hussain0048/Computer-Vision-/blob/main/Computer%20Vision.png"></a>
+<img src="https://github.com/hussain0048/Computer-Vision-/blob/main/CoursesTeach%20(2).png"></a>
 </p>
 
 
