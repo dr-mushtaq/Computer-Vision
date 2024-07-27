@@ -1,4 +1,6 @@
  ## **👁️ Welcome to the Computer Vision Compendium!👋🛒**
+<a href="https://app.commanddash.io/agent?github=https://github.com/hussain0048/Computer-Vision"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
+ 
 <p align="center">
 <img src="https://github.com/hussain0048/Computer-Vision-/blob/main/CoursesTeach%20(2).png"></a>
 </p>
