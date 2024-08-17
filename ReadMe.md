@@ -98,6 +98,11 @@ Star this repo if you find it useful ⭐
 | [**🌐10-Practicing with Linear Filters**](https://medium.com/@Coursesteach/computer-vision-part-33-practicing-with-linear-filters-db29d31a728b) | [1](https://drive.google.com/file/d/1EJMb8LFnTG87Po0LyjwhRDMD_G8BbDYy/view)[-2](https://drive.google.com/file/d/1m6GsASVUDYn8akRdejupOmLlmZ94A43i/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 | [**🌐11-Different Kinds of Noise**](https://medium.com/@Coursesteach/computer-vision-part-34-different-kinds-of-noise-2e300d9e4174) | [1](https://drive.google.com/file/d/15zd1sPvVWY8lQlZWGPn9C0NWds5yMpT9/view)[-2](https://drive.google.com/file/d/1FLtZNGhdQLzjF2O-ZQLJxRPBnykSXDJ6/view)[-3](https://drive.google.com/file/d/1qxLwu4jroEZa9FsfyN5CEYI3XoMeX5TJ/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 
+## 📚Chapter5: - **Filters as Templates**
+| Topic Name/Tutorial | Video | NoteBook |
+|---|---|---|
+| [**🌐1- Introduction**](https://medium.com/@Coursesteach/computer-vision-part-35-introduction-of-filters-as-templates-8a61c1b7a303) | [1](https://drive.google.com/file/d/1xun5nFgKESdTb2nrEQMP5ltjyt1EVpel/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
+
 </details>
 </details>
 
