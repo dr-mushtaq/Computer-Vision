@@ -31,6 +31,8 @@
 **Engage:** Join the discussion, ask questions, and share your experiences on our forums. Connect with fellow enthusiasts and expand your network.
 Learn and Grow: Embark on your journey through the world of computer vision, and let our repository serve as your trusted companion along the way.
 
+Also please subscribe to my [youtube channel!](https://www.youtube.com/@coursesteach-mv5si)
+
 🌟 Join us as we unravel the mysteries of computer vision, one algorithm at a time. Let's empower each other to push the boundaries of what's possible in this fascinating domain!
 
 Star this repo if you find it useful ⭐
