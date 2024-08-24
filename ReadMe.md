@@ -101,7 +101,7 @@ Star this repo if you find it useful ⭐
 ## 📚Chapter5: - **Filters as Templates**
 | Topic Name/Tutorial | Video | NoteBook |
 |---|---|---|
-| [**🌐1- Introduction of Filters as templates**](https://medium.com/@Coursesteach/computer-vision-part-35-introduction-of-filters-as-templates-8a61c1b7a303) | [1](https://drive.google.com/file/d/1xun5nFgKESdTb2nrEQMP5ltjyt1EVpel/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
+| [**🌐1- Introduction of Filters as templates and 1D correlation**](https://medium.com/@Coursesteach/computer-vision-part-35-introduction-of-filters-as-templates-8a61c1b7a303) | [1](https://drive.google.com/file/d/1xun5nFgKESdTb2nrEQMP5ltjyt1EVpel/view)[-2](https://drive.google.com/file/d/1qaivyaKMS_8abNeu8-ubaOPByDQ1DiVf/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 
 </details>
 </details>
