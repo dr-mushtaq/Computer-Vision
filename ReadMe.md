@@ -112,6 +112,7 @@ Star this repo if you find it useful ⭐
 |---|---|---|
 | [**🌐1- Introduction of Filters as templates, 1D correlation and 2D Correlations**](https://medium.com/@Coursesteach/computer-vision-part-35-introduction-of-filters-as-templates-8a61c1b7a303) | [1](https://drive.google.com/file/d/1xun5nFgKESdTb2nrEQMP5ltjyt1EVpel/view)[-2](https://drive.google.com/file/d/1qaivyaKMS_8abNeu8-ubaOPByDQ1DiVf/view) [-3](https://drive.google.com/file/d/1mYyHLY97o_Ha6yn_DjxXv5HuGn7Pdesw/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 | [**🌐2- Find Tempalte ID**](https://medium.com/@Coursesteach/computer-vision-part-36-find-template-1d-2fc954eca1f7) | [1](https://drive.google.com/file/d/1qzeQF-suulO4a9zMWEDWkPRIfPDiftVZ/view)[-2](https://drive.google.com/file/d/1IFjqWMAfOHAjsj0y33NWQQYG24nYokMy/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
+| [**🌐3- Template Matching**](https://medium.com/@Coursesteach/computer-vision-part-37-template-matching-848b423a84ad) | [1](https://drive.google.com/file/d/1SFFwv9u-ypL8GaYgo0BKQChRa2THKkmY/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 
 </details>
 </details>
