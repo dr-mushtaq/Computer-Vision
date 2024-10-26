@@ -114,6 +114,11 @@ Star this repo if you find it useful ⭐
 | [**🌐2- Find Tempalte ID**](https://medium.com/@Coursesteach/computer-vision-part-36-find-template-1d-2fc954eca1f7) | [1](https://drive.google.com/file/d/1qzeQF-suulO4a9zMWEDWkPRIfPDiftVZ/view)[-2](https://drive.google.com/file/d/1IFjqWMAfOHAjsj0y33NWQQYG24nYokMy/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 | [**🌐3- Template Matching**](https://medium.com/@Coursesteach/computer-vision-part-37-template-matching-848b423a84ad) | [1](https://drive.google.com/file/d/1SFFwv9u-ypL8GaYgo0BKQChRa2THKkmY/view)[-2](https://drive.google.com/file/d/1LlqdK1lCeXsjJGE84T8AS3vM59nLEOo6/view)[-3](https://drive.google.com/file/d/105OVSmotPZti1xwZqXGdlXwoaC-Rt2cr/view)[-4](https://drive.google.com/file/d/1dv1rIxwPC58qtz4OrML2tOXVow0eMuRD/view)[-5](https://drive.google.com/file/d/1WZi7cE3lvEAihNdqGF13rzFc8qg2xA5p/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 
+## 📚Chapter6: - **Edge detection: Gradients**
+| Topic Name/Tutorial | Video | NoteBook |
+|---|---|---|
+| [**🌐1- Pattern Finding and Feature Detection**](https://medium.com/@Coursesteach/computer-vision-part-38-exploring-computer-vision-pattern-finding-and-feature-detection-ebd3b8d81353) | [1](https://drive.google.com/file/d/1Pgj5ejwo2sPEgWRkfTgA1YK9xj8KprsD/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
+
 </details>
 </details>
 
