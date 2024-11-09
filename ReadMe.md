@@ -119,6 +119,7 @@ Star this repo if you find it useful ⭐
 |---|---|---|
 | [**🌐1- Pattern Finding and Feature Detection**](https://medium.com/@Coursesteach/computer-vision-part-38-exploring-computer-vision-pattern-finding-and-feature-detection-ebd3b8d81353) | [1](https://drive.google.com/file/d/1Pgj5ejwo2sPEgWRkfTgA1YK9xj8KprsD/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 | [**🌐2- Understanding Edges in Images: Why They Matter in Visual Perception**](https://medium.com/@Coursesteach/computer-vision-part-39-understanding-edges-in-images-why-they-matter-in-visual-perception-773ee3ece9a5) | [1](https://drive.google.com/file/d/1zE73_T53xLgqUxXo3nw3NqJJndKiJ_W_/view)[-2](https://drive.google.com/file/d/1YkOa4DCmOJqE7qO_DTAy60YklTxVv-nj/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
+| [**🌐3- Edge Detection**](https://medium.com/@Coursesteach/how-edge-detection-works-in-image-processing-step-by-step-explanation-computer-vision-part-40-49eecc06593a) | [1](https://drive.google.com/file/d/11_MgzHT5N-y_PaslRo27QvPAC1h5CNkf/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 
 </details>
 </details>
