@@ -130,6 +130,10 @@ Star this repo if you find it useful ⭐
 | [**🌐11-Gradients direction⭐️**](https://medium.com/@Coursesteach/computing-image-gradients-direction-matlab-python-techniques-for-edge-detection-595b0be8f471) | [1](https://drive.google.com/file/d/18iLgY1BeyTTjnaQbnxJzVvXm9w-JjTh0/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 | [**🌐12-But in the Real World⭐️**](https://medium.com/@Coursesteach/understanding-edge-detection-noise-and-derivatives-explained-computer-vision-p48-482bf2cfcd92) | [1](https://drive.google.com/file/d/1Ul0XDqYyzMWEpNgNIgRpZPXsnRsKLse-/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=whit)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 
+## 📚Chapter7: - **Edge detection: 2D operators**
+| Topic Name/Tutorial | Video | NoteBook |
+|---|---|---|
+| [**🌐1- Pattern Finding and Feature Detection**](https://medium.com/@Coursesteach/computer-vision-part-38-exploring-computer-vision-pattern-finding-and-feature-detection-ebd3b8d81353) | [1](https://drive.google.com/file/d/1Pgj5ejwo2sPEgWRkfTgA1YK9xj8KprsD/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 
 
 </details>
