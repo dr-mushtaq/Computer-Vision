@@ -133,7 +133,11 @@ Star this repo if you find it useful ⭐
 ## 📚Chapter7: - **Edge detection: 2D operators**
 | Topic Name/Tutorial | Video | NoteBook |
 |---|---|---|
-| [**🌐1- Pattern Finding and Feature Detection**](https://medium.com/@Coursesteach/computer-vision-part-38-exploring-computer-vision-pattern-finding-and-feature-detection-ebd3b8d81353) | [1](https://drive.google.com/file/d/1Pgj5ejwo2sPEgWRkfTgA1YK9xj8KprsD/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
+|**🌐1- Introduction**| [1](https://drive.google.com/file/d/1uEKYbYERARDFaPyf_B9USjmJ51O2FKUc/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
+|**🌐2-Derivative of Gaussian Filter 2D**| [1](https://drive.google.com/file/d/1YeogWHkDpvYkcgtT_FU-YU-B2lkt7Xsc/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
+|**🌐3- Effect of Sigma on Derivatives**| [1](https://drive.google.com/file/d/1P72PPQaVJ_AgpiR69saOriU7L1x4BwJU/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
+|**🌐4-Canny Edge Operator**| [1](https://drive.google.com/file/d/1vloOkCm0xaKojql0RXwZ9wjJ6FQwMo3f/viewJ_AgpiR69saOriU7L1x4BwJU/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
+
 
 
 </details>
