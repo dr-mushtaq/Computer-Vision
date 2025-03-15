@@ -146,10 +146,10 @@ Star this repo if you find it useful ⭐
 <summary> <h2>📕 Computer Vision Resources </h2> </summary>
 
 ## 👁️ Chapter1: - **Free Courses**
-| Title/link|Owner| Description | Reading Status | Feedback|
+| Title/link| Description | Reading Status |
 |---|---|---|
-|[**🌐1- Computer Science courses with video lectures**](https://github.com/Developer-Y/cs-video-courses?fbclid=IwZXh0bgNhZW0CMTAAAR2J9tEPD3kPegVzCWQ0WkBYSS6go_0G0PjRSaNojiOjDG85ccS45lZGyBE_aem_Ack4D65TusReJ6ybfh6ZIy9MXZ6ezPKugIzvqWZO2HtMW1C4Y38SpzlpjSzB4pr4-X4tFDusPKaI4SeieXZKMIcn)|---|It is Videos and github| Pending|---|
-|[**🌐2- Introduction of Computer Science**](https://www.udacity.com/enrollment/ud810)|Uadacity|It is free course and it contain notes and video| Inprogress|it is good but only on preprocessing|
+|[**🌐1- Computer Science courses with video lectures**](https://github.com/Developer-Y/cs-video-courses?fbclid=IwZXh0bgNhZW0CMTAAAR2J9tEPD3kPegVzCWQ0WkBYSS6go_0G0PjRSaNojiOjDG85ccS45lZGyBE_aem_Ack4D65TusReJ6ybfh6ZIy9MXZ6ezPKugIzvqWZO2HtMW1C4Y38SpzlpjSzB4pr4-X4tFDusPKaI4SeieXZKMIcn)|It is Videos and github| Pending|
+|[**🌐2- Introduction of Computer Science**](https://www.udacity.com/enrollment/ud810)|It is free course and it contain notes and video| Inprogress|
 ## 👁️ Chapter2: - **Important Website**
 | Title/link| Description | Code |
 |---|---|---|
