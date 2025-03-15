@@ -146,9 +146,9 @@ Star this repo if you find it useful ⭐
 <summary> <h2>📕 Computer Vision Resources </h2> </summary>
 
 ## 👁️ Chapter1: - **Free Courses**
-| Topic Name/Tutorial | Video | Code |
+| Title/link| Description | Code |
 |---|---|---|
-| [**🌐1- What is computer Vision**](https://medium.com/@Coursesteach/computer-vision-part-1-ff493a713887)[-Substack Link](https://substack.com/home/post/p-155666365?source=queue) | [1](https://drive.google.com/file/d/1Cb-Cz0dRwNZzAp5f2K5cVNNwBRo3hki4/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
+| [**🌐1- Computer Science courses with video lectures**](https://github.com/Developer-Y/cs-video-courses fbclid=IwZXh0bgNhZW0CMTAAAR2J9tEPD3kPegVzCWQ0WkBYSS6go_0G0PjRSaNojiOjDG85ccS45lZGyBE_aem_Ack4D65TusReJ6ybfh6ZIy9MXZ6ezPKugIzvqWZO2HtMW1C4Y38SpzlpjSzB4pr4-X4tFDusPKaI4SeieXZKMIcn)| It is Videos and github| [1](https://drive.google.com/file/d/1Cb-Cz0dRwNZzAp5f2K5cVNNwBRo3hki4/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 </details>
 
 ## 💻 Workflow:
