@@ -138,6 +138,8 @@ Star this repo if you find it useful ⭐
 |**🌐3- Effect of Sigma on Derivatives**| [1](https://drive.google.com/file/d/1P72PPQaVJ_AgpiR69saOriU7L1x4BwJU/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 |**🌐4-Canny Edge Operator P1 **| [1](https://drive.google.com/file/d/1vloOkCm0xaKojql0RXwZ9wjJ6FQwMo3f/viewJ_AgpiR69saOriU7L1x4BwJU/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 |**🌐5-Canny Edge Operator P2**| [1](https://drive.google.com/file/d/1Zt1FG7FZv1LwBY0o_28fonHCDvrA28ww/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
+|**🌐6- For Your Eyes Only Demo**| [1](https://drive.google.com/file/d/1k7Lz_g5lC1bVs27jpfRkxabLA_fUVSAd/view)[-2](https://drive.google.com/file/d/1dZPrgk7_DrMvgAKpYaDUFDdmokrF-9jE/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
+
 
 </details>
 </details>
