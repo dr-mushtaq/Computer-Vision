@@ -171,6 +171,7 @@ Star this repo if you find it useful ⭐
 | Title/link| Description | Status |
 |---|---|---|
 |[**🌐1- Computer Science courses with video lectures**](https://github.com/Developer-Y/cs-video-courses?fbclid=IwZXh0bgNhZW0CMTAAAR2J9tEPD3kPegVzCWQ0WkBYSS6go_0G0PjRSaNojiOjDG85ccS45lZGyBE_aem_Ack4D65TusReJ6ybfh6ZIy9MXZ6ezPKugIzvqWZO2HtMW1C4Y38SpzlpjSzB4pr4-X4tFDusPKaI4SeieXZKMIcn)|It is Videos and github| Pending|
+|[**🌐2-courses & resources**](https://github.com/SkalskiP/courses)|It is course of all AI domain| Pending|
 
 ## 👁️ Chapter1: - **Important Library and Packages**
 | Title/link| Description | Code |
