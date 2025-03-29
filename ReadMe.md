@@ -163,6 +163,7 @@ Star this repo if you find it useful ⭐
 | Title/link| Description | Code |
 |---|---|---|
 |[**✅1- Jeff Heaton**](https://www.youtube.com/@HeatonResearch/about)|It is Videos and github|---|
+|[**✅2- First Principles of Computer Vision**](https://www.youtube.com/@firstprinciplesofcomputerv3258/playlists)|It is Videos and github|---|
 
 ## 👁️ Chapter4: - **Free Books**
 | Title/link| Description | Code |
