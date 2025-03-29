@@ -162,7 +162,7 @@ Star this repo if you find it useful ⭐
 ## 👁️ Chapter3: - **Important Social medica Groups**
 | Title/link| Description | Code |
 |---|---|---|
-|[**🌐1- Computer Science courses with video lectures**]()|It is Videos and github|---|
+|[**✅1- Jeff Heaton**](https://www.youtube.com/@HeatonResearch/about)|It is Videos and github|---|
 
 ## 👁️ Chapter4: - **Free Books**
 | Title/link| Description | Code |
