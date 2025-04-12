@@ -59,7 +59,7 @@ Star this repo if you find it useful ⭐
 |[**✅2-Computer Vision Tasks and Applications**](https://medium.com/@Coursesteach/computer-vision-part-2-c0d0619cce0a)[-Substack Link](https://open.substack.com/pub/mushtaqmsit/p/computer-vision-tasks-and-applications?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)|[1](https://drive.google.com/file/d/1DCR-0UllT5J0GNHrTlklsHtF1OCskV0V/view)[-2](https://drive.google.com/file/d/1hDHQfd5h9Jiauk8olHG6Jft0AbOUh36n/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 |[**✅Best Free Resources to Computer Vision**](https://open.substack.com/pub/mushtaqmsit/p/top-10-free-resources-to-learn-computer?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)|---|---|
 
-## 📚Chapter2: - **Image As Function**
+## 🔹Chapter2: - **Image As Function**
 | Topic Name/Tutorial | Video| Notbook |
 |---|---|---|
 |[**✅1-Images as Functions Part 1?**](https://substack.com/home/post/p-156223376)|[**1**](https://drive.google.com/file/d/1c6plHK4Yqg_ch8QiNTtfGuSZSK0mt3lf/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
