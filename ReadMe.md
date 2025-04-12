@@ -22,11 +22,11 @@
 
 
 
-## **💡 💡 How to Get Involved in the Computer Vision Project?**
+## **💡 How to Get Involved in the Computer Vision Project?**
 
 🚀 **Fork & Star the Repo**:Show your support and stay updated — fork the repository and give it a ⭐ on GitHub!
 
-👩‍💻 **Dive Into Structured Lessons:**Start learning with well-organized, beginner-to-advanced tutorials curated to help you build real skills step by step.
+👩‍💻 **Dive Into Structured Lessons**: Start learning with well-organized, beginner-to-advanced tutorials curated to help you build real skills step by step.
 
 🛠️ **Contribute to Code & Content**:Enhance existing blogs, refine code, fix bugs, or write new tutorials on exciting computer vision topics.
 
@@ -37,8 +37,6 @@
 📌 **Share Your Knowledge**:Submit your own implementations, mini-projects, or useful resources like blogs, website, videos, GitHub repos, and research papers etc.
 
 Also please subscribe to my [youtube channel!](https://www.youtube.com/@coursesteach-mv5si)
-
-🌟 Join us as we unravel the mysteries of computer vision, one algorithm at a time. Let's empower each other to push the boundaries of what's possible in this fascinating domain!
 
 Star this repo if you find it useful ⭐
 
