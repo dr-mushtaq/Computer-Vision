@@ -172,7 +172,7 @@ Star this repo if you find it useful ⭐
 ## 👁️ Chapter4: - **Free Books**
 | Title/link| Description | Code |
 |---|---|---|
-|[**🌐1- Computer Science courses with video lectures**]()|It is Videos and github|---|
+|[**✅1- Foundations of Computer Vision**](https://visionbook.mit.edu/)|Antonio Torralba, Phillip Isola, and William Freeman|---|
 
 ## 👁️ Chapter5: - **Github Repository**
 | Title/link| Description | Status |
