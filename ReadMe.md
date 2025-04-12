@@ -130,7 +130,7 @@ Star this repo if you find it useful ⭐
 | [**🌐11-Gradients direction⭐️**](https://medium.com/@Coursesteach/computing-image-gradients-direction-matlab-python-techniques-for-edge-detection-595b0be8f471) | [1](https://drive.google.com/file/d/18iLgY1BeyTTjnaQbnxJzVvXm9w-JjTh0/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 | [**🌐12-But in the Real World⭐️**](https://medium.com/@Coursesteach/understanding-edge-detection-noise-and-derivatives-explained-computer-vision-p48-482bf2cfcd92) | [1](https://drive.google.com/file/d/1Ul0XDqYyzMWEpNgNIgRpZPXsnRsKLse-/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=whit)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 
-## 🔹Chapter7: - **Edge detection: 2D operators**
+##🔹Chapter7: - **Edge detection: 2D operators**
 | Topic Name/Tutorial | Video | NoteBook |
 |---|---|---|
 |**🌐1- Introduction**| [1](https://drive.google.com/file/d/1uEKYbYERARDFaPyf_B9USjmJ51O2FKUc/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
@@ -154,7 +154,7 @@ Star this repo if you find it useful ⭐
 <details> 
 <summary> <h2>📕 Computer Vision Resources </h2> </summary>
 
-## 🔹Chapter1: - **Free Courses**
+##🔹Chapter1: - **Free Courses**
 | Title/link| Description | Reading Status |
 |---|---|---|
 |[**✅1- Deep Learning for Computer Vision**](https://www.youtube.com/watch?v=0nqvO3AM2Vw&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=3?fbclid=IwZXh0bgNhZW0CMTAAAR2J9tEPD3kPegVzCWQ0WkBYSS6go_0G0PjRSaNojiOjDG85ccS45lZGyBE_aem_Ack4D65TusReJ6ybfh6ZIy9MXZ6ezPKugIzvqWZO2HtMW1C4Y38SpzlpjSzB4pr4-X4tFDusPKaI4SeieXZKMIcn)|by Michigan Online,Youtube| Pending|
@@ -164,7 +164,7 @@ Star this repo if you find it useful ⭐
 |---|---|---|
 |[**🌐1- Computer Science courses with video lectures**]()|It is Videos and github|---|
 
-## 🔹Chapter3: - **Important Social medica Groups**
+##🔹Chapter3: - **Important Social medica Groups**
 | Title/link| Description | Code |
 |---|---|---|
 |[**✅1- Jeff Heaton**](https://www.youtube.com/@HeatonResearch/about)|It is Videos and github|---|
@@ -175,7 +175,7 @@ Star this repo if you find it useful ⭐
 |---|---|---|
 |[**✅1- Foundations of Computer Vision**](https://visionbook.mit.edu/)|Antonio Torralba, Phillip Isola, and William Freeman|---|
 
-## 🔹Chapter5: - **Github Repository**
+##🔹Chapter5: - **Github Repository**
 | Title/link| Description | Status |
 |---|---|---|
 |[**✅1- Computer Science courses with video lectures**](https://github.com/Developer-Y/cs-video-courses?fbclid=IwZXh0bgNhZW0CMTAAAR2J9tEPD3kPegVzCWQ0WkBYSS6go_0G0PjRSaNojiOjDG85ccS45lZGyBE_aem_Ack4D65TusReJ6ybfh6ZIy9MXZ6ezPKugIzvqWZO2HtMW1C4Y38SpzlpjSzB4pr4-X4tFDusPKaI4SeieXZKMIcn)|It is Videos and github| Pending|
@@ -183,13 +183,13 @@ Star this repo if you find it useful ⭐
 |[**✅3-AIBauchi-Computer-Vision-Bootcamp**](https://github.com/AIBauchi/AIBauchi-Computer-Vision-Bootcamp/tree/main)|It is course of all AI domain| Inprogress|
 |[**✅4-Awesome Computer Vision**](https://github.com/jbhuang0604/awesome-computer-vision?tab=readme-ov-file#courses)|It is course of all AI domain| Inprogress|
 
-## 👁️ Chapter1: - **Important Library and Packages**
+##👁️ Chapter1: - **Important Library and Packages**
 | Title/link| Description | Code |
 |---|---|---|
 |[**🌐1- Computer Science courses with video lectures**]()|It is Videos and github|---|
 </details>
 
-## 💻 Workflow:
+##💻 Workflow:
 
 - Fork the repository
 
@@ -203,7 +203,7 @@ Star this repo if you find it useful ⭐
 
 > print("Start contributing for Computer Vision")
 >
-## ⚙️ Things to Note
+##⚙️ Things to Note
 
 * Anybody interested in learning and contributing to computer Vision repository
 * There are no hard prerequisites other than a dedication to learning
