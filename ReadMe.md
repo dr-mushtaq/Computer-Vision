@@ -142,7 +142,7 @@ Star this repo if you find it useful ⭐
 |**🌐7-Canny Results**| [1](https://drive.google.com/file/d/1kxQoYDEc7l6MiigXjjvjDJAYxCWGOJE5/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 |**🌐8-Single 2D Edge Detection Filter**| [1](https://drive.google.com/file/d/197iBxz3CNkGhSYUmCnCSlcqP7Q8osfUi/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 
-##🔹  Chapter8: - **L1 Hough transform: Lines**
+##  🔹Chapter8: - **L1 Hough transform: Lines**
 | Topic Name/Tutorial | Video | NoteBook |
 |---|---|---|
 |**🌐1- Introduction**| [1](https://drive.google.com/file/d/1ReFf1sLrgXGogfAEAX5uM0QZRv0MOEyH/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
