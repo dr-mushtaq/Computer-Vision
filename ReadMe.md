@@ -207,7 +207,7 @@ Star this repo if you find it useful ⭐
 
 > print("Start contributing for Computer Vision")
 >
-##⚙️ Things to Note
+##  ⚙️ Things to Note
 
 * Anybody interested in learning and contributing to computer Vision repository
 * There are no hard prerequisites other than a dedication to learning
