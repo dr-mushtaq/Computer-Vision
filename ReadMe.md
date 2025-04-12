@@ -26,12 +26,21 @@
 
 **3-Accessible to All:**  Whether you're a beginner or an expert, our repository caters to learners of all levels, offering something valuable for everyone.
 
-👥**Get Involved**:
+## **💡 How to Participate?**
 
-**Contribute:** Help us expand our repository by contributing your own implementations, insights, and optimizations. Together, we can build a richer resource for the entire computer vision community.
+🚀 Fork & Star this repository
 
-**Engage:** Join the discussion, ask questions, and share your experiences on our forums. Connect with fellow enthusiasts and expand your network.
-Learn and Grow: Embark on your journey through the world of computer vision, and let our repository serve as your trusted companion along the way.
+👩‍💻 Explore and Learn from structured lessons
+
+🔧 Enhance the current blog or code, or write a blog on a new topic
+
+🔧 Implement & Experiment with provided code
+
+🤝 Collaborate with fellow Computer Vision enthusiasts
+
+📌 Contribute your own implementations & projects
+
+📌 Share valuable blogs, videos, courses, GitHub repositories, and research websites
 
 Also please subscribe to my [youtube channel!](https://www.youtube.com/@coursesteach-mv5si)
 
