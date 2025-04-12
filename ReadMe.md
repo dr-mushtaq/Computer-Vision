@@ -146,6 +146,7 @@ Star this repo if you find it useful ⭐
 | Topic Name/Tutorial | Video | NoteBook |
 |---|---|---|
 |**🌐1- Introduction**| [1](https://drive.google.com/file/d/1ReFf1sLrgXGogfAEAX5uM0QZRv0MOEyH/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
+|**🌐2-Parametric Model**| [1](https://drive.google.com/file/d/1W4b4tFpzNz8z2Z8up5YqD6yBE3YWtguk/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 
 </details>
 </details>
