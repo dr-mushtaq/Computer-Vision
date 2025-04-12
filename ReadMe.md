@@ -80,7 +80,7 @@ Star this repo if you find it useful ⭐
 |[**🌐16-Apply Gaussian Noise⭐️**](https://medium.com/@Coursesteach/computer-vision-part-18-apply-gaussian-noise-4947cc2d129e)|[**1**](https://drive.google.com/file/d/17-X3uDm-_bKEZCLWrh6dzywgrd9Mc6pc/view)[-2](https://drive.google.com/file/d/1HdiI6F0MVJ3OB3VkTiMDreTA_mccXweC/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 |[**🌐17-Displaying Images in Matlab and Python⭐️**](https://medium.com/@Coursesteach/computer-vision-part-19-displaying-images-in-matlab-and-python-1e2df433fcf0)|[**1**](https://drive.google.com/file/d/1H06n5AKN-XKDAAPk2GRaloQdSnG8fTgq/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 
-## 📚Chapter3: - **Filtering**
+## 🔹Chapter3: - **Filtering**
 | Topic Name/Tutorial | Video | NoteBook |
 |---|---|---|
 | [**🌐1- What is Filtering?**](https://medium.com/@Coursesteach/computer-vision-part-20-introduction-to-filter-074e84e0b85b) | [1](https://drive.google.com/file/d/1Dw9Iw2B7ag8bF8uz6jp1RfwuIsf5Cgsj/view?usp=sharing) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
@@ -92,7 +92,7 @@ Star this repo if you find it useful ⭐
 | [**🌐7- Gaussian Filter with Matlab and Python?**](https://medium.com/@Coursesteach/computer-vision-part-26-gaussian-filter-with-matlab-and-python-672919cfb0c1) | [1](https://drive.google.com/file/d/1DY8UFbByrBrdbE4sdmcZa8G-kK3s3Q31/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 | [**🌐8- Remove Noise?(r)**](https://medium.com/@Coursesteach/computer-vision-part-27-remove-noise-001e6a7c838b) | [1](https://drive.google.com/file/d/1fzGcwjrWgzc57etIPUsnX_34LciTG1vs/view?usp=sharing)[-2](https://drive.google.com/file/d/1DgS_rRdmpJCckziIn1fRi6h_b0kLfTgj/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 
-## 📚Chapter4: - **Linearity and Convolution '**
+## 🔹Chapter4: - **Linearity and Convolution '**
 | Topic Name/Tutorial | Video | NoteBook |
 |---|---|---|
 | [**🌐1- Introduction of linear intuition of filtering**](https://medium.com/@Coursesteach/computer-vision-part-28-introduction-of-linear-intuition-of-filtering-83b4269f6019) | [1](https://drive.google.com/file/d/1NRaqwkMiXd5oYWaBnm2BfgpQR3rSvjaj/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
@@ -107,14 +107,14 @@ Star this repo if you find it useful ⭐
 | [**🌐10-Practicing with Linear Filters**](https://medium.com/@Coursesteach/computer-vision-part-33-practicing-with-linear-filters-db29d31a728b) | [1](https://drive.google.com/file/d/1EJMb8LFnTG87Po0LyjwhRDMD_G8BbDYy/view)[-2](https://drive.google.com/file/d/1m6GsASVUDYn8akRdejupOmLlmZ94A43i/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 | [**🌐11-Different Kinds of Noise**](https://medium.com/@Coursesteach/computer-vision-part-34-different-kinds-of-noise-2e300d9e4174) | [1](https://drive.google.com/file/d/15zd1sPvVWY8lQlZWGPn9C0NWds5yMpT9/view)[-2](https://drive.google.com/file/d/1FLtZNGhdQLzjF2O-ZQLJxRPBnykSXDJ6/view)[-3](https://drive.google.com/file/d/1qxLwu4jroEZa9FsfyN5CEYI3XoMeX5TJ/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 
-## 📚Chapter5: - **Filters as Templates**
+##🔹Chapter5: - **Filters as Templates**
 | Topic Name/Tutorial | Video | NoteBook |
 |---|---|---|
 | [**🌐1- Introduction of Filters as templates, 1D correlation and 2D Correlations**](https://medium.com/@Coursesteach/computer-vision-part-35-introduction-of-filters-as-templates-8a61c1b7a303) | [1](https://drive.google.com/file/d/1xun5nFgKESdTb2nrEQMP5ltjyt1EVpel/view)[-2](https://drive.google.com/file/d/1qaivyaKMS_8abNeu8-ubaOPByDQ1DiVf/view) [-3](https://drive.google.com/file/d/1mYyHLY97o_Ha6yn_DjxXv5HuGn7Pdesw/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 | [**🌐2- Find Tempalte ID**](https://medium.com/@Coursesteach/computer-vision-part-36-find-template-1d-2fc954eca1f7) | [1](https://drive.google.com/file/d/1qzeQF-suulO4a9zMWEDWkPRIfPDiftVZ/view)[-2](https://drive.google.com/file/d/1IFjqWMAfOHAjsj0y33NWQQYG24nYokMy/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 | [**🌐3- Template Matching⭐️**](https://medium.com/@Coursesteach/computer-vision-part-37-template-matching-848b423a84ad) | [1](https://drive.google.com/file/d/1SFFwv9u-ypL8GaYgo0BKQChRa2THKkmY/view)[-2](https://drive.google.com/file/d/1LlqdK1lCeXsjJGE84T8AS3vM59nLEOo6/view)[-3](https://drive.google.com/file/d/105OVSmotPZti1xwZqXGdlXwoaC-Rt2cr/view)[-4](https://drive.google.com/file/d/1dv1rIxwPC58qtz4OrML2tOXVow0eMuRD/view)[-5](https://drive.google.com/file/d/1WZi7cE3lvEAihNdqGF13rzFc8qg2xA5p/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 
-## 📚Chapter6: - **Edge detection: Gradients**
+##🔹Chapter6: - **Edge detection: Gradients**
 | Topic Name/Tutorial | Video | NoteBook |
 |---|---|---|
 | [**🌐1- Pattern Finding and Feature Detection**](https://medium.com/@Coursesteach/computer-vision-part-38-exploring-computer-vision-pattern-finding-and-feature-detection-ebd3b8d81353) | [1](https://drive.google.com/file/d/1Pgj5ejwo2sPEgWRkfTgA1YK9xj8KprsD/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
@@ -130,7 +130,7 @@ Star this repo if you find it useful ⭐
 | [**🌐11-Gradients direction⭐️**](https://medium.com/@Coursesteach/computing-image-gradients-direction-matlab-python-techniques-for-edge-detection-595b0be8f471) | [1](https://drive.google.com/file/d/18iLgY1BeyTTjnaQbnxJzVvXm9w-JjTh0/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 | [**🌐12-But in the Real World⭐️**](https://medium.com/@Coursesteach/understanding-edge-detection-noise-and-derivatives-explained-computer-vision-p48-482bf2cfcd92) | [1](https://drive.google.com/file/d/1Ul0XDqYyzMWEpNgNIgRpZPXsnRsKLse-/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=whit)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 
-## 📚Chapter7: - **Edge detection: 2D operators**
+## 🔹Chapter7: - **Edge detection: 2D operators**
 | Topic Name/Tutorial | Video | NoteBook |
 |---|---|---|
 |**🌐1- Introduction**| [1](https://drive.google.com/file/d/1uEKYbYERARDFaPyf_B9USjmJ51O2FKUc/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
@@ -142,7 +142,7 @@ Star this repo if you find it useful ⭐
 |**🌐7-Canny Results**| [1](https://drive.google.com/file/d/1kxQoYDEc7l6MiigXjjvjDJAYxCWGOJE5/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 |**🌐8-Single 2D Edge Detection Filter**| [1](https://drive.google.com/file/d/197iBxz3CNkGhSYUmCnCSlcqP7Q8osfUi/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 
-## 📚Chapter8: - **L1 Hough transform: Lines**
+##🔹Chapter8: - **L1 Hough transform: Lines**
 | Topic Name/Tutorial | Video | NoteBook |
 |---|---|---|
 |**🌐1- Introduction**| [1](https://drive.google.com/file/d/1ReFf1sLrgXGogfAEAX5uM0QZRv0MOEyH/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
@@ -154,28 +154,28 @@ Star this repo if you find it useful ⭐
 <details> 
 <summary> <h2>📕 Computer Vision Resources </h2> </summary>
 
-## 👁️ Chapter1: - **Free Courses**
+## 🔹Chapter1: - **Free Courses**
 | Title/link| Description | Reading Status |
 |---|---|---|
 |[**✅1- Deep Learning for Computer Vision**](https://www.youtube.com/watch?v=0nqvO3AM2Vw&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=3?fbclid=IwZXh0bgNhZW0CMTAAAR2J9tEPD3kPegVzCWQ0WkBYSS6go_0G0PjRSaNojiOjDG85ccS45lZGyBE_aem_Ack4D65TusReJ6ybfh6ZIy9MXZ6ezPKugIzvqWZO2HtMW1C4Y38SpzlpjSzB4pr4-X4tFDusPKaI4SeieXZKMIcn)|by Michigan Online,Youtube| Pending|
 |[**✅2- Introduction of Computer Science**](https://www.udacity.com/enrollment/ud810)|It is free course and it contain notes and video| Inprogress|
-## 👁️ Chapter2: - **Important Website**
+## 🔹Chapter2: - **Important Website**
 | Title/link| Description | Code |
 |---|---|---|
 |[**🌐1- Computer Science courses with video lectures**]()|It is Videos and github|---|
 
-## 👁️ Chapter3: - **Important Social medica Groups**
+## 🔹Chapter3: - **Important Social medica Groups**
 | Title/link| Description | Code |
 |---|---|---|
 |[**✅1- Jeff Heaton**](https://www.youtube.com/@HeatonResearch/about)|It is Videos and github|---|
 |[**✅2- First Principles of Computer Vision**](https://www.youtube.com/@firstprinciplesofcomputerv3258/playlists)|It is Videos and github|---|
 
-## 👁️ Chapter4: - **Free Books**
+## 🔹Chapter4: - **Free Books**
 | Title/link| Description | Code |
 |---|---|---|
 |[**✅1- Foundations of Computer Vision**](https://visionbook.mit.edu/)|Antonio Torralba, Phillip Isola, and William Freeman|---|
 
-## 👁️ Chapter5: - **Github Repository**
+## 🔹Chapter5: - **Github Repository**
 | Title/link| Description | Status |
 |---|---|---|
 |[**✅1- Computer Science courses with video lectures**](https://github.com/Developer-Y/cs-video-courses?fbclid=IwZXh0bgNhZW0CMTAAAR2J9tEPD3kPegVzCWQ0WkBYSS6go_0G0PjRSaNojiOjDG85ccS45lZGyBE_aem_Ack4D65TusReJ6ybfh6ZIy9MXZ6ezPKugIzvqWZO2HtMW1C4Y38SpzlpjSzB4pr4-X4tFDusPKaI4SeieXZKMIcn)|It is Videos and github| Pending|
