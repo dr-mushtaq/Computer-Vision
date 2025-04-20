@@ -204,6 +204,11 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | Title/link| Description | Code |
 |---|---|---|
 |[**🌐1- Computer Science courses with video lectures**]()|It is Videos and github|---|
+
+##  👁️ Chapter1: - **Importatant tutorial**
+| Title/link| Description | Status |
+|---|---|---|
+|[**✅1- Multimodal Data Analysis with Deep Learning**](https://rackenzik.com/multimodal-data-analysis-with-deep-learning/)|It is Videos and github|pending|
 </details>
 
 ##  💻 Workflow:
