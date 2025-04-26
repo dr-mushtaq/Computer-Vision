@@ -8,9 +8,9 @@
 </p>
 
 
-🚀 Explore the vast landscape of computer vision through our comprehensive repository, serving as your A-Z guide to this captivating field. Whether you're delving into image processing, object detection, or deep learning, you'll find a treasure trove of resources here to deepen your understanding and hone your skills.
+🚀 Explore the vast landscape of computer vision through our comprehensive repository, It include resource about deep learning for vision, image processing tutorials, OpenCV projects, YOLO object detection, CNN tutorials, vision transformers,  serving as your A-Z guide to this captivating field. Whether you're delving into image processing, object detection, or deep learning, you'll find a treasure trove of resources here to deepen your understanding and hone your skills.
 
-computer vision course, deep learning for vision, image processing tutorials, OpenCV projects, YOLO object detection, CNN tutorials, vision transformers, computer vision with Python, AI in image analysis, edge detection, computer vision GitHub repository, free computer vision resources
+computer vision course,  computer vision with Python, AI in image analysis, edge detection, computer vision GitHub repository, free computer vision resources
 
 
 ## 📚 Table of Contents
