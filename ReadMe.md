@@ -182,6 +182,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐1- Introduction**| [1](https://drive.google.com/file/d/1ReFf1sLrgXGogfAEAX5uM0QZRv0MOEyH/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 |**🌐2-Parametric Model**| [1](https://drive.google.com/file/d/1W4b4tFpzNz8z2Z8up5YqD6yBE3YWtguk/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 |**🌐3-Line Fitting**| [1](https://drive.google.com/file/d/17IRoXWMSjrmsPSFpNM5b2kjo22YJ3d6f/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
+|**🌐4-Voting**| [1](https://drive.google.com/file/d/1yiUtV5ElVaYzahr-qdJDlEjDIIppItG4/view)[-2](https://www.youtube.com/watch?v=6yVMpaIoxIU)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
+
 
 
 </details>
