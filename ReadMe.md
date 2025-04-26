@@ -86,7 +86,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 <details> 
 <summary> <h2>📕Beginner → Course 01 - 👁️ Introduction of Computer Vision </h2> </summary>
 
-## 👁️ Chapter1: - **Introduction**
+## 👁️ Chapter1: - **Foundations of Computer Vision**
 | Topic Name/Tutorial | Video | Code |
 |---|---|---|
 | [**✅1- What is computer Vision**](https://medium.com/@Coursesteach/computer-vision-part-1-ff493a713887)[-Substack Link](https://substack.com/home/post/p-155666365?source=queue) | [1](https://drive.google.com/file/d/1Cb-Cz0dRwNZzAp5f2K5cVNNwBRo3hki4/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
