@@ -12,6 +12,12 @@
 
 computer vision course,  computer vision with Python, AI in image analysis, edge detection, computer vision GitHub repository, free computer vision resources
 
+<!-- Social card for GitHub -->
+<meta property="og:image" content="https://raw.githubusercontent.com/hussain0048/Computer-Vision-/main/CoursesTeach%20(2).png">
+<meta property="og:title" content="Computer Vision Course - Learn with Code, Notebooks, and Projects">
+<meta property="og:description" content="An end-to-end guide to Computer Vision with Python, OpenCV, YOLO, and Deep Learning — curated for learners and contributors.">
+
+
 
 ## 📚 Table of Contents
 - [Introduction](#1-introduction)
