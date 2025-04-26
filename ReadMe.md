@@ -28,6 +28,8 @@
 
 4. 🤖 Cutting-Edge Tech Stack: Stay at the forefront with tools like CNNs, YOLO, OpenCV, Vision Transformers, and more — all integrated with AI-powered workflows.
 
+![GitHub stars](https://img.shields.io/github/stars/hussain0048/Computer-Vision)
+![GitHub forks](https://img.shields.io/github/forks/hussain0048/Computer-Vision)
 
 
 ## **💡 How to Get Involved in the Computer Vision Project?**
