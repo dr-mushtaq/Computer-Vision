@@ -84,7 +84,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 
 <details> 
-<summary> <h2>📕Course 01 - 👁️ Introduction of Computer Vision </h2> </summary>
+<summary> <h2>📕Beginner → Course 01 - 👁️ Introduction of Computer Vision </h2> </summary>
 
 ## 👁️ Chapter1: - **Introduction**
 | Topic Name/Tutorial | Video | Code |
