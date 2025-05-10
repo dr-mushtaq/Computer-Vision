@@ -184,6 +184,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐3-Line Fitting**| [1](https://drive.google.com/file/d/17IRoXWMSjrmsPSFpNM5b2kjo22YJ3d6f/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 |**🌐4-Voting**| [1](https://drive.google.com/file/d/1yiUtV5ElVaYzahr-qdJDlEjDIIppItG4/view)[-2](https://www.youtube.com/watch?v=6yVMpaIoxIU)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 |**🌐5-Hough Space**| [1](https://drive.google.com/file/d/18Oiw44jEOBDAQvgLqmf08UKitF5m849Y/view)[-2](https://www.youtube.com/watch?v=4zHbI-fFIlI)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
+|**🌐6-Polar Representation for Lines**| [1](https://drive.google.com/file/d/1Ch2hYB6vdrKa3yfHl3jDNour8hNGFoQu/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 
 
 </details>
