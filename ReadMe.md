@@ -7,17 +7,6 @@
 <img src="https://github.com/hussain0048/Computer-Vision-/blob/main/CoursesTeach%20(2).png"></a>
 </p>
 
-## 🛠️ We're Actively Looking for Contributors To:
-- Add new tutorials (Python, OpenCV, YOLO, etc.)
-- Convert lessons into interactive Colab notebooks
-- Fix broken links and typos
-- Translate lessons into other languages (e.g., Urdu, Spanish)
-- Add quizzes or solutions
-- improve the current blog
-- suggestion other important website ,repistory,youtube Channel etc
-- Create blog from next topic in our jounrney 
-- Suggest new topics or Video ,Course
-
 🚀 Explore the vast landscape of computer vision through our comprehensive repository, It include resource about deep learning for vision, image processing tutorials, OpenCV projects, YOLO object detection, CNN tutorials, vision transformers,  serving as your A-Z guide to this captivating field. Whether you're delving into image processing, object detection, or deep learning, you'll find a treasure trove of resources here to deepen your understanding and hone your skills.
 
 computer vision course,  computer vision with Python, AI in image analysis, edge detection, computer vision GitHub repository, free computer vision resources
@@ -26,8 +15,6 @@ computer vision course,  computer vision with Python, AI in image analysis, edge
 <meta property="og:image" content="https://raw.githubusercontent.com/hussain0048/Computer-Vision-/main/CoursesTeach%20(2).png">
 <meta property="og:title" content="Computer Vision Course - Learn with Code, Notebooks, and Projects">
 <meta property="og:description" content="An end-to-end guide to Computer Vision with Python, OpenCV, YOLO, and Deep Learning — curated for learners and contributors.">
-
-
 
 ## 📚 Table of Contents
 - [Introduction](#1-introduction)
@@ -66,6 +53,18 @@ computer vision course,  computer vision with Python, AI in image analysis, edge
 📌 **Share Your Knowledge**:Submit your own implementations, mini-projects, or useful resources like blogs, website, videos, GitHub repos, and research papers etc.
 
 Also please subscribe to my [youtube channel!](https://www.youtube.com/@coursesteach-mv5si)
+
+## 🛠️ We're Actively Looking for Contributors To:
+- Add new tutorials (Python, OpenCV, YOLO, etc.)
+- Convert lessons into interactive Colab notebooks
+- Fix broken links and typos
+- Translate lessons into other languages (e.g., Urdu, Spanish)
+- Add quizzes or solutions
+- improve the current blog
+- suggestion other important website ,repistory,youtube Channel etc
+- Create blog from next topic in our jounrney 
+- Suggest new topics or Video ,Course
+- Create Video from blog
 
 Star this repo if you find it useful ⭐
 
