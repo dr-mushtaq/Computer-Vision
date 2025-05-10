@@ -13,10 +13,10 @@
 - Fix broken links and typos
 - Translate lessons into other languages (e.g., Urdu, Spanish)
 - Add quizzes or solutions
-- Suggest new topics or research papers
-
-👉 Check our [Open Issues](https://github.com/your-repo/issues) and start contributing!
-
+- improve the current blog
+- suggestion other important website ,repistory,youtube Channel etc
+- Create blog from next topic in our jounrney 
+- Suggest new topics or Video ,Course
 
 🚀 Explore the vast landscape of computer vision through our comprehensive repository, It include resource about deep learning for vision, image processing tutorials, OpenCV projects, YOLO object detection, CNN tutorials, vision transformers,  serving as your A-Z guide to this captivating field. Whether you're delving into image processing, object detection, or deep learning, you'll find a treasure trove of resources here to deepen your understanding and hone your skills.
 
