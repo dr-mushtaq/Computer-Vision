@@ -214,7 +214,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 ##  🔹Chapter2: - **Important Website**
 | Title/link| Description | Code |
 |---|---|---|
-|[**🌐1- Computer Science courses with video lectures**]()|It is Videos and github|---|
+|[**✅1- Road Map**](https://coggle.it/diagram/ZO5EUOut86Irr5hc/t/computer-vision-roadmap/760d909a1f28af1782645ff9b5af1dfd4481ce08bf258b4b54f868d7f3a1b8d5)|Road Map on Coggle|---|
 
 ##  🔹Chapter3: - **Important Social medica Groups**
 | Title/link| Description | Code |
