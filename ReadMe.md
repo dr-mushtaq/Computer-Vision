@@ -234,6 +234,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅2-courses & resources**](https://github.com/SkalskiP/courses)|It is course of all AI domain| Pending|
 |[**✅3-AIBauchi-Computer-Vision-Bootcamp**](https://github.com/AIBauchi/AIBauchi-Computer-Vision-Bootcamp/tree/main)|It is course of all AI domain| Inprogress|
 |[**✅4-Awesome Computer Vision**](https://github.com/jbhuang0604/awesome-computer-vision?tab=readme-ov-file#courses)|It is course of all AI domain| Inprogress|
+|[**✅5-Community-led Computer Vision Community Course**](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome)|This is the repository for a community-led course on Computer Vision. Over 60 contributors from the Hugging Face| Inprogress|
 
 ##  👁️ Chapter1: - **Important Library and Packages**
 | Title/link| Description | Code |
