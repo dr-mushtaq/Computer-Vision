@@ -212,6 +212,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅1- Deep Learning for Computer Vision**](https://www.youtube.com/watch?v=0nqvO3AM2Vw&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=3?fbclid=IwZXh0bgNhZW0CMTAAAR2J9tEPD3kPegVzCWQ0WkBYSS6go_0G0PjRSaNojiOjDG85ccS45lZGyBE_aem_Ack4D65TusReJ6ybfh6ZIy9MXZ6ezPKugIzvqWZO2HtMW1C4Y38SpzlpjSzB4pr4-X4tFDusPKaI4SeieXZKMIcn)|by Michigan Online,Youtube| Pending|
 |[**✅2- Introduction of Computer Science**](https://www.udacity.com/enrollment/ud810)|It is free course and it contain notes and video| Inprogress|
 |[**✅3-Community Computer Vision Course**](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome)|It is free course huggingface and it contain notes and video| Pending|
+|[**✅4-Computer Vision Lane Detection Playlist**](https://www.youtube.com/watch?v=9CCs4stbwCo&list=PLCiTDJays9rWQkp_IuHOd15JXHyVaYQKE&index=1)|Highly recommend for anyone working on self-driving projects, OpenCV practice, or just learning how CV pipelines are structured in real-world scenarios.|
 ##  🔹Chapter2: - **Important Website**
 | Title/link| Description | Code |
 |---|---|---|
