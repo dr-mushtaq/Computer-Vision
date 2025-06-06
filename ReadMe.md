@@ -241,7 +241,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 ##  👁️ Chapter1: - **Important Library and Packages**
 | Title/link| Description | Code |
 |---|---|---|
-|[**🌐1- Computer Science courses with video lectures**]()|It is Videos and github|---|
+|[**✅1- RBOT (ROI-Based Object Tracking**]()| is an **alternative to YOLO for custom object tracking**. Unlike traditional deep learning models that require thousands of images per object, RBOT aims to learn from **50-100 samples** and track objects without relying on bounding box detection.|---|
 
 ##  👁️ Chapter1: - **Importatant tutorial**
 | Title/link| Description | Status |
