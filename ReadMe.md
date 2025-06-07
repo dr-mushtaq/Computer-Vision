@@ -240,9 +240,11 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅5-Community-led Computer Vision Community Course**](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome)|This is the repository for a community-led course on Computer Vision. Over 60 contributors from the Hugging Face| Inprogress|
 
 ##  👁️ Chapter1: - **Important Library and Packages**
-| Title/link| Description | Code |
+| Title/link| Description | Resources |
 |---|---|---|
 |[**✅1- RBOT (ROI-Based Object Tracking**]()| is an **alternative to YOLO for custom object tracking**. Unlike traditional deep learning models that require thousands of images per object, RBOT aims to learn from **50-100 samples** and track objects without relying on bounding box detection.|---|
+|[**✅2- skimage**]()| skimage, short for scikit-image, is an open-source Python library designed for image processing and computer vision..|---|
+
 
 ##  👁️ Chapter1: - **Importatant tutorial**
 | Title/link| Description | Status |
