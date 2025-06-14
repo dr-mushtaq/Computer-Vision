@@ -80,6 +80,8 @@ Star this repo if you find it useful ⭐
 
 🔗 [**Enbroll in Complate Computer Vision Course**](https://coursesteach.com/course/view.php?id=133)
 
+If link is not working then you need to create account in couresteach.com then you click on course
+
 
 📬 Need Help? Connect with us on [**WhatsApp**](https://chat.whatsapp.com/L9URPRThBEa7GFl0mlwggg)
 
