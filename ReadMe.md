@@ -78,18 +78,18 @@ Star this repo if you find it useful ⭐
 
 🔗 [**LinkedIn**](https://www.linkedin.com/company/90909828/admin/page-posts/published/)
 
+🔗 [**Enbroll in Complate Computer Vision Course**](https://coursesteach.com/course/view.php?id=133)
+
+
 📬 Need Help? Connect with us on [**WhatsApp**](https://chat.whatsapp.com/L9URPRThBEa7GFl0mlwggg)
 
 ## 📬 Stay Updated with Weekly Computer Vison Lessons!
 
 Never miss a tutorial! Get weekly insights, updates, and bonus content straight to your inbox.  
+
 **Join hundreds of Computer Vision learners on Substack.**
 
 👉 [**Subscribe to Our Computer Vision  Newsletter**](https://substack.com/@coursesteach) ✨
-
-💡 Optional Badge (to make it pop)
-
-[![Subscribe on Substack](https://img.shields.io/badge/Subscribe-Substack-orange?style=for-the-badge&logo=substack)](https://substack.com/@coursesteach)
 
 
 <details> 
