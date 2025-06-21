@@ -96,9 +96,10 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 <details> 
 <summary> <h2>📕Course Title - 👁️ Course Title: Basics of Computer Vision </h2> </summary>
+ 
 Subtitle: A Beginner-to-Advanced Journey Through the Eyes of Machines
 
-👥 Target Audience
+## 👥 Target Audience
 Beginners in AI/ML
 
 Undergraduate/graduate CS students
