@@ -66,6 +66,12 @@ Also please subscribe to my [youtube channel!](https://www.youtube.com/@coursest
 - Suggest new topics or Video ,Course
 - Create Video from blog
 
+## 🎓 **Enrolled Courses**
+
+Please enrolled in the following courses to strengthen knowledge and practical skills in Computer Vision. These courses are designed to provide both theoretical understanding and hands-on experience with real-world Computer Vision applications.
+
+🔗 [**Basic of Computer Vision**l](https://coursesteach.com/course/view.php?id=133)
+
 Star this repo if you find it useful ⭐
 
 ## **🌍 Join Our Community**
