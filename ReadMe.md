@@ -16,6 +16,10 @@ computer vision course,  computer vision with Python, AI in image analysis, edge
 <meta property="og:title" content="Computer Vision Course - Learn with Code, Notebooks, and Projects">
 <meta property="og:description" content="An end-to-end guide to Computer Vision with Python, OpenCV, YOLO, and Deep Learning — curated for learners and contributors.">
 
+# 👁️‍🗨️ Computer Vision with Python and OpenCV
+
+Learn Computer Vision from scratch with practical Python code examples, OpenCV tutorials, and real-world deep learning projects.
+
 ## 📚 Table of Contents
 - [Introduction](#1-introduction)
 - [Why Join This Course?](#why-join-this-course)
