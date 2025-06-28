@@ -1,4 +1,6 @@
- ## **👁️ Welcome to the Computer Vision Compendium!👋🛒**
+ ## **👁️ 👁️‍🗨️ Computer Vision with Python and OpenCV**
+ 
+ Learn Computer Vision from scratch with practical Python code examples, OpenCV tutorials, and real-world deep learning projects.
  
  ## <p style="font-family:JetBrains Mono; font-weight:normal; letter-spacing: 1px; color:#207d06; font-size:100%; text-align:left;padding: 0px; border-bottom: 3px solid #207d06;">**1-Introduction**</p>
 <a href="https://app.commanddash.io/agent?github=https://github.com/hussain0048/Computer-Vision"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
@@ -15,10 +17,6 @@ computer vision course,  computer vision with Python, AI in image analysis, edge
 <meta property="og:image" content="https://raw.githubusercontent.com/hussain0048/Computer-Vision-/main/CoursesTeach%20(2).png">
 <meta property="og:title" content="Computer Vision Course - Learn with Code, Notebooks, and Projects">
 <meta property="og:description" content="An end-to-end guide to Computer Vision with Python, OpenCV, YOLO, and Deep Learning — curated for learners and contributors.">
-
-# 👁️‍🗨️ Computer Vision with Python and OpenCV
-
-Learn Computer Vision from scratch with practical Python code examples, OpenCV tutorials, and real-world deep learning projects.
 
 ## 📚 Table of Contents
 - [Introduction](#1-introduction)
