@@ -118,11 +118,11 @@ Hobbyists or developers interested in image processing
 
 
 ## 👁️ Chapter1: - **Foundations of Computer Vision**
-| Topic Name/Tutorial | Video | Code |
-|---|---|---|
+| Topic Name/Tutorial | Video | Code | Note|
+|---|---|---|---|
 | [**✅1- What is computer Vision**](https://medium.com/@Coursesteach/computer-vision-part-1-ff493a713887)[-Substack Link](https://substack.com/home/post/p-155666365?source=queue) | [1](https://drive.google.com/file/d/1Cb-Cz0dRwNZzAp5f2K5cVNNwBRo3hki4/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 |[**✅2-Computer Vision Tasks and Applications**](https://mushtaqmsit.substack.com/p/computer-vision-tasks-and-applications?r=f2squ&utm_campaign=post&utm_medium=web&triedRedirect=true)|[1](https://drive.google.com/file/d/1DCR-0UllT5J0GNHrTlklsHtF1OCskV0V/view)[-2](https://drive.google.com/file/d/1hDHQfd5h9Jiauk8olHG6Jft0AbOUh36n/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
-|[**✅Best Free Resources to Computer Vision**](https://open.substack.com/pub/mushtaqmsit/p/top-10-free-resources-to-learn-computer?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)|---|---|
+|[**✅Best Free Resources to Computer Vision**](https://open.substack.com/pub/mushtaqmsit/p/top-10-free-resources-to-learn-computer?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)|---|---|[Link](https://coursesteach.com/mod/page/view.php?id=10400&forceview=1)
 
 ## 🔹Chapter2: - **Image As Function**
 | Topic Name/Tutorial | Video| Notbook |
