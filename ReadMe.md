@@ -88,6 +88,8 @@ Star this repo if you find it useful ⭐
 
 🔗 [**Enbroll in Complate Computer Vision Course**](https://coursesteach.com/course/view.php?id=133)
 
+🔗 [**How to Design Course page**](https://stanford-cs336.github.io/spring2025/)
+
 If link is not working then you need to create account in couresteach.com then you click on course
 
 
