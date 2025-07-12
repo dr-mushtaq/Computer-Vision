@@ -231,9 +231,12 @@ Hobbyists or developers interested in image processing
 |**🌐🧪 Mini Real-Life Project: Detecting Road Lane Markings in Real Images Using the Hough Transform**|-- |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 
 ##  🔹Chapter9: - **L2 Hough transform: Circles**
-| Topic Name/Tutorial | Video | NoteBook |
-|---|---|---|
+| Topic Name/Tutorial | Video | NoteBook |Note|
+|---|---|---|---|
 |**🌐1-Understanding Hough Transform for Circle**| [1](https://drive.google.com/file/d/1TkLSkRGvsOY4-a-O5TRFIuR-wd0yNJrG/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
+|**🌐2-Detecting Circles with Hough**| [1](https://drive.google.com/file/d/1QHWTIb3201ImNOAKk9dP0JAIlL0Y3sgH/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Link](https://coursesteach.com/mod/page/view.php?id=7596&forceview=1)|
+
+
 
 
 
