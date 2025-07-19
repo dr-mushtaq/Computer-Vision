@@ -271,6 +271,11 @@ Hobbyists or developers interested in image processing
 |---|---|---|
 |[**✅1- Foundations of Computer Vision**](https://visionbook.mit.edu/)|Antonio Torralba, Phillip Isola, and William Freeman|---|
 
+## 🔹Chapter4: - **Colab Notebooks**
+| Title/link| Description | Code |
+|---|---|---|
+|[**✅1- Top Computer Vision Google Colab Notebooks**](https://www.qblocks.cloud/creators/computer-vision-google-colab-notebooks)|Here is a list of the top google colab notebooks that use computer vision to solve a complex problem such as object detection, classification etc:|---|
+
 ##  🔹Chapter5: - **Github Repository**
 | Title/link| Description | Status |
 |---|---|---|
