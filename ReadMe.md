@@ -236,6 +236,7 @@ Hobbyists or developers interested in image processing
 |**🌐1-Understanding Hough Transform for Circle**| [1](https://drive.google.com/file/d/1TkLSkRGvsOY4-a-O5TRFIuR-wd0yNJrG/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 |**🌐2-Detecting Circles with Hough**| [1](https://drive.google.com/file/d/1QHWTIb3201ImNOAKk9dP0JAIlL0Y3sgH/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Link](https://coursesteach.com/mod/page/view.php?id=7596&forceview=1)|
 |**🌐3-Hough Transform for Circles**| [1](https://drive.google.com/file/d/1P-E7dQ6rxepvIfRDOyceigwnQJXOrn8U/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Link](https://coursesteach.com/mod/page/view.php?id=7596&forceview=1)|
+|**🌐4-Algorithm for Circles**| [1](https://drive.google.com/file/d/14bNPWmNqgAzIlzMG2kskUQvS4BSg6UGQ/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Link](https://coursesteach.com/mod/page/view.php?id=7826&forceview=1)|
 
 
 
