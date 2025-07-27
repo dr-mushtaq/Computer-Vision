@@ -272,6 +272,11 @@ Hobbyists or developers interested in image processing
 |---|---|---|
 |[**✅1- Foundations of Computer Vision**](https://visionbook.mit.edu/)|Antonio Torralba, Phillip Isola, and William Freeman|---|
 
+## 🔹Chapter4: - **List of Computer Vision Model**
+| Title/link| Description | Extra Reading |
+|---|---|---|
+|[**✅1- TinyVision**](https://github.com/SaptakBhoumik/TinyVision)|inyVision: Compact Vision Models with Minimal Parameters|[1](https://zenodo.org/records/16467349)|
+
 ## 🔹Chapter4: - **Colab Notebooks**
 | Title/link| Description | Code |
 |---|---|---|
