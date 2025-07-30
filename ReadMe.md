@@ -271,6 +271,8 @@ Hobbyists or developers interested in image processing
 | Title/link| Description | Code |
 |---|---|---|
 |[**✅1- Foundations of Computer Vision**](https://visionbook.mit.edu/)|Antonio Torralba, Phillip Isola, and William Freeman|---|
+|[**✅2- Computer Vision: Algorithms and Applications, 2nd ed**](https://szeliski.org/Book/)|© 2022 Richard Szeliski, The University of Washington|---|
+
 
 ## 🔹Chapter4: - **List of Computer Vision Model**
 | Title/link| Description | Extra Reading |
