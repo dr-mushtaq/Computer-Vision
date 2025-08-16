@@ -80,7 +80,7 @@ Star this repo if you find it useful ⭐
 
 🔗 [**YouTube Channe**l](https://www.youtube.com/@coursesteach-mv5si/videos)
 
-🔗 [**SubStack Blogs**](https://substack.com/@coursesteach)
+🔗 [**Bloger Blogs**](https://coursesteach.blogspot.com/2025/08/top-computer-vision-tasks-and-real.html)
 
 🔗 [**Facebook**](https://www.facebook.com/CourseTeach)
 
@@ -354,6 +354,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
