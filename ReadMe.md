@@ -239,6 +239,8 @@ Hobbyists or developers interested in image processing
 |**🌐4-Algorithm for Circles**| [1](https://drive.google.com/file/d/14bNPWmNqgAzIlzMG2kskUQvS4BSg6UGQ/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Link](https://coursesteach.com/mod/page/view.php?id=7826&forceview=1)|🟧 Intermediate|
 |**🌐5-Voting Practical Tips**| [1](https://drive.google.com/file/d/1Dq1nHd_-swDIBz7BvTETfi1SIupPow8k/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Link](https://coursesteach.com/mod/page/view.php?id=7827&forceview=1)|🟧 Intermediate|
 |**🌐6-Pros and Cons**| [1](https://drive.google.com/file/d/1a6BYRg2SZO8kGo4XREbW_M0CgZ6GzpR9/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Link](https://coursesteach.com/mod/page/view.php?id=7828&forceview=1)|🟧 Intermediate|
+|**🌐Minin Projects-🎯 Real-Life Example: Detecting Road Traffic Signs (Circular Signs)**|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Link](https://coursesteach.com/mod/page/view.php?id=7828&forceview=1)|🟧 Intermediate|
+
 
 ##  🔹Chapter10: - **L3 Generalized Hough transform**
 | Topic Name/Tutorial | Video | NoteBook |Note|Difficulty levels|
@@ -352,6 +354,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
