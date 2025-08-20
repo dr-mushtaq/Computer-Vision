@@ -311,7 +311,7 @@ Hobbyists or developers interested in image processing
 |[**✅2- skimage**]()| skimage, short for scikit-image, is an open-source Python library designed for image processing and computer vision..|---|
 |[**✅3- OpenCV**](https://github.com/opencv/opencv)| Core library for image/video processing and basic CV tasks..|---|
 |[**✅4- Ultralytics YOLO**](https://github.com/ultralytics/ultralytics)| State-of-the-art object detection and segmentation models|---|
-|[**✅5- Detectron2**]([https://github.com/opencv/opencv](https://github.com/facebookresearch/detectron2))| Facebook AI's framework for object detection and segmentation|---|
+|[**✅5- Detectron2**]([https://github.com/opencv/opencv](https://github.com/facebookresearch/detectron2)| Facebook AI's framework for object detection and segmentation|---|
 
 
 
@@ -362,6 +362,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
