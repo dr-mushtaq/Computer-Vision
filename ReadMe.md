@@ -13,6 +13,10 @@
 
 computer vision course,  computer vision with Python, AI in image analysis, edge detection, computer vision GitHub repository, free computer vision resources
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9A%20Diagram/1755137645005.gif "></a>
+</p>
+
 <!-- Social card for GitHub -->
 <meta property="og:image" content="https://raw.githubusercontent.com/hussain0048/Computer-Vision-/main/CoursesTeach%20(2).png">
 <meta property="og:title" content="Computer Vision Course - Learn with Code, Notebooks, and Projects">
@@ -354,6 +358,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!ðŸš
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
