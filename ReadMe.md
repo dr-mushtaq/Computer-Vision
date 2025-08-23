@@ -255,8 +255,13 @@ Hobbyists or developers interested in image processing
 </details>
 </details>
 
+<details>
+ 
 <details> 
-<summary> <h2>📕 Computer Vision Resources </h2> </summary>
+<summary> <h2>📕Course Title - 📊 Core Computer Vision Algorithms </h2> </summary>
+
+</details>
+ <summary> <h2>📕 Computer Vision Resources </h2> </summary>
 
 ##  🔹Chapter1: - **Free Courses**
 | Title/link| Description | Reading Status |
@@ -362,6 +367,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
