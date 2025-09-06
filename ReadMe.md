@@ -285,11 +285,11 @@ Hobbyists or developers interested in image processing
 |[**✅3- Foundations of Computer Vision**](https://visionbook.mit.edu/)|Antonio Torralba, Phillip Isola, and William Freeman|---|
 
 
-
 ## 🔹Chapter4: - **List of Computer Vision Model**
 | Title/link| Description | Extra Reading |
 |---|---|---|
 |[**✅1- TinyVision**](https://github.com/SaptakBhoumik/TinyVision)|inyVision: Compact Vision Models with Minimal Parameters|[1](https://zenodo.org/records/16467349)|
+|[**✅2- ALEX NET**]()| is an **Deep learning model for image classification**. Unlike traditional deep learning models that require thousands of images per object, RBOT aims to learn from **50-100 samples** and track objects without relying on bounding box detection.|---|
 
 ## 🔹Chapter4: - **Colab Notebooks**
 | Title/link| Description | Code |
@@ -314,12 +314,6 @@ Understanding all the tools, frameworks, architectures, and ecosystems around NL
 |[**✅3- OpenCV**](https://github.com/opencv/opencv)| Core library for image/video processing and basic CV tasks..|---|
 |[**✅4- Ultralytics YOLO**](https://github.com/ultralytics/ultralytics)| State-of-the-art object detection and segmentation models|---|
 |[**✅5- Detectron2**](https://github.com/opencv/opencv](https://github.com/facebookresearch/detectron2)| Facebook AI's framework for object detection and segmentation|---|
-
-##  👁️ Chapter1: - **🔍 Computer Models **
-Understanding all machine learning Model and Deep Learning models, architectures, and ecosystems around Computer Vision can sometimes feel harder than understanding Computer Vision itself. Below are the ones I’ve explored and used enough to feel confident recommending. Of course, these won’t solve every use case, and I’m not listing every supporting technology you might need to build real-world AI systems, but it’s a start.
-| Tool| Description | Resources |
-|---|---|---|
-|[**✅1- ALEX NET**]()| is an **Deep learning model for image classification**. Unlike traditional deep learning models that require thousands of images per object, RBOT aims to learn from **50-100 samples** and track objects without relying on bounding box detection.|---|
 
 ##  👁️ Chapter1: - **Importatant tutorial**
 | Title/link| Description | Status |
@@ -368,6 +362,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
