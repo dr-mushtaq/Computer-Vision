@@ -295,7 +295,6 @@ Hobbyists or developers interested in image processing
 | **3D & Video Models** | PointNet, NeRF 🔵, 3D CNNs | 3D object recognition, volumetric data & video understanding |
 
 ---
-
 **Legend:**  
 - 🔴 Transformer-based  
 - 🔵 Introduced after 2020
@@ -315,15 +314,28 @@ Hobbyists or developers interested in image processing
 |[**✅4-Awesome Computer Vision**](https://github.com/jbhuang0604/awesome-computer-vision?tab=readme-ov-file#courses)|It is course of all AI domain| Inprogress|
 |[**✅5-Community-led Computer Vision Community Course**](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome)|This is the repository for a community-led course on Computer Vision. Over 60 contributors from the Hugging Face| Inprogress|
 
-##  👁️ Chapter1: - **🔍 Tools, Frameworks & Platforms**
-Understanding all the tools, frameworks, architectures, and ecosystems around NLP can sometimes feel harder than understanding Computer Vision itself. Below are the ones I’ve explored and used enough to feel confident recommending. Of course, these won’t solve every use case, and I’m not listing every supporting technology you might need to build real-world AI systems, but it’s a start.
-| Tool| Description | Resources |
+## 👁️ Chapter 1: - **🔍 Tools, Frameworks & Platforms**
+
+Understanding all the tools, frameworks, architectures, and ecosystems around Computer Vision can sometimes feel harder than understanding the models themselves.  
+Below are the ones I’ve explored and used enough to feel confident recommending.  
+Of course, these won’t solve every use case, and I’m not listing every supporting technology you might need to build real-world AI systems, but it’s a solid starting point.
+
+| Tool / Framework | Description | Resources |
 |---|---|---|
-|[**✅1- RBOT (ROI-Based Object Tracking**]()| is an **alternative to YOLO for custom object tracking**. Unlike traditional deep learning models that require thousands of images per object, RBOT aims to learn from **50-100 samples** and track objects without relying on bounding box detection.|---|
-|[**✅2- skimage**]()| skimage, short for scikit-image, is an open-source Python library designed for image processing and computer vision..|---|
-|[**✅3- OpenCV**](https://github.com/opencv/opencv)| Core library for image/video processing and basic CV tasks..|---|
-|[**✅4- Ultralytics YOLO**](https://github.com/ultralytics/ultralytics)| State-of-the-art object detection and segmentation models|---|
-|[**✅5- Detectron2**](https://github.com/opencv/opencv](https://github.com/facebookresearch/detectron2)| Facebook AI's framework for object detection and segmentation|---|
+| [**✅1- RBOT (ROI-Based Object Tracking)**]() | An **alternative to YOLO for custom object tracking**. Unlike traditional deep learning models that require thousands of images per object, RBOT aims to learn from **50–100 samples** and track objects without bounding box detection. | --- |
+| [**✅2- skimage (scikit-image)**](https://scikit-image.org/) | Open-source Python library for **image processing and computer vision**, built on NumPy/SciPy. | [Docs](https://scikit-image.org/docs/stable/) |
+| [**✅3- OpenCV**](https://github.com/opencv/opencv) | The most widely used library for **image/video processing**, feature extraction, filtering, and classical CV tasks. | [Docs](https://docs.opencv.org/) |
+| [**✅4- Ultralytics YOLO**](https://github.com/ultralytics/ultralytics) | State-of-the-art **object detection and segmentation framework**, supporting YOLOv5–YOLOv8. | [Docs](https://docs.ultralytics.com/) |
+| [**✅5- Detectron2**](https://github.com/facebookresearch/detectron2) | Facebook AI’s **modular framework for object detection, segmentation, and keypoint detection**. | [Docs](https://detectron2.readthedocs.io/) |
+| [**✅6- TensorFlow**](https://www.tensorflow.org/) | Google’s end-to-end **machine learning and deep learning framework** with strong support for production and deployment. | [Docs](https://www.tensorflow.org/learn) |
+| [**✅7- PyTorch**](https://pytorch.org/) | Widely used **deep learning framework** from Meta, popular in research and CV applications due to its flexibility and ease of use. | [Docs](https://pytorch.org/tutorials/) |
+| [**✅8- Keras**](https://keras.io/) | High-level API for **building and training neural networks** quickly, running on top of TensorFlow. | [Docs](https://keras.io/getting_started/) |
+| [**✅9- FastAI**](https://github.com/fastai/fastai) | PyTorch-based library for **rapid prototyping of CV and NLP models**, with high-level abstractions. | [Docs](https://docs.fast.ai/) |
+| [**✅10- MMDetection**](https://github.com/open-mmlab/mmdetection) | OpenMMLab’s **powerful toolbox for object detection and instance segmentation**, supporting hundreds of models. | [Docs](https://mmdetection.readthedocs.io/) |
+| [**✅11- MONAI**](https://monai.io/) | PyTorch-based **framework for medical imaging**, specialized for segmentation, classification, and 3D imaging. | [Docs](https://docs.monai.io/) |
+| [**✅12- Albumentations**](https://albumentations.ai/) | Fast and flexible library for **image augmentations**, widely used in CV pipelines. | [Docs](https://albumentations.ai/docs/) |
+| [**✅13- DVC (Data Version Control)**](https://dvc.org/) | A tool for **versioning datasets and ML experiments**, ensuring reproducibility in CV research. | [Docs](https://dvc.org/doc) |
+
 
 ##  👁️ Chapter1: - **Importatant tutorial**
 | Title/link| Description | Status |
@@ -372,6 +384,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
