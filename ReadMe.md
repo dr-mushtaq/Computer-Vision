@@ -286,10 +286,20 @@ Hobbyists or developers interested in image processing
 
 
 ## 🔹Chapter4: - **List of Computer Vision Model**
-| Title/link| Description | Extra Reading |
+| Category | Models | Notes |
 |---|---|---|
-|[**✅1- TinyVision**](https://github.com/SaptakBhoumik/TinyVision)|inyVision: Compact Vision Models with Minimal Parameters|[1](https://zenodo.org/records/16467349)|
-|[**✅2- ALEX NET**]()| is an **Deep learning model for image classification**. Unlike traditional deep learning models that require thousands of images per object, RBOT aims to learn from **50-100 samples** and track objects without relying on bounding box detection.|---|
+| **Classification** | AlexNet, VGG, ResNet, DenseNet, EfficientNet, ViT 🔴🔵, Swin Transformer 🔴🔵, ConvNeXt 🔵 | Image classification (CNNs and Transformers) |
+| **Object Detection** | R-CNN, Fast R-CNN, Faster R-CNN, YOLO, SSD, RetinaNet, DETR 🔴🔵, Mask R-CNN | Detects objects with bounding boxes or masks |
+| **Segmentation** | FCN, U-Net, DeepLab, PSPNet, SegFormer 🔴🔵, SAM 🔴🔵 | Pixel-level understanding of images |
+| **Generative Models** | Autoencoders, VAE, GAN, DCGAN, CycleGAN, StyleGAN, BigGAN, Diffusion Models (DDPM 🔵), DALL·E 🔴🔵, Stable Diffusion 🔵 | Image synthesis & generation |
+| **3D & Video Models** | PointNet, NeRF 🔵, 3D CNNs | 3D object recognition, volumetric data & video understanding |
+
+---
+
+**Legend:**  
+- 🔴 Transformer-based  
+- 🔵 Introduced after 2020
+
 
 ## 🔹Chapter4: - **Colab Notebooks**
 | Title/link| Description | Code |
@@ -362,6 +372,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
