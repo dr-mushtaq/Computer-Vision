@@ -305,7 +305,8 @@ Hobbyists or developers interested in image processing
 |[**✅4-Awesome Computer Vision**](https://github.com/jbhuang0604/awesome-computer-vision?tab=readme-ov-file#courses)|It is course of all AI domain| Inprogress|
 |[**✅5-Community-led Computer Vision Community Course**](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome)|This is the repository for a community-led course on Computer Vision. Over 60 contributors from the Hugging Face| Inprogress|
 
-##  👁️ Chapter1: - **Important Library and Packages**
+##  👁️ Chapter1: - **🔍 Tools, Frameworks & Platforms**
+Understanding all the tools, frameworks, architectures, and ecosystems around NLP can sometimes feel harder than understanding Computer Vision itself. Below are the ones I’ve explored and used enough to feel confident recommending. Of course, these won’t solve every use case, and I’m not listing every supporting technology you might need to build real-world AI systems, but it’s a start.
 | Tool| Description | Resources |
 |---|---|---|
 |[**✅1- RBOT (ROI-Based Object Tracking**]()| is an **alternative to YOLO for custom object tracking**. Unlike traditional deep learning models that require thousands of images per object, RBOT aims to learn from **50-100 samples** and track objects without relying on bounding box detection.|---|
@@ -314,7 +315,11 @@ Hobbyists or developers interested in image processing
 |[**✅4- Ultralytics YOLO**](https://github.com/ultralytics/ultralytics)| State-of-the-art object detection and segmentation models|---|
 |[**✅5- Detectron2**](https://github.com/opencv/opencv](https://github.com/facebookresearch/detectron2)| Facebook AI's framework for object detection and segmentation|---|
 
-
+##  👁️ Chapter1: - **🔍 Computer Models **
+Understanding all machine learning Model and Deep Learning models, architectures, and ecosystems around Computer Vision can sometimes feel harder than understanding Computer Vision itself. Below are the ones I’ve explored and used enough to feel confident recommending. Of course, these won’t solve every use case, and I’m not listing every supporting technology you might need to build real-world AI systems, but it’s a start.
+| Tool| Description | Resources |
+|---|---|---|
+|[**✅1- ALEX NET**]()| is an **Deep learning model for image classification**. Unlike traditional deep learning models that require thousands of images per object, RBOT aims to learn from **50-100 samples** and track objects without relying on bounding box detection.|---|
 
 ##  👁️ Chapter1: - **Importatant tutorial**
 | Title/link| Description | Status |
@@ -363,6 +368,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
