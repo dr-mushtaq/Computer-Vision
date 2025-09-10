@@ -266,6 +266,8 @@ Hobbyists or developers interested in image processing
 |[**✅2- Introduction of Computer Science**](https://www.udacity.com/enrollment/ud810)|It is free course and it contain notes and video| Inprogress|
 |[**✅3-Community Computer Vision Course**](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome)|It is free course huggingface and it contain notes and video| Pending|
 |[**✅4-Computer Vision Lane Detection Playlist**](https://www.youtube.com/watch?v=9CCs4stbwCo&list=PLCiTDJays9rWQkp_IuHOd15JXHyVaYQKE&index=1)|Highly recommend for anyone working on self-driving projects, OpenCV practice, or just learning how CV pipelines are structured in real-world scenarios.|
+|[**✅4-Stanford CS231N Deep Learning for computer Vsion**](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16)|Highly recommend for anyone working on self-driving projects, OpenCV practice, or just learning how CV pipelines are structured in real-world scenarios.|
+v
 ##  🔹Chapter2: - **Important Website**
 | Title/link| Description | Code |
 |---|---|---|
@@ -384,6 +386,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
