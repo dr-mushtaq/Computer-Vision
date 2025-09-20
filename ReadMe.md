@@ -307,6 +307,7 @@ v
 | Title/link| Description | Code |
 |---|---|---|
 |[**✅1- Top Computer Vision Google Colab Notebooks**](https://www.qblocks.cloud/creators/computer-vision-google-colab-notebooks)|Here is a list of the top google colab notebooks that use computer vision to solve a complex problem such as object detection, classification etc:|---|
+|[**✅2-roboflow/Notebooks**](https://github.com/roboflow/notebooks)|This repository offers a growing collection of computer vision tutorials. Learn to use SOTA models like YOLOv11, SAM 2, Florence-2, PaliGemma 2, and Qwen2.5-VL for tasks ranging from object detection, segmentation|---|
 
 ##  🔹Chapter5: - **Github Repository**
 | Title/link| Description | Status |
@@ -387,6 +388,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
