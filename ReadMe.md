@@ -30,7 +30,7 @@ computer vision course,  computer vision with Python, AI in image analysis, edge
 - [Computer Vision Resources](#computer-vision-resources)
 
 
- ## **🎯 Why Join This Course?**
+ ## **Why Join This Course?**
  
 1.  📸 End-to-End Learning: Master the full spectrum of computer vision — from image basics and filters to deep learning, object detection, and segmentation.
 
@@ -391,6 +391,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
