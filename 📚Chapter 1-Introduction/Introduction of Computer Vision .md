@@ -26,8 +26,13 @@ Defination1: “Computer vision is an interdisciplinary scientific field that de
 Definition 2:“Computer Vision is just a field of AI that enables computers or machines to see and understand the world and the things in it” [2]
 
 Definition 3-GPT: Computer vision is a field of study in computer science and artificial intelligence that focuses on enabling computers to interpret and understand visual data from the world around us. It involves developing algorithms and techniques that allow computers to analyze and make sense of images and videos, just like humans do.
+
+<p align="center">
+<img src="https://github.com/hussain0048/Computer-Vision-/blob/main/CoursesTeach%20(2).png"></a>
+</p>
  
   
+
 
 
 
