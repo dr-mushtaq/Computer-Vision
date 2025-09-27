@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="#previous-section">
-    <img src="https://img.shields.io/badge/⬅️-Previous-blue" alt="Previous">
-  </a>
-  <a href="#next-section">
-    <img src="https://img.shields.io/badge/Next-➡️-green" alt="Next">
-  </a>
-</p>
 
  
  ## **Difference between CV and CP**
@@ -84,6 +76,20 @@ For example, If we send a million pictures of vegetable images to a model to tra
 
 5-[Computer Vision 🤖 Fundamentals with OpenCV](https://medium.com/codex/computer-vision-fundamentals-with-opencv-9fc93b61e3e8)
 
+
+<p align="center">
+  <a href="#previous-section" style="text-decoration:none;">
+    <button style="padding:12px 24px; font-size:18px; border-radius:8px; background-color:#007BFF; color:white; border:none; cursor:pointer;">
+      ⬅️ Previous
+    </button>
+  </a>
+
+  <a href="#next-section" style="text-decoration:none;">
+    <button style="padding:12px 24px; font-size:18px; border-radius:8px; background-color:#28A745; color:white; border:none; cursor:pointer;">
+      Next ➡️
+    </button>
+  </a>
+</p>
 
 
 
