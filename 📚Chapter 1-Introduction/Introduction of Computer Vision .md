@@ -79,17 +79,19 @@ For example, If we send a million pictures of vegetable images to a model to tra
 
 <p align="center">
   <a href="#previous-section" style="text-decoration:none;">
-    <button style="padding:12px 24px; font-size:18px; border-radius:8px; background-color:#007BFF; color:white; border:none; cursor:pointer;">
+    <button style="padding:20px 40px; font-size:24px; font-weight:bold; border-radius:12px; background-color:#007BFF; color:white; border:none; cursor:pointer;">
       ⬅️ Previous
     </button>
   </a>
 
   <a href="#next-section" style="text-decoration:none;">
-    <button style="padding:12px 24px; font-size:18px; border-radius:8px; background-color:#28A745; color:white; border:none; cursor:pointer;">
+    <button style="padding:20px 40px; font-size:24px; font-weight:bold; border-radius:12px; background-color:#28A745; color:white; border:none; cursor:pointer;">
       Next ➡️
     </button>
   </a>
 </p>
+
+
 
 
 
