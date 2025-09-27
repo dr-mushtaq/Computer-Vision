@@ -8,7 +8,6 @@ Computational photography is really about capturing a light from a scene to reco
 
 ### **Sections**
 
-- What is mean by Vision
 - What is computer Vision?
 - What is Computer Vision NOT?
 - How does computer vision work?
@@ -39,6 +38,20 @@ Well, there's a couple of ways of thinking about it. I like this slide that I bo
 
 ###  **3-How does computer vision work**?
 Computer vision technology tends to mimic the way the human brain works. But how does our brain solve visual object recognition? One of the popular hypothesis states that our brains rely on patterns to decode individual objects. This concept is used to create computer vision systems [5].Computer vision algorithms that we use today are based on pattern recognition. We train computers on a massive amount of visual data — computers process images, label objects on them, and find patterns in those objects. For example, if we send a million images of flowers, the computer will analyze them, identify patterns that are similar to all flowers and, at the end of this process, will create a model “flower.” As a result, the computer will be able to accurately detect whether a particular image is a flower every time we send them pictures.
+Computer vision works in three basic steps:
+
+1- **Acquiring an image**
+
+Images, even large sets, can be acquired in real-time through video, photos or 3D technology for analysis.
+
+2- **Processing the image**
+
+Deep learning models automate much of this process, but the models are often trained by first being fed thousands of labeled or pre-identified images. Computer vision algorithms are based on pattern recognition. We train our model on a massive amount of visual(images) data. Our model processes the images with label and find patterns in those objects(images).
+
+3- **Understanding the image**
+
+The final step is the interpretative step, where an object is identified or classified.
+
 
 
 
