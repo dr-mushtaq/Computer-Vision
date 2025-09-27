@@ -6,7 +6,7 @@ Computational photography is really about capturing a light from a scene to reco
 
 ##  **Whay is Computer Vision**
 
-**Sections**
+### **Sections**
 
 - What is mean by Vision
 - What is computer Vision?
@@ -14,9 +14,10 @@ Computational photography is really about capturing a light from a scene to reco
 - How does computer vision work?
 - History of computer vision
 
- **1- Introduction** 
+### **1- Introduction** 
 This is a course on computer vision. It's aimed at covering the foundational aspects of how to analyze images and to extract content from images. That is, how can we build a computer or a machine that can see and interpret an image. First what do I mean by foundational? I mean that we are going to cover the mathematical and computational methods to provide you with core concepts of how can a computer be built to interpret images. Notice I am using the word interpret. In Computer Vision we are interested in extracting information, knowledge from an image. Many want to go beyond processing an image to really knowing what is inside the image, what's the content of the image. So we will learn the math and the basic concepts how to compute with an image and extract information from it.
  
   
+
 
 
