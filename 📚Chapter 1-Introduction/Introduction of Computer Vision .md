@@ -12,7 +12,8 @@ Computational photography is really about capturing a light from a scene to reco
 
 - [What is Computer Vision?](#2--what-is-computer-vision)  
 - [What is Computer Vision NOT?](#what-is-computer-vision-not)  
-- [How does Computer Vision work?](#3-how-does-computer-vision-work)  
+- [How does Computer Vision work?](#3-how-does-computer-vision-work)
+- [Real life Example?](#Real-life-Example)   
 - [History of Computer Vision](#history-of-computer-vision)  
 
 
@@ -72,6 +73,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
 4-[How computer vision works](https://www.sas.com/en_us/insights/analytics/computer-vision.html#technical)
 
 5-[Computer Vision 🤖 Fundamentals with OpenCV](https://medium.com/codex/computer-vision-fundamentals-with-opencv-9fc93b61e3e8)
+
 
 
 
