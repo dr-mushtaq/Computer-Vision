@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="#previous-section">
+    <img src="https://img.shields.io/badge/⬅️-Previous-blue" alt="Previous">
+  </a>
+  <a href="#next-section">
+    <img src="https://img.shields.io/badge/Next-➡️-green" alt="Next">
+  </a>
+</p>
+
+ 
  ## **Difference between CV and CP**
  
 What is the difference between these two classes and the material covered in it? There is indeed some overlap between the classes, especially in the initial few modules where we learn about computing with images and extracting information from images.
@@ -73,6 +83,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
 4-[How computer vision works](https://www.sas.com/en_us/insights/analytics/computer-vision.html#technical)
 
 5-[Computer Vision 🤖 Fundamentals with OpenCV](https://medium.com/codex/computer-vision-fundamentals-with-opencv-9fc93b61e3e8)
+
 
 
 
