@@ -24,7 +24,7 @@ computer vision course,  computer vision with Python, AI in image analysis, edge
 
 ## 📚 Table of Contents
 - [Introduction](#1-introduction)
-- [Why Join This Course?](#🎯-Why-Join-This-Course?)
+- [Why Join This Course?](#-Why-Join-This-Course?)
 - [How to Get Involved](#how-to-get-involved-in-the-computer-vision-project)
 - [Chapters Overview](#course-01---introduction-of-computer-vision)
 - [Computer Vision Resources](#computer-vision-resources)
@@ -391,6 +391,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
