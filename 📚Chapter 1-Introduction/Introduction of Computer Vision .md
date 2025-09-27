@@ -8,10 +8,13 @@ Computational photography is really about capturing a light from a scene to reco
 
 ### **Sections**
 
-- What is computer Vision?
-- What is Computer Vision NOT?
-- How does computer vision work?
-- History of computer vision
+## 📑 Table of Contents  
+
+- [What is Computer Vision?](#2--what-is-computer-vision)  
+- [What is Computer Vision NOT?](#what-is-computer-vision-not)  
+- [How does Computer Vision work?](#3-how-does-computer-vision-work)  
+- [History of Computer Vision](#history-of-computer-vision)  
+
 
 ### **1- Introduction** 
 This is a course on computer vision. It's aimed at covering the foundational aspects of how to analyze images and to extract content from images. That is, how can we build a computer or a machine that can see and interpret an image. First what do I mean by foundational? I mean that we are going to cover the mathematical and computational methods to provide you with core concepts of how can a computer be built to interpret images. Notice I am using the word interpret. In Computer Vision we are interested in extracting information, knowledge from an image. Many want to go beyond processing an image to really knowing what is inside the image, what's the content of the image. So we will learn the math and the basic concepts how to compute with an image and extract information from it.
@@ -69,6 +72,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
 4-[How computer vision works](https://www.sas.com/en_us/insights/analytics/computer-vision.html#technical)
 
 5-[Computer Vision 🤖 Fundamentals with OpenCV](https://medium.com/codex/computer-vision-fundamentals-with-opencv-9fc93b61e3e8)
+
 
 
 
