@@ -92,14 +92,6 @@ But keep in mind: modern deep learning often replaces this pipeline with convolu
  
 ### References
 
-1-[Scikit Learn Tutorial](https://www.tutorialspoint.com/scikit_learn/index.htm)
-
-2-[Scikit-Learn: A silver bullet for basic machine learning](https://medium.com/analytics-vidhya/scikit-learn-a-silver-bullet-for-basic-machine-learning-13c7d8b248ee)
-
-4-[Machine Learning with scikit-learning (Datacamp)](https://www.datacamp.com/users/sign_in?redirect=http%3A%2F%2Fapp.datacamp.com%2Flearn%2Fcourses%2Fmachine-learning-with-scikit-learn)
-
-5-[-Essential Python Libraries for Machine Learning and Data Science](https://www.deeplearning.ai/blog/essential-python-libraries-for-machine-learning-and-data-science/?utm_campaign=DLAI+Blog&utm_content=248986290&utm_medium=social&utm_source=facebook&hss_channel=fbp-1027125564106325)
-
 
 <p align="center">
   <a href="#previous-section" style="text-decoration:none;">
@@ -114,6 +106,7 @@ But keep in mind: modern deep learning often replaces this pipeline with convolu
     </button>
   </a>
 </p>
+
 
 
 
