@@ -24,16 +24,34 @@ Each interest point is surrounded by a small image patch that captures local tex
 So, the first step in training, are developing what's called visual code-words.  And, basically the way it works is this, you have some sort of an operator, and  we'll talk about interest point operators,  that generate what are called interest points.  That is, these are points in the image where reasonable amounts of  interesting stuff is happening.  And we'll talk about Harris corners and other ways of finding that. 
 
 <p align="center">
-<img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/Chapter1-Classification/1.png"></a>
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%2010%20L3%20Generalized%20Hough%20transform%20Edit%20section%20name/1.png"></a>
 </p>
 
- ## **Unsupervised learning**
+ ## **Step 2: Building Visual Code-Words**
  
-Unsupervised learning, in essence, is the machine learning task of uncovering hidden patterns and structures from unlabeled data. For example, a business may wish to group its customers into distinct categories based on their purchasing behavior without knowing in advance what these categories may be. This is known as clustering, one branch of unsupervised learning.
+Once we’ve collected patches from many training images, we cluster them using an algorithm like k-means clustering.
 
-## **Reinforcement learning** 
+- Each cluster center becomes a visual code-word.
+- These code-words act like a dictionary that represents visual patterns.
 
-There is also reinforcement learning, in which machines or software agents interact with an environment. Reinforcement agents are able to automatically figure out how to optimize their behavior given a system of rewards and punishments. Reinforcement learning draws inspiration from behavioral psychology and has applications in many fields, such as, economics, genetics, as well as game playing. In 2016, reinforcement learning was used to train Google DeepMind’s AlphaGo, which was the first computer program to beat the world champion in Go.
+For example:
+
+- A small patch of a tire tread might form one code-word.
+- A corner of a car window might form another code-word.
+When combined, these code-words give us a structured way to describe and recognize objects.
+
+What you do is, you take your interest point operator,  pull out all the interesting points on a bunch of training images.  You collect the little image patch right around those points,  you may get hundreds of them, or thousands of them, and then you cluster them,  and you use some algorithm for doing a clustering.  And when you're all done with those clusters,  the centers of those clusters are referred to, as visual code words.  So here, you can see all of these images that were  taken from something like tires, then they were all clustered, and so  the code word is this little tire piece. 
+
+## **Step 3: Labeling Interest Points** 
+
+Now, for every interest point in a new image:
+- We compare its patch with the dictionary of visual code-words.
+- We assign it the label of the code-word it matches best.
+This way, each image can be described as a bag of visual words, similar to how text documents are represented by a bag of words in Natural Language Processing.
+
+<p align="center">
+<img src="[https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%2010%20L3%20Generalized%20Hough%20transform%20Edit%20section%20name/1.png](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%2010%20L3%20Generalized%20Hough%20transform%20Edit%20section%20name/333.png)"></a>
+</p>
 
 ## **Supervised learning explanation** 
 
@@ -108,6 +126,7 @@ Widely used, and a wealth of tutorials and code snippets are available
     </button>
   </a>
 </p>
+
 
 
 
