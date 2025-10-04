@@ -102,19 +102,9 @@ For example, If we send a million pictures of vegetable images to a model to tra
 0-[Computer Vision SAS](https://www.sas.com/en_us/insights/analytics/computer-vision.html)
 
 
-<p align="center">
-  <a href="#previous-section" style="text-decoration:none;">
-    <button style="padding:20px 40px; font-size:24px; font-weight:bold; border-radius:12px; background-color:#007BFF; color:white; border:none; cursor:pointer;">
-      ⬅️ Previous
-    </button>
-  </a>
+<p align="right"><a target="_blank" href="https://coursesteach.com/mod/page/view.php?id=3962"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/home_page.png" /></a><a target="_blank" href="https://coursesteach.com/course/view.php?id=6&amp;sectionid=30"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/contents_page.jpg" /></a><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/next_page.png" style="float: right;" /></p>
+<h1 style="text-align: justify;"><span style="color: #ff0000;"><strong><span style="font-size: x-large;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-size: 
 
-  <a href="#next-section" style="text-decoration:none;">
-    <button style="padding:20px 40px; font-size:24px; font-weight:bold; border-radius:12px; background-color:#28A745; color:white; border:none; cursor:pointer;">
-      Next ➡️
-    </button>
-  </a>
-</p>
 
 
 
