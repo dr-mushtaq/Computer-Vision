@@ -319,6 +319,8 @@ v
 |[**✅3-AIBauchi-Computer-Vision-Bootcamp**](https://github.com/AIBauchi/AIBauchi-Computer-Vision-Bootcamp/tree/main)|It is course of all AI domain| Inprogress|
 |[**✅4-Awesome Computer Vision**](https://github.com/jbhuang0604/awesome-computer-vision?tab=readme-ov-file#courses)|It is course of all AI domain| Inprogress|
 |[**✅5-Community-led Computer Vision Community Course**](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome)|This is the repository for a community-led course on Computer Vision. Over 60 contributors from the Hugging Face| Inprogress|
+|[Computer Vision](https://github.com/the-akira/Computer-Science-Resources/blob/master/db/computer_vision.md)|---|---|
+|[Computer Vision Tutorial Series M1C1](https://pub.towardsai.net/computer-vision-tutorial-series-m1c1-535c27cd36ca)|---|---|
 
 ## 👁️ Chapter 1: - **🔍 Tools, Frameworks & Platforms**
 
@@ -390,6 +392,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
