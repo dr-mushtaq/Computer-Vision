@@ -56,8 +56,12 @@ This way, each image can be described as a bag of visual words, similar to how t
 Here's a, here is a centered tire, right?  This is the piece of a tire, this is a full tire.  And there are other kinds of code-words, so these become the little  features that we're going to look for in different images.  And this, of course, would assume in this particular case, we're looking for  cars, we got a bunch of training images on cars.  By the way I should say, all of this is done automatically, okay?  So, you're going to see some things that look a little strange in  terms of code-words, well.  It just happened to fall out of the data. 
 
 <p align="center">
-<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%2010%20L3%20Generalized%20Hough%20transform%20Edit%20section%20name/333.png](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%2010%20L3%20Generalized%20Hough%20transform%20Edit%20section%20name/4444.png)"></a>
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%2010%20L3%20Generalized%20Hough%20transform%20Edit%20section%20name/4444.png"></a>
 </p>
+
+This is not a human doing it.  This is telling the system to go ahead and do this.  The second thing you do is you take these code words, these are our features.  Remember like we had the tire, and  we found everywhere that the tire landed in the image.  So what we have here is all of these marks, or these little interest points.  And what we do is, for every interest point,  we find the feature that seems to look best at that point.  So that becomes the label of that point. 
+
+All right, so remember just the way we had  a label before that said the gradient was horizontal pointing inward, here we  have the label is that it's the bottom right-hand corner of a tire, okay?  So this is mapping each of the interest points to some particular patch
 
 ## **Supervised learning explanation** 
 
@@ -132,6 +136,7 @@ Widely used, and a wealth of tutorials and code snippets are available
     </button>
   </a>
 </p>
+
 
 
 
