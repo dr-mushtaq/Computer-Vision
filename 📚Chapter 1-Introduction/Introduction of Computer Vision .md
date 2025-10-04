@@ -80,6 +80,8 @@ For example, If we send a million pictures of vegetable images to a model to tra
 4-[How computer vision works](https://www.sas.com/en_us/insights/analytics/computer-vision.html#technical)
 
 5-[Computer Vision 🤖 Fundamentals with OpenCV](https://medium.com/codex/computer-vision-fundamentals-with-opencv-9fc93b61e3e8)
+6-[Computer Vision](https://github.com/the-akira/Computer-Science-Resources/blob/master/db/computer_vision.md)
+6-[Computer Vision Tutorial Series M1C1](https://pub.towardsai.net/computer-vision-tutorial-series-m1c1-535c27cd36ca)
 
 
 <p align="center">
@@ -95,6 +97,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
     </button>
   </a>
 </p>
+
 
 
 
