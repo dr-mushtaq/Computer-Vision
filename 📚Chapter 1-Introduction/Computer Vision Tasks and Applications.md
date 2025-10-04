@@ -3,7 +3,7 @@
 
 ## 📑 Table of Contents  
 
-- [1- Content Recognition](#1-Content-Recognition)  
+- [Content Recognition](#Content-Recognition)  
 - [What is Computer Vision?](#2--what-is-computer-vision)  
 - [What is Computer Vision NOT?](#what-is-computer-vision-not)  
 - [How does Computer Vision work?](#3-how-does-computer-vision-work)
@@ -11,7 +11,7 @@
 - [History of Computer Vision](#history-of-computer-vision)  
 
 
-## **1- Content Recognition** 
+## **Content Recognition** 
 ### **1.1-Image Classification** 
 
 Image classification is one of the main tasks in the field of computer vision [1].In this task, the trained model assigns a certain class to the image based on a predefined set of classes. The figure below is the famous CIFAR-10 dataset [1], which consists of 80 million images of ten classes. In the image classification task, the model is trained to assign the input image to one of the predefined ten classes, as shown in the figure below.
@@ -124,6 +124,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
 </p>
 
 # <span style="color: #ff0000;"><strong><span style="font-size: x-large;"><span style="font-family: arial, helvetica, sans-serif;">Practical Machine Learning with Python</span></span></strong></span>
+
 
 
 
