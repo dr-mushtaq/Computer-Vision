@@ -109,10 +109,12 @@ For example, If we send a million pictures of vegetable images to a model to tra
   <a target="_blank" href="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/Introduction%20of%20Computer%20Vision%20.md">
     <img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/contents_page.jpg" />
   </a>
-  <img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/next_page.png" style="float: right;" />
+  <a target="_blank" href="[https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/Introduction%20of%20Computer%20Vision%20.md">
+  <img height="50px" src="https://raw.githubusercontent.](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/Computer%20Vision%20Tasks%20and%20Applications.md)com/dipanjanS/practical-machine-learning-with-python/master/media/assets/next_page.png" style="float: right;" />
 </p>
 
-# <span style="color: #ff0000;"><strong><span style="font-size: x-large;"><span style="font-family: arial, helvetica, sans-serif;">Practical Machine Learning with Python</span></span></strong></span>
+
+
 
 
 
