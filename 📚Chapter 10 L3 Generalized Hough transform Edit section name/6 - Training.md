@@ -5,11 +5,10 @@ Think of it like this: just as text documents are represented by words, images c
 
 ## 📑 Table of Contents  
 
-- [What is Machine Learning](#What-is-Machine-Learning)  
-- [Unsupervised learning](#Unsupervised-learning)  
-- [Reinforcement learning](#Reinforcement-learning)  
-- [Supervised learning explanation](#Supervised-learning-explanation)
-- [Supervised learning in Python](#Supervised-learning-in-Python)    
+- [Step 1: Detecting Interest Points](#Step-1:-Detecting-Interest-Points)  
+- [Step 2: Building Visual Code-Words](#Step 2: Building Visual Code-Words)  
+- [Step 3: Labeling Interest Points](#Step 3: Labeling Interest Points)  
+- [Step 4: Using Displacement Vectors](#Step 4: Using Displacement Vectors)
 
 ### **Step 1: Detecting Interest Points** 
 
@@ -115,6 +114,7 @@ But keep in mind: modern deep learning often replaces this pipeline with convolu
     </button>
   </a>
 </p>
+
 
 
 
