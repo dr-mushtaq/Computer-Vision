@@ -50,7 +50,13 @@ Now, for every interest point in a new image:
 This way, each image can be described as a bag of visual words, similar to how text documents are represented by a bag of words in Natural Language Processing.
 
 <p align="center">
-<img src="[https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%2010%20L3%20Generalized%20Hough%20transform%20Edit%20section%20name/1.png](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%2010%20L3%20Generalized%20Hough%20transform%20Edit%20section%20name/333.png)"></a>
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%2010%20L3%20Generalized%20Hough%20transform%20Edit%20section%20name/333.png"></a>
+</p>
+
+Here's a, here is a centered tire, right?  This is the piece of a tire, this is a full tire.  And there are other kinds of code-words, so these become the little  features that we're going to look for in different images.  And this, of course, would assume in this particular case, we're looking for  cars, we got a bunch of training images on cars.  By the way I should say, all of this is done automatically, okay?  So, you're going to see some things that look a little strange in  terms of code-words, well.  It just happened to fall out of the data. 
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%2010%20L3%20Generalized%20Hough%20transform%20Edit%20section%20name/333.png](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%2010%20L3%20Generalized%20Hough%20transform%20Edit%20section%20name/4444.png)"></a>
 </p>
 
 ## **Supervised learning explanation** 
@@ -126,6 +132,7 @@ Widely used, and a wealth of tutorials and code snippets are available
     </button>
   </a>
 </p>
+
 
 
 
