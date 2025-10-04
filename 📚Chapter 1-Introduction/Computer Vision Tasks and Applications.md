@@ -34,7 +34,7 @@ There are a lot of real-world applications for image classification [1].
 **Classification of skin cancer**: Another application of image classification in the healthcare domain is automating the classifying of skin images into malignant and begin.
 
 <p align="center">
-<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/1_C_NE-EiDssUNEwFAeRAdMA.jpg"></a>
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/1_sw03jwLc830SfOYmYSP3Dw.png"></a>
 </p>
 
  ## **Difference between CV and CP**
@@ -109,6 +109,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
 </p>
 
 # <span style="color: #ff0000;"><strong><span style="font-size: x-large;"><span style="font-family: arial, helvetica, sans-serif;">Practical Machine Learning with Python</span></span></strong></span>
+
 
 
 
