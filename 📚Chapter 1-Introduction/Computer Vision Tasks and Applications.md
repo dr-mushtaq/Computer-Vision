@@ -25,7 +25,11 @@ The computer analyzes an image in the form of pixels. It does it by considering 
 
 There are a lot of real-world applications for image classification [1].
 
-Automated inspection and quality control: Image classification can be used to automatically inspect products on an assembly line and identify those that do not meet quality standards.
+**Automated inspection and quality control**: Image classification can be used to automatically inspect products on an assembly line and identify those that do not meet quality standards. Classification of skin cancer: Another application of image classification in the healthcare domain is automating the classifying of skin images into malignant and begin [1].
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/1_C_NE-EiDssUNEwFAeRAdMA.jpg"></a>
+</p>
 
  ## **Difference between CV and CP**
  
@@ -99,6 +103,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
 </p>
 
 # <span style="color: #ff0000;"><strong><span style="font-size: x-large;"><span style="font-family: arial, helvetica, sans-serif;">Practical Machine Learning with Python</span></span></strong></span>
+
 
 
 
