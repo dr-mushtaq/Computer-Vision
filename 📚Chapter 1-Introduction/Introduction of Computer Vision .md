@@ -102,13 +102,18 @@ For example, If we send a million pictures of vegetable images to a model to tra
 0-[Computer Vision SAS](https://www.sas.com/en_us/insights/analytics/computer-vision.html)
 
 
-<div align="right">
-  <a href="https://coursesteach.com/mod/page/view.php?id=3962">🏠 Home</a> | 
-  <a href="https://coursesteach.com/course/view.php?id=6&sectionid=30">📚 Contents</a> | 
-  <a href="#">➡️ Next</a>
-</div>
+<p align="right">
+  <a target="_blank" href="https://coursesteach.com/mod/page/view.php?id=3962">
+    <img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/home_page.png" />
+  </a>
+  <a target="_blank" href="https://coursesteach.com/course/view.php?id=6&amp;sectionid=30">
+    <img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/contents_page.jpg" />
+  </a>
+  <img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/next_page.png" style="float: right;" />
+</p>
 
-# <span style="color: #ff0000;">**Practical Machine Learning with Python**</span>
+# <span style="color: #ff0000;"><strong><span style="font-size: x-large;"><span style="font-family: arial, helvetica, sans-serif;">Practical Machine Learning with Python</span></span></strong></span>
+
 
 
 
