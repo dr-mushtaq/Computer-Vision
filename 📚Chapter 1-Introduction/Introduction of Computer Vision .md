@@ -40,6 +40,13 @@ Computer vision is the field of computer science that focuses on creating digita
 
 Well, there's a couple of ways of thinking about it. I like this slide that I borrowed from Steve Seitz, where he talks about every picture tells a story. And one way of thinking about computer vision is the goal  is to interpret images. That is, say something about what's present in the scene or what's actually going on. So, what we're doing is, we're going to take images in, and what's going to come out is something that has some meaning to it. That is, we're going to extract, we're going to create some sort of interpretations, some sort of an understanding of what that image is representative of. This is different, many of you may have some exposure to image processing, which is the manipulation of images. That's images in and images out. And we'll talk a little bit about that because you use image processing for per, for computer vision. But fundamentally computer vision is about understanding something that's in the image.
 9
+### **Why Study Computer Vision** 
+
+Computer vision is an art with the help of which you are giving the computer to understand the visual world. There are many real-world life examples of computer vision that we use in our day-to-day life. 
+But there’s actually some really good reasons to do that. These days images and imagery have become ubiquitous in all of our technology. cameras, video, you can stream them, you can send them etc. So what's become fundamental to an awful lot of systems is the manipulation in the processing of imagery. And extracting information from that. There are domains such as surveillance. There are building 3D models for medical imaging. Or capturing for motion capture. These are all different current industries that leverage computer vision in a variety of ways. When you are clicking a selfie why is there a small square on your face, When you scan a document you get edges of the documents already detected, how do streamers change their backgrounds, and how did tesla create self-driving cars? It was all thanks to advancements in Computer Vision that it made all these things were possible [2].
+
+But most of all, the reason to do it is, it is just a really cool and deep set of problems. And it's way more fun than learning how to build compilers. And now, I have to go apologize to all my compiler friends, but they know it's true.
+
 ###  **3-How does computer vision work**?
 Computer vision technology tends to mimic the way the human brain works. But how does our brain solve visual object recognition? One of the popular hypothesis states that our brains rely on patterns to decode individual objects. This concept is used to create computer vision systems [5].Computer vision algorithms that we use today are based on pattern recognition. We train computers on a massive amount of visual data — computers process images, label objects on them, and find patterns in those objects. For example, if we send a million images of flowers, the computer will analyze them, identify patterns that are similar to all flowers and, at the end of this process, will create a model “flower.” As a result, the computer will be able to accurately detect whether a particular image is a flower every time we send them pictures.
 Computer vision works in three basic steps:
@@ -88,6 +95,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
     </button>
   </a>
 </p>
+
 
 
 
