@@ -255,6 +255,8 @@ Hobbyists or developers interested in image processing
 |**🌐4-Generalized Hough Transform Algorithm**| [1](https://drive.google.com/file/d/15lLL-qB66mFOarrf6SgZTjC7ot9hfXHt/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=8186&forceview=1)|🟧 Intermediate|[1](https://www.youtube.com/watch?v=_mGxmZWs9Zw)|
 |**🌐5-Application in Recognition**| [1](https://drive.google.com/file/d/1fXbyw6WH7NdDX1VbNUGNLMM6X7w1ztqN/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=8238&forceview=1)|🟧 Intermediate|[1](https://www.youtube.com/watch?v=_mGxmZWs9Zw)|
 
+|[**🌐5-Training**](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%2010%20L3%20Generalized%20Hough%20transform%20Edit%20section%20name/6%20-%20Training.md)| [1](https://drive.google.com/file/d/1QsLYm0pGQnG5rfTDh6L1pQNU9Gp1TtBD/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=8238&forceview=1)|🟧 Intermediate|[1](https://www.youtube.com/watch?v=_mGxmZWs9Zw)|
+
 
 </details>
 </details>
@@ -391,6 +393,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
