@@ -1,6 +1,6 @@
-Supervised learning, a key concept in machine learning, enables computers to make decisions based on labeled data. Whether you’re classifying emails as spam or predicting customer behavior, scikit-learn offers accessible tools to build effective models.
+When training computer vision models, one key step is developing something called visual code-words (also called a visual vocabulary). These are essentially compact, representative “words” that describe important image patterns.
 
-In this blog, we dive into classification techniques, a major type of supervised learning, using Python’s powerful scikit-learn library. This guide provides a step-by-step approach, from understanding core concepts to implementing your first classification model, perfect for beginners and those looking to refine their data science skills.
+Think of it like this: just as text documents are represented by words, images can be represented by visual words. These words come from patches of images where interesting stuff is happening — corners, textures, or edges.
 
 
 ## 📑 Table of Contents  
@@ -11,11 +11,17 @@ In this blog, we dive into classification techniques, a major type of supervised
 - [Supervised learning explanation](#Supervised-learning-explanation)
 - [Supervised learning in Python](#Supervised-learning-in-Python)    
 
-cvcv
-### **What is Machine Learning** 
+### **Step 1: Detecting Interest Points** 
 
-Machine learning is the science and art of giving computers the ability to learn to make decisions from data without being explicitly programmed.
-For example, your computer can learn to predict whether an email is spam or not spam given its content and sender. Another example: your computer can learn to cluster, say, Wikipedia entries, into different categories based on the words they contain. It could then assign any new Wikipedia article to one of the existing clusters. Notice that, in the first example, we are trying to predict a particular class label, that is, spam or not spam. In the second example, there is no such label. When there are labels present, we call it **supervised learning**. When there are no labels present, we call it **unsupervised learning**.
+The process starts by finding interest points in an image. These are locations where something meaningful is going on — like a corner of a tire, an edge of a window, or a textured spot on the road.
+
+- Common algorithms for finding interest points include:
+- Harris Corner Detector
+- SIFT (Scale-Invariant Feature Transform)
+- SURF (Speeded-Up Robust Features)
+
+Each interest point is surrounded by a small image patch that captures local texture or structure.
+So, the first step in training, are developing what's called visual code-words.  And, basically the way it works is this, you have some sort of an operator, and  we'll talk about interest point operators,  that generate what are called interest points.  That is, these are points in the image where reasonable amounts of  interesting stuff is happening.  And we'll talk about Harris corners and other ways of finding that. 
 
 <p align="center">
 <img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/Supervised%20Learning%20with%20scikit_learn/Chapter1-Classification/1.png"></a>
@@ -102,6 +108,7 @@ Widely used, and a wealth of tutorials and code snippets are available
     </button>
   </a>
 </p>
+
 
 
 
