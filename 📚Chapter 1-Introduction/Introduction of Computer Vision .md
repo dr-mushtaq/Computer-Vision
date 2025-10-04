@@ -47,6 +47,20 @@ But there’s actually some really good reasons to do that. These days images an
 
 But most of all, the reason to do it is, it is just a really cool and deep set of problems. And it's way more fun than learning how to build compilers. And now, I have to go apologize to all my compiler friends, but they know it's true.
 
+### **History of computer vision** 
+
+ **1950s **,
+
+Early experiments in computer vision took place in the 1950s, using some of the first neural networks to detect the edges of an object and to sort simple objects into categories like circles and squares [1]. 
+
+ **1970s**
+
+In the 1970s, the first commercial use of computer vision interpreted typed or handwritten text using optical character recognition. This advancement was used to interpret written text for the blind. 
+
+ **1990s **
+
+As the internet matured in the 1990s, making large sets of images available online for analysis, facial recognition programs flourished. These growing data sets helped make it possible for machines to identify specific people in photos and videos.
+
 ###  **3-How does computer vision work**?
 Computer vision technology tends to mimic the way the human brain works. But how does our brain solve visual object recognition? One of the popular hypothesis states that our brains rely on patterns to decode individual objects. This concept is used to create computer vision systems [5].Computer vision algorithms that we use today are based on pattern recognition. We train computers on a massive amount of visual data — computers process images, label objects on them, and find patterns in those objects. For example, if we send a million images of flowers, the computer will analyze them, identify patterns that are similar to all flowers and, at the end of this process, will create a model “flower.” As a result, the computer will be able to accurately detect whether a particular image is a flower every time we send them pictures.
 Computer vision works in three basic steps:
@@ -97,6 +111,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
     </button>
   </a>
 </p>
+
 
 
 
