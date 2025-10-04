@@ -3,7 +3,7 @@
 
 ## 📑 Table of Contents  
 
-- [Difference between CV and CP](#Difference-between-CV-and-CP)  
+- [1- Content Recognition](#1-Content-Recognition)  
 - [What is Computer Vision?](#2--what-is-computer-vision)  
 - [What is Computer Vision NOT?](#what-is-computer-vision-not)  
 - [How does Computer Vision work?](#3-how-does-computer-vision-work)
@@ -124,6 +124,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
 </p>
 
 # <span style="color: #ff0000;"><strong><span style="font-size: x-large;"><span style="font-family: arial, helvetica, sans-serif;">Practical Machine Learning with Python</span></span></strong></span>
+
 
 
 
