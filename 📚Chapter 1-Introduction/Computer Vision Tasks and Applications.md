@@ -44,7 +44,7 @@ Computational photography is really about capturing a light from a scene to reco
 **Definition 3-GPT: Computer vision**  is a field of study in computer science and artificial intelligence that focuses on enabling computers to interpret and understand visual data from the world around us. It involves developing algorithms and techniques that allow computers to analyze and make sense of images and videos, just like humans do.
 
 <p align="center">
-<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/Annotation%202021-03-31%20014715.png"></a>
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/1_r8S5tF_6naagKOnlIcGXoQ.png"></a>
 </p>
  
 Computer Vision is really about analyzing images and videos to extract knowledge from them. Mostly these images are of real scenes like that of a street image with cars and such where autonomous vehicle they'll have to navigate through or it could be other types of images like that of an X-ray inside a human head and we need to do image analysis to be able to extract things about of interest in medical applications.
@@ -99,6 +99,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
 </p>
 
 # <span style="color: #ff0000;"><strong><span style="font-size: x-large;"><span style="font-family: arial, helvetica, sans-serif;">Practical Machine Learning with Python</span></span></strong></span>
+
 
 
 
