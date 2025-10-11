@@ -52,21 +52,12 @@ These are screenshots taken from Siemens sells a system for doing port monitorin
 
 
 
- ## **Difference between CV and CP**
- 
-What is the difference between these two classes and the material covered in it? There is indeed some overlap between the classes, especially in the initial few modules where we learn about computing with images and extracting information from images.
+ # **Object Identification**
+As mentioned, image classification works by assigning classes or labels to the picture from a predefined set of labels, object identification recognizes specific instances of the class. For example the image classification tasks, the focus is to classify the face's pictures, in object identification, the focus is on identifying the person and recognizing them. Therefore, object detection can be seen as a clustering algorithm to cluster similar instances with each other.
 
-Computational photography is really about capturing a light from a scene to record a scene into a photograph or such other related novel artifact that showcases the scene. Image analysis is done to support the capture and display of the scene in novel ways. Some of it's actually about building newer forms of cameras and softwares to facilitate that process. Computer vision is really about interpreting an analysis of the scene. That is what is the content of the image of the scene, who is in there, what is in the image and what is happening.
+## **Object Detection and Localization** 
 
-### **2- What is Computer Vision** 
-
-**Definition:** Computer vision is a field of artificial intelligence that trains computers to interpret and understand the visual world. Using digital images from cameras and videos and deep learning models, machines can accurately identify and classify objects — and then react to what they “see.”
-
-**Defination1:** “Computer vision is an interdisciplinary scientific field that deals with how computers can gain high-level understanding from digital images or videos. From the perspective of engineering, it seeks to understand and automate tasks that the human visual system can do” 
-
-**Definition 2** :“Computer Vision is just a field of AI that enables computers or machines to see and understand the world and the things in it” 
-
-**Definition 3-GPT: Computer vision**  is a field of study in computer science and artificial intelligence that focuses on enabling computers to interpret and understand visual data from the world around us. It involves developing algorithms and techniques that allow computers to analyze and make sense of images and videos, just like humans do.
+Sometimes we also need to extract the location of an object that is present in the image. This is when we can use Object Detection, another well-known and useful Computer Vision task [2]
 
 <p align="center">
 <img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/1_r8S5tF_6naagKOnlIcGXoQ.png"></a>
@@ -124,6 +115,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
 </p>
 
 # <span style="color: #ff0000;"><strong><span style="font-size: x-large;"><span style="font-family: arial, helvetica, sans-serif;">Practical Machine Learning with Python</span></span></strong></span>
+
 
 
 
