@@ -167,7 +167,7 @@ Hobbyists or developers interested in image processing
 | Topic Name/Tutorial | Video | Code | Note|Difficulty Level|
 |---|---|---|---|---|
 | [**1- What is computer Vision**](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/Introduction%20of%20Computer%20Vision%20.md)| [1](https://drive.google.com/file/d/1Cb-Cz0dRwNZzAp5f2K5cVNNwBRo3hki4/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|---|Beginer|
-|[**✅2-Computer Vision Tasks and Applications**](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/Introduction%20of%20Computer%20Vision%20.md)|[1](https://drive.google.com/file/d/1DCR-0UllT5J0GNHrTlklsHtF1OCskV0V/view)[-2](https://drive.google.com/file/d/1hDHQfd5h9Jiauk8olHG6Jft0AbOUh36n/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Link](https://coursesteach.com/mod/page/view.php?id=8070)|Beginer|
+|[**✅2-Computer Vision Tasks and Applications**](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/Computer%20Vision%20Tasks%20and%20Applications.md)|[1](https://drive.google.com/file/d/1DCR-0UllT5J0GNHrTlklsHtF1OCskV0V/view)[-2](https://drive.google.com/file/d/1hDHQfd5h9Jiauk8olHG6Jft0AbOUh36n/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Link](https://coursesteach.com/mod/page/view.php?id=8070)|Beginer|
 |[**✅Best Free Resources to Computer Vision**](https://open.substack.com/pub/mushtaqmsit/p/top-10-free-resources-to-learn-computer?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)|---|---|[Link](https://coursesteach.com/mod/page/view.php?id=10400&forceview=1)|Beginer|
 
 ## 🔹Chapter2: - **Image As Function**
@@ -433,6 +433,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
