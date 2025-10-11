@@ -102,8 +102,10 @@ Vehicle detection with AI in Transportation and logistics domain: Object detecti
 
 **Medical feature detection in the Healthcare domain:**  Object detection has helped in many breakthroughs in the healthcare domain. Because medical diagnostics rely heavily on the study of images, scans, and photographs, object detection involving CT and MRI scans has become extremely useful for diagnosing diseases, for example, with ML algorithms for tumor detection.
 
+**Self-driving Cars** rely on Object Detection techniques to determine the location of objects like people, traffic signs, etc. This information tells the car to stop if an object is approaching it or too close to it.[2]
+
 <p align="center">
-<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/1_BMh9g-4gEwdrraoqdWjsIg.gif"></a>
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/9.jpg"></a>
 </p>
 
 ### References
@@ -128,6 +130,7 @@ Vehicle detection with AI in Transportation and logistics domain: Object detecti
 </p>
 
 # <span style="color: #ff0000;"><strong><span style="font-size: x-large;"><span style="font-family: arial, helvetica, sans-serif;">Practical Machine Learning with Python</span></span></strong></span>
+
 
 
 
