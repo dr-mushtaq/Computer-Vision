@@ -22,6 +22,46 @@ computer vision course,  computer vision with Python, AI in image analysis, edge
 <meta property="og:title" content="Computer Vision Course - Learn with Code, Notebooks, and Projects">
 <meta property="og:description" content="An end-to-end guide to Computer Vision with Python, OpenCV, YOLO, and Deep Learning — curated for learners and contributors.">
 
+<div>
+<h2>💖 Sponsors</h2>
+
+<p>We extend our heartfelt thanks to our incredible sponsors for their generous support and commitment to our mission. Their contributions make it possible for us to continue developing open-source educational content, AI learning tools, and community-driven projects.</p>
+
+<h3>Current Sponsor</h3>
+<hr />
+<div align="center">
+  <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank">
+    <picture>
+      <!-- Dark mode -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dr-mushtaq/Python-Notes/blob/master/Image/LOGO-InnoviTechs.png" />
+      <!-- Light mode (fallback) -->
+      <a href="https://innovitechs.com/" target="_blank">
+      <img src="https://github.com/dr-mushtaq/Python-Notes/blob/master/Image/LOGO-InnoviTechs.png"
+           width="400px"
+           alt="Wispr Flow Logo"
+           title="Wispr Flow" />
+      </a>
+    </picture>
+  </a>
+
+  <h3>InnoviTechs IT Services – Driving Digital Transformation and Business Growth</h3>
+  <p><em>Our mission is to lead the future of technology innovation by transforming visionary ideas into scalable digital experiences. With creativity, passion, and a commitment to excellence, we deliver tailored technology and workforce solutions that address your unique business challenges with resilience and adaptability.</em></p>
+
+</div>
+
+**Your support helps us:**
+
+- Create free tutorials, guides, and datasets for learners worldwide 🌍
+- Maintain research repositories and AI projects 📚
+- Host workshops, webinars, and community learning events 💬
+- Encourage students and educators to explore Data Science, Machine Learning, and Deep Learning 🚀
+---
+
+### 🙌 Become a Sponsor
+
+You can support this project by becoming a sponsor on **[GitHub Sponsors](https://github.com/sponsors/dr-mushtaq)** or via **bank transfer** — please contact me at 📧 [mushtaqmsit@gmail.com](mailto:mushtaqmsit@gmail.com).
+
+
 ## 📚 Table of Contents
 - [Introduction](#1-introduction)
 - [Why Join This Course?](#-Why-Join-This-Course?)
@@ -392,6 +432,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
