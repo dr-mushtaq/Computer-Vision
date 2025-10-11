@@ -86,6 +86,15 @@ It’s even used by Facebook to tag people, It identifies people in uploaded ima
 </p>
 
 Another thing that's very common these days is face detection. Just about any digital camera that you buy today, you pick it up, using the default setting, it will find the faces. So, here's an example. One of the cool things, by the way, is bunch of lectures in the future, we'll talk about the technology that basically does exactly this. So the next time, so when we get to those, you pick up a camera and it finds the faces. You'll say, oh, I know how they're doing that. But actually now, cameras can do more. I think the one on the left, I think is from the web, from Fiji, that if you take a picture of somebody, and they blink. You know, and that can be really annoying, it'll tell you they blinked. Maybe even more interestingly, Sony has something called the Smile Shutter, which will watch for people. And you sort of press it, and say, take a picture now. But actually it waits until you, it sees the person smile. And even further these days, there are cameras that will recognize who you are. So this is a screen taken from a shot where it does camera based login. So it knows about a bunch of different people. You walk up to the computer, you say, yo, computer it's me. Actually you don't have to say anything, and the computer says, it's you. And it logs you in. So that's face recognition. We're going to talk also, a little bit, about face recognition. Although the face detection stuff techno, that technology is one that will be sort of more fundamental to the class .
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/5.png"></a>
+</p>
+
+## Object detection application:
+Object detection is one of the most used computer vision applications in real life. It has been applied in most of the domains, such as [1]:
+
+Danger detection in security and surveillance: A wide range of security applications in video surveillance are based on object detection, for example, to detect people in restricted or dangerous areas, suicide prevention, or automating inspection tasks in remote locations with computer vision.
+Vehicle detection with AI in Transportation and logistics domain: Object detection is used to detect and count vehicles for traffic analysis or to detect cars that stop in dangerous areas, for example, on crossroads or highways.
 
 ### References
 
@@ -109,6 +118,7 @@ Another thing that's very common these days is face detection. Just about any di
 </p>
 
 # <span style="color: #ff0000;"><strong><span style="font-size: x-large;"><span style="font-family: arial, helvetica, sans-serif;">Practical Machine Learning with Python</span></span></strong></span>
+
 
 
 
