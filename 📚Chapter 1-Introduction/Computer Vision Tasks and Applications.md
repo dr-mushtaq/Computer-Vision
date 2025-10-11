@@ -93,8 +93,12 @@ Another thing that's very common these days is face detection. Just about any di
 ## Object detection application:
 Object detection is one of the most used computer vision applications in real life. It has been applied in most of the domains, such as [1]:
 
-Danger detection in security and surveillance: A wide range of security applications in video surveillance are based on object detection, for example, to detect people in restricted or dangerous areas, suicide prevention, or automating inspection tasks in remote locations with computer vision.
+**Danger detection in security and surveillance:** A wide range of security applications in video surveillance are based on object detection, for example, to detect people in restricted or dangerous areas, suicide prevention, or automating inspection tasks in remote locations with computer vision.
 Vehicle detection with AI in Transportation and logistics domain: Object detection is used to detect and count vehicles for traffic analysis or to detect cars that stop in dangerous areas, for example, on crossroads or highways.
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/1_BMh9g-4gEwdrraoqdWjsIg.gif"></a>
+</p>
 
 ### References
 
@@ -118,6 +122,7 @@ Vehicle detection with AI in Transportation and logistics domain: Object detecti
 </p>
 
 # <span style="color: #ff0000;"><strong><span style="font-size: x-large;"><span style="font-family: arial, helvetica, sans-serif;">Practical Machine Learning with Python</span></span></strong></span>
+
 
 
 
