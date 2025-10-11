@@ -100,6 +100,12 @@ Vehicle detection with AI in Transportation and logistics domain: Object detecti
 <img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/1_BMh9g-4gEwdrraoqdWjsIg.gif"></a>
 </p>
 
+**Medical feature detection in the Healthcare domain:**  Object detection has helped in many breakthroughs in the healthcare domain. Because medical diagnostics rely heavily on the study of images, scans, and photographs, object detection involving CT and MRI scans has become extremely useful for diagnosing diseases, for example, with ML algorithms for tumor detection.
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/1_BMh9g-4gEwdrraoqdWjsIg.gif"></a>
+</p>
+
 ### References
 
 1-[What is Computer Vision? & Its Applications](https://medium.com/@draj0718/what-is-computer-vision-its-applications-826c0bbd772b)
@@ -122,6 +128,7 @@ Vehicle detection with AI in Transportation and logistics domain: Object detecti
 </p>
 
 # <span style="color: #ff0000;"><strong><span style="font-size: x-large;"><span style="font-family: arial, helvetica, sans-serif;">Practical Machine Learning with Python</span></span></strong></span>
+
 
 
 
