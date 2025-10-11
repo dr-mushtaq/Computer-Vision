@@ -68,6 +68,12 @@ Here instead of just the label, the system also provides you with bounding box c
 <img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/8.png"></a>
 </p>
 
+Another important task of content recognition is object detection. Object detection is the task of detecting instances of objects of a certain class within an image. Object detection is often a preliminary task before further computations, such as in facial recognition, in which you have to detect the faces first and crop it before recognition 
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/1_alePWgdMrQeS7-WBVd0MVA.png"></a>
+</p>
+
 ###  **3-How does computer vision work**?
 Computer vision technology tends to mimic the way the human brain works. But how does our brain solve visual object recognition? One of the popular hypothesis states that our brains rely on patterns to decode individual objects. This concept is used to create computer vision systems [5].Computer vision algorithms that we use today are based on pattern recognition. We train computers on a massive amount of visual data — computers process images, label objects on them, and find patterns in those objects. For example, if we send a million images of flowers, the computer will analyze them, identify patterns that are similar to all flowers and, at the end of this process, will create a model “flower.” As a result, the computer will be able to accurately detect whether a particular image is a flower every time we send them pictures.
 Computer vision works in three basic steps:
@@ -114,6 +120,7 @@ For example, If we send a million pictures of vegetable images to a model to tra
 </p>
 
 # <span style="color: #ff0000;"><strong><span style="font-size: x-large;"><span style="font-family: arial, helvetica, sans-serif;">Practical Machine Learning with Python</span></span></strong></span>
+
 
 
 
