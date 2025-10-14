@@ -171,13 +171,13 @@ Hobbyists or developers interested in image processing
 |[**✅Best Free Resources to Computer Vision**](https://open.substack.com/pub/mushtaqmsit/p/top-10-free-resources-to-learn-computer?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)|---|---|[Link](https://coursesteach.com/mod/page/view.php?id=10400&forceview=1)|Beginer|
 
 ## 🔹Chapter2: - **Image As Function**
-| Topic Name/Tutorial | Video| Notbook |
-|---|---|---|
+| Topic Name/Tutorial | Video| Notbook |Extra Resources|
+|---|---|---|---|
 |[**✅1-Images as Functions Part 1?**](https://substack.com/home/post/p-156223376)|[**1**](https://drive.google.com/file/d/1c6plHK4Yqg_ch8QiNTtfGuSZSK0mt3lf/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 | [**✅2-Images as Functions Part 2?**](https://open.substack.com/pub/mushtaqmsit/p/understanding-images-as-functions-edb?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false) | [**1**](https://drive.google.com/file/d/1X5RS1-6JfZUmcyDvsP5KF1SR97CFzus2/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb) |
 | [**✅3-Define an Image as a Function (Quiz)**](https://substack.com/@coursesteach/note/c-91928137?utm_source=notes-share-action&r=f2squ) |[**1**](https://drive.google.com/file/d/1FDmF_Gcl3wtvx6NyNuvl6KAiZlp7KD6Y/view)[**-2**](https://drive.google.com/file/d/1qiwSHYDHSp15_QhMdKuT2nBdhprLJNag/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb) |
 |[**✅4-Color Planes and Color Image as a Function(Quiz)**](https://open.substack.com/pub/mushtaqmsit/p/understanding-rgb-channels-in-matlab?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)|[**1**](https://drive.google.com/file/d/1351z7lTQfAqx3HEGvAGvtm_FVhaMPzK6/view)[**-2**](https://drive.google.com/file/d/1USR6tCVZKK5uN7TkKGduPsH8rVkTCMAY/view)[**-3**](https://drive.google.com/file/d/1qiwSHYDHSp15_QhMdKuT2nBdhprLJNag/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
-|[**✅5- Digital Images**](https://mushtaqmsit.substack.com/p/how-computers-see-images)|[**1**](https://drive.google.com/file/d/1bvwInP7sTDxJv6ou7myoIFZLen57tSv_/view)[**-2**](https://drive.google.com/file/d/1M70RJybxbFBjNjf-s_u33IEGZwETVzco/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
+|[**✅5- Digital Images**](https://mushtaqmsit.substack.com/p/how-computers-see-images)|[**1**](https://drive.google.com/file/d/1bvwInP7sTDxJv6ou7myoIFZLen57tSv_/view)[**-2**](https://drive.google.com/file/d/1M70RJybxbFBjNjf-s_u33IEGZwETVzco/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[1](https://medium.com/@adityagupta041050/how-computers-see-the-world-a-beginners-guide-to-cnns-c847ab855104)|
 |[**✅6-Compute Image Size Quiz-s**](https://mushtaqmsit.substack.com/p/how-to-calculate-image-size-width)|[1](https://www.youtube.com/watch?v=Xp4Oeqs1jUU)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 |[**✅7-Read image in Matlab and Python-S**](https://mushtaqmsit.substack.com/p/how-to-read-and-process-images-in)|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
 |[**✅8-Image Size and Data Type Quiz/Solution-S**](https://mushtaqmsit.substack.com/p/how-to-get-image-size-and-data-type)|[**1**](https://drive.google.com/file/d/1-zlCSlEvKsBPyuPpUUCio15KdedHG_lj/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|
@@ -433,6 +433,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
