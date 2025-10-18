@@ -120,6 +120,8 @@ Right, see, that's a camera down here, looking at this. I wonder if we're going 
 <img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/CAMERA.jpg"></a>
 </p>
 
+ **Google Glass**
+ 
 It's, the computing power has gotten smaller. And it allows us to now operate in smaller packages. So, there's this whole area of augmented reality and object recognition by mobile devices.So, here's a system of where you, you're showing it a picture of this statue.It recognizes who this is and what the monument is. And here's an old picture from Nokia, where you can actually go off to the web, pull out information and display it to you. So for a while we were talking about doing this on smart phones, now it sits on your face. This is Professor Thad Starner, a Georgia Tech professor as well. He was instrumental in the developement of Google Glass. And one of the things that Glass does is you've got a camera looking out of what you're seeing. And can, through the same object recognition methods, can give you information about what you're looking at. And this is also part of computer vision [2].
 
 <p align="center">
@@ -240,6 +242,7 @@ Another area that's become but this is a shot from Google Earth actually, this i
 </p>
 
 # <span style="color: #ff0000;"><strong><span style="font-size: x-large;"><span style="font-family: arial, helvetica, sans-serif;">Practical Machine Learning with Python</span></span></strong></span>
+
 
 
 
