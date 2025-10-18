@@ -114,10 +114,17 @@ here is this company, **Evolution Robotics**, that had developed this thing call
 <img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/ROBOT.jpg"></a>
 </p>
 
-Right, see, that's a camera down here, looking at this. I wonder if we're going to have to, like, erase that that's a beer. Yeah, you see, now nobody can see. Okay, you can't tell what that is. Okay. And it can detect what that is, which is not only pretty cool. But if you go on their website they'll tell you that five years later, that product was bought by a different company. So, there's money to be made in computer vision. Go do a really cool startup. Object recognition used to require a lot of computing power [2].
+Right, see, that's a camera down here, looking at this. I wonder if we're going to have to, like, erase that that's a beer. Yeah, you see, now nobody can see. Okay, you can't tell what that is. Okay. And it can detect what that is, which is not only pretty cool. But if you go on their website they'll tell you that five years later, that product was bought by a different company. So, there's money to be made in computer vision. Go do a really cool startup. Object recognition used to require a lot of computing power.
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/CAMERA.jpg"></a>
+</p>
 
 It's, the computing power has gotten smaller. And it allows us to now operate in smaller packages. So, there's this whole area of augmented reality and object recognition by mobile devices.So, here's a system of where you, you're showing it a picture of this statue.It recognizes who this is and what the monument is. And here's an old picture from Nokia, where you can actually go off to the web, pull out information and display it to you. So for a while we were talking about doing this on smart phones, now it sits on your face. This is Professor Thad Starner, a Georgia Tech professor as well. He was instrumental in the developement of Google Glass. And one of the things that Glass does is you've got a camera looking out of what you're seeing. And can, through the same object recognition methods, can give you information about what you're looking at. And this is also part of computer vision [2].
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/Glasses.jpg"></a>
+</p>
 
 Smart Cars:
 Another area that you know, really blossomed lately is the use of computer vision for automotive.This is a, a website, web picture taken from Mobileye, which is a company out of Israel. And they've developed all sorts of technologies that use computer vision that are relevant to automobiles. Everything from automatically recognizing signs to, here it's a little hard to see, red outline. The system is automatically identifying where the pedestrians are. They have a system that alerts you if pedestrians getting close and you're, seem to be going too fast. You can also build systems that either brake or slow down or whatever. But the idea is that computer vision has really gotten into smart cars.                     
@@ -233,6 +240,7 @@ Another area that's become but this is a shot from Google Earth actually, this i
 </p>
 
 # <span style="color: #ff0000;"><strong><span style="font-size: x-large;"><span style="font-family: arial, helvetica, sans-serif;">Practical Machine Learning with Python</span></span></strong></span>
+
 
 
 
