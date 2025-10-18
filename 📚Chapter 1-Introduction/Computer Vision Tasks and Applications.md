@@ -110,6 +110,10 @@ Vehicle detection with AI in Transportation and logistics domain: Object detecti
 
 here is this company, **Evolution Robotics**, that had developed this thing called Lane Hawk, which basically prevented some of you. None of you. From putting stuff on the bottom of a basket and then wheeling it out and forgetting to mention to the cashier that it was there. This is actually a huge problem. And the system, you can see the camera here.
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/ROBOT.jpg"></a>
+</p>
+
 ### References
 
 1-[What is Computer Vision? & Its Applications](https://medium.com/@draj0718/what-is-computer-vision-its-applications-826c0bbd772b)
@@ -132,6 +136,7 @@ here is this company, **Evolution Robotics**, that had developed this thing call
 </p>
 
 # <span style="color: #ff0000;"><strong><span style="font-size: x-large;"><span style="font-family: arial, helvetica, sans-serif;">Practical Machine Learning with Python</span></span></strong></span>
+
 
 
 
