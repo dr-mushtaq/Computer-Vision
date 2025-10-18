@@ -128,12 +128,15 @@ It's, the computing power has gotten smaller. And it allows us to now operate in
 <img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/Glasses.jpg"></a>
 </p>
 
-Smart Cars:
+**Smart Cars**:
+
 Another area that you know, really blossomed lately is the use of computer vision for automotive.This is a, a website, web picture taken from Mobileye, which is a company out of Israel. And they've developed all sorts of technologies that use computer vision that are relevant to automobiles. Everything from automatically recognizing signs to, here it's a little hard to see, red outline. The system is automatically identifying where the pedestrians are. They have a system that alerts you if pedestrians getting close and you're, seem to be going too fast. You can also build systems that either brake or slow down or whatever. But the idea is that computer vision has really gotten into smart cars.                     
 
  And in fact, smart cars are here. So this car, some of you know, that is Stanley. Stanley was the Stanford. That's the little red S there. Entry into the Urban Grand Challenge run by DARPA. And it was started by. Stanley was run by this guy. What's his name? Oh yeah, Thrun something, I don't know Sebastian. He's the guy who also started Udacity. He's sort of a way under achieving, no ambition kind of guy. They won that. And then Sebastian, because he's just out there,
 
-
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/smart%20Car.jpg"></a>
+</p>
 
 convinced Google to get involved in the making the automobile process. The self driving car, which most of you have heard about. Here's a picture of it out on the highway. And the real mark that these things are here today is. States now have starting passing legislation that helps detail, well who's at fault if an accident happens on a particular road and it's a self driving car. So this is where technology starts to hit policy and economics, and that's when you know it's real 
 
@@ -242,6 +245,7 @@ Another area that's become but this is a shot from Google Earth actually, this i
 </p>
 
 # <span style="color: #ff0000;"><strong><span style="font-size: x-large;"><span style="font-family: arial, helvetica, sans-serif;">Practical Machine Learning with Python</span></span></strong></span>
+
 
 
 
