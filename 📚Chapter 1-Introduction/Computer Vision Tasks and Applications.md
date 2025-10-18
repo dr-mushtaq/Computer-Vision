@@ -114,6 +114,103 @@ here is this company, **Evolution Robotics**, that had developed this thing call
 <img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/ROBOT.jpg"></a>
 </p>
 
+Right, see, that's a camera down here, looking at this. I wonder if we're going to have to, like, erase that that's a beer. Yeah, you see, now nobody can see. Okay, you can't tell what that is. Okay. And it can detect what that is, which is not only pretty cool. But if you go on their website they'll tell you that five years later, that product was bought by a different company. So, there's money to be made in computer vision. Go do a really cool startup. Object recognition used to require a lot of computing power [2].
+
+It's, the computing power has gotten smaller. And it allows us to now operate in smaller packages. So, there's this whole area of augmented reality and object recognition by mobile devices.So, here's a system of where you, you're showing it a picture of this statue.It recognizes who this is and what the monument is. And here's an old picture from Nokia, where you can actually go off to the web, pull out information and display it to you. So for a while we were talking about doing this on smart phones, now it sits on your face. This is Professor Thad Starner, a Georgia Tech professor as well. He was instrumental in the developement of Google Glass. And one of the things that Glass does is you've got a camera looking out of what you're seeing. And can, through the same object recognition methods, can give you information about what you're looking at. And this is also part of computer vision [2].
+
+
+Smart Cars:
+Another area that you know, really blossomed lately is the use of computer vision for automotive.This is a, a website, web picture taken from Mobileye, which is a company out of Israel. And they've developed all sorts of technologies that use computer vision that are relevant to automobiles. Everything from automatically recognizing signs to, here it's a little hard to see, red outline. The system is automatically identifying where the pedestrians are. They have a system that alerts you if pedestrians getting close and you're, seem to be going too fast. You can also build systems that either brake or slow down or whatever. But the idea is that computer vision has really gotten into smart cars.                     
+
+ And in fact, smart cars are here. So this car, some of you know, that is Stanley. Stanley was the Stanford. That's the little red S there. Entry into the Urban Grand Challenge run by DARPA. And it was started by. Stanley was run by this guy. What's his name? Oh yeah, Thrun something, I don't know Sebastian. He's the guy who also started Udacity. He's sort of a way under achieving, no ambition kind of guy. They won that. And then Sebastian, because he's just out there,
+
+
+
+convinced Google to get involved in the making the automobile process. The self driving car, which most of you have heard about. Here's a picture of it out on the highway. And the real mark that these things are here today is. States now have starting passing legislation that helps detail, well who's at fault if an accident happens on a particular road and it's a self driving car. So this is where technology starts to hit policy and economics, and that's when you know it's real 
+
+
+
+1.4. Object and Instance Segmentation
+Image segmentation is a method of dividing a digital image into subgroups called image segments, reducing the complexity of the image and enabling further processing or analysis of each image segment. Technically, segmentation is the assignment of labels to pixels to identify objects, people, or other important elements in the image. In the figure below, the image was segmented such that each instance will be given a certain color, as shown [1]:
+
+
+
+Object and instance segmentation applications
+Image segmentation is a key building block of computer vision technologies and algorithms. It is used for many practical applications, including medical image analysis, computer vision for autonomous vehicles, face recognition and detection, video surveillance, and satellite image analysis [1].
+
+1.5. Pose Estimation
+Pose Estimation can have different meanings depending on the targeted tasks. For rigid objects, it usually means the estimation of the objects’ positions and orientations relative to the camera in the 3D space. This is especially useful for robots so that they can interact with their environment (object picking, Collision avoidance, and so on). It is also often used in augmented reality to overlay 3D information on top of objects [1]
+
+
+
+For non-rigid elements, pose estimation can also mean the estimation of the positions of their sub-parts relative to each other. More concretely, when considering humans as non-rigid targets, typical applications are the recognition of human poses (standing, sitting, running, and so on) or understanding of sign language [1].
+
+
+
+.
+
+1.5- OCR (Optical Character Recognition)
+The interesting question is sort of what is the state of the art in computer vision now? What are things that are people doing with computer vision? How might that compare a little bit to the way humans do vision? Here is a, a simple example of stuff that, in fact used to be sort of considered to be difficult, but is actually now pretty standard. So let's talk about simple optical character recognition. So here's an example from some license plate readers. And license plates are somewhat easier because there's a fixed font. In fact, not that long ago doing OCR was considered very hard. Today if you have a scanner, or if you have Adobe Acrobat, it comes with OCR built in. Because that's how ubiquitous and sort of easy it is. A little more challenging, many of you may have started using automated teller machines. Where you can deposit bank checks with hand written numbers that are the amount. And also, for quite a while the Post Office has been recognizing the ZIP codes using, machines. Again, on handwritten envelopes. So that's an example of computer vision extracting the meaning. What are the numbers that are there? [2]
+
+
+
+
+
+2. Video Analysis
+Computer vision algorithms are applied not only to single images but also to videos. Some tasks require taking into consideration image sequences of the videos as a whole in order to take temporal and spatial consistency into account. We will explore the most famous tasks and applications of computer vision for videos [1].
+
+2.1. Object Tracking
+Object tracking is the process via which computers are able to detect, understand, and keep an eye on objects across a stream of images or videos. It is one of the most widespread applications of artificial intelligence (AI) and machine learning (ML), enabling your visual data processing needs to be automated and streamlined to maximal levels. The underlying deep learning algorithms take inspiration from our biological nervous system to form a layered yet intricate network of data transmission and learning capacities [1].
+
+Object tracking solutions enable us to perform meaningful actions on visual data obtained via different types of cameras. Using suitable object detection algorithms coupled with tracking models, you can train a machine to not just recognize one or more unique objects or persons in a particular image but also identify them in subsequent frames and follow their trajectory in a video stream [1].
+
+
+
+Applications of Object Tracking
+
+Surveillance use cases: With the help of sophisticated algorithms that are capable of real-time tracking of objects in a video, businesses can significantly enhance their security departments [1].
+Retail market: A greatly innovative practical application of object tracking in the retail industry can be seen in Amazon Go stores. Amazon has created an amalgamation of various computer vision and artificial intelligence processes to introduce a cashier-less checkout system for their supermarket:
+Autonomous driving: self-driving cars are perhaps the most well-known application of AI-driven object detection and tracking. Since you have to keep track of the road and the objects surrounding you, object detection is very important for the advance of this industry [1].
+2.2. Action Recognition
+Action recognition is the task of identifying when a person in an image or video is performing a given action. It belongs to a list of tasks that can only be performed on a sequence of images. It is very similar to how we can not understand a sentence from just one word, we cannot also recognize the action from one image. Computer vision algorithms can be trained to recognize a variety of actions, from running and sleeping to drinking, falling, or riding a bike [1].
+
+
+
+Applications of action recognition:
+
+Surveillance: One of the areas of applications of action recognition is the surveillance industry, such as detecting suspicious or abnormal behavior
+Human-Computer Interaction: Another area of application of action recognition is human-computer interaction, such as gesture-controlled devices.
+2.3. Motion Estimation
+Motion estimation examines the movement of objects in an image sequence to try to obtain vectors representing the estimated motion. This is important in the application that focuses on estimating the actual velocity or trajectory that is captured in videos.
+
+
+
+Motion estimation is very useful in different industries such as traffic management to estimate the velocity of cars and also in entertainment industries to capture motion in order to apply visual effects to it or to overlay 3D information on TV streams or broadcasting.
+
+3. Content-aware Image Editing
+Computer vision algorithms are not only used to analyze the content of the images, as shown before but also to improve the quality and the content of the images. Nowadays basic image processing and enhancement tools such as filtering with smarter methods that use prior knowledge of the image content to improve the visual quality of the image. For example, if a model is trained to know what a bird typically looks like, then it can apply this knowledge in order to replace noisy pixels with coherent ones in bird pictures. This concept can be applied to image restoration or resolution enhancement. The figure below shows restored pixels using Nividia content-aware filling tool [1].
+
+
+
+4. Scene Reconstruction
+Scene reconstruction is the process of reconstructing a 3D digital version of a real-world object from pictures or scans of the object. It is a very complex problem with a lot of research history, open problems, and possible solutions. In this process, the correspondences between two images of scenes from different viewpoints order to derive the distance of each visualized element. More advanced methods take several images and match their content together in order to obtain a 3D model of the target scene [1].
+
+
+
+Application 
+
+Special Effects and 3D Modeling: There's a area of computer vision people know a little bit less about. It's used a lot in special effects, everything from capturing the shape of somebody, so you take the scan of somebody's face, whether it's laser or otherwise. You build models, and then you can make lots of these people, and you can light them from different sides and different directions because you have a full 3D model.
+
+
+
+Likewise, motion capture, so if you saw Pirates of the Caribbean, the one with the, the guy with all the weird things on his face, and of course, you know, that's all CGI, but the question is, how do they know exactly where to put his face and everything? Well, that, there are these markers that are being worn that are being tracked by these cameras. And they have to figure out the three-dimensional geometry, and that's also a form of computer vision.
+
+
+
+Another area that's become but this is a shot from Google Earth actually, this is from Microsoft's Virtual Earth. Google Earth is yet another version of it. Where basically, they can take imagery, so here's imagery, aerial imagery. But also, they can use that to figure out the models of the buildings. Put those three-dimensional models in there, and then you can fly around them however you want. So that's a structure for motion method of using lots of images, a sequence, to recover the three-dimensional structure. We'll talk only a little bit about that. We'll focus mostly on a couple of images.
+
+
+
 ### References
 
 1-[What is Computer Vision? & Its Applications](https://medium.com/@draj0718/what-is-computer-vision-its-applications-826c0bbd772b)
@@ -136,6 +233,7 @@ here is this company, **Evolution Robotics**, that had developed this thing call
 </p>
 
 # <span style="color: #ff0000;"><strong><span style="font-size: x-large;"><span style="font-family: arial, helvetica, sans-serif;">Practical Machine Learning with Python</span></span></strong></span>
+
 
 
 
