@@ -297,6 +297,11 @@ Hobbyists or developers interested in image processing
 |[**🌐6-Training**](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%2010%20L3%20Generalized%20Hough%20transform%20Edit%20section%20name/6%20-%20Training.md)| [1](https://drive.google.com/file/d/1QsLYm0pGQnG5rfTDh6L1pQNU9Gp1TtBD/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=8239&forceview=1)|🟧 Intermediate|--|
 |[**🌐7-Application in Recognition**](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%2010%20L3%20Generalized%20Hough%20transform%20Edit%20section%20name/6%20-%20Training.md)| [1](https://drive.google.com/file/d/1f6YK9JGeu686x4t6RWsWrCaQSRtXWnTq/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Note](https://coursesteach.com/mod/page/view.php?id=8277&forceview=1)|🟧 Intermediate|--|
 
+##  🔹Chapter10: - **L3 Generalized Hough transform**
+| Topic Name/Tutorial | Video | NoteBook |Note|Difficulty levels|Extra Resources|
+|---|---|---|---|---|---|
+|**🌐1-Introduction of Generalized Hough transform**| [1](https://drive.google.com/file/d/1Oa2B5s_GW150M1kj5hwfUiRLiRVlxrXv/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=7893&forceview=1)|🟧 Intermediate|
+
 </details>
 
 <details>
@@ -433,6 +438,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
