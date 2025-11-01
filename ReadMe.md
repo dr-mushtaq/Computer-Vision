@@ -17,6 +17,14 @@ computer vision course,  computer vision with Python, AI in image analysis, edge
 <img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9A%20Diagram/1755137645005.gif "></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/dr-mushtaq/Computer-Vision/discussions" target="_blank">
+    <button style="background-color:#0366d6; color:white; border:none; padding:10px 20px; font-size:16px; border-radius:6px; cursor:pointer;">
+      ðŸ’¬ Join the Discussion
+    </button>
+  </a>
+</p>
+
 <!-- Social card for GitHub -->
 <meta property="og:image" content="https://raw.githubusercontent.com/hussain0048/Computer-Vision-/main/CoursesTeach%20(2).png">
 <meta property="og:title" content="Computer Vision Course - Learn with Code, Notebooks, and Projects">
@@ -435,6 +443,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!ðŸš
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
