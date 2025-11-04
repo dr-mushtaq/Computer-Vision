@@ -327,6 +327,7 @@ v
 |---|---|---|
 |[**✅1- Jeff Heaton**](https://www.youtube.com/@HeatonResearch/about)|It is Videos and github|---|
 |[**✅2- First Principles of Computer Vision**](https://www.youtube.com/@firstprinciplesofcomputerv3258/playlists)|It is Videos and github|---|
+|[**✅3-Yannic Kilcher**](https://www.youtube.com/@YannicKilcher)|It is Videos and github|---|
 
 ## 🔹Chapter4: - **Free Books**
 | Title/link| Description | Code |
@@ -443,6 +444,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
