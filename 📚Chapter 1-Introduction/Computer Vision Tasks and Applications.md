@@ -206,6 +206,11 @@ Object tracking solutions enable us to perform meaningful actions on visual data
 Surveillance use cases: With the help of sophisticated algorithms that are capable of real-time tracking of objects in a video, businesses can significantly enhance their security departments [1].
 Retail market: A greatly innovative practical application of object tracking in the retail industry can be seen in Amazon Go stores. Amazon has created an amalgamation of various computer vision and artificial intelligence processes to introduce a cashier-less checkout system for their supermarket:
 Autonomous driving: self-driving cars are perhaps the most well-known application of AI-driven object detection and tracking. Since you have to keep track of the road and the objects surrounding you, object detection is very important for the advance of this industry [1].
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/obj%20tracking.gif"></a>
+</p>
+
 # Action Recognition
 
 Action recognition is the task of identifying when a person in an image or video is performing a given action. It belongs to a list of tasks that can only be performed on a sequence of images. It is very similar to how we can not understand a sentence from just one word, we cannot also recognize the action from one image. Computer vision algorithms can be trained to recognize a variety of actions, from running and sleeping to drinking, falling, or riding a bike [1].
@@ -269,6 +274,7 @@ Another area that's become but this is a shot from Google Earth actually, this i
 </p>
 
 # <span style="color: #ff0000;"><strong><span style="font-size: x-large;"><span style="font-family: arial, helvetica, sans-serif;">Practical Machine Learning with Python</span></span></strong></span>
+
 
 
 
