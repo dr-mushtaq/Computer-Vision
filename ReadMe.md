@@ -45,7 +45,7 @@ You can support this project by becoming a sponsor on **[GitHub Sponsors](https:
 - [Computer Vision Resources](#computer-vision-resources)
 
 
- ## **Why Join This Course?**
+ ## **⭐ Why This Repository Is Your Best Computer Vision Learning Hub**
  
 1.  📸 End-to-End Learning: Master the full spectrum of computer vision — from image basics and filters to deep learning, object detection, and segmentation.
 
@@ -415,6 +415,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
