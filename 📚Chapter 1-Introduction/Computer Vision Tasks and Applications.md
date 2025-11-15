@@ -189,28 +189,30 @@ The interesting question is sort of what is the state of the art in computer vis
 </p>
 
 
+# Video Analysis
 
-2. Video Analysis
 Computer vision algorithms are applied not only to single images but also to videos. Some tasks require taking into consideration image sequences of the videos as a whole in order to take temporal and spatial consistency into account. We will explore the most famous tasks and applications of computer vision for videos [1].
 
-2.1. Object Tracking
+# Object Tracking
+
 Object tracking is the process via which computers are able to detect, understand, and keep an eye on objects across a stream of images or videos. It is one of the most widespread applications of artificial intelligence (AI) and machine learning (ML), enabling your visual data processing needs to be automated and streamlined to maximal levels. The underlying deep learning algorithms take inspiration from our biological nervous system to form a layered yet intricate network of data transmission and learning capacities [1].
 
 Object tracking solutions enable us to perform meaningful actions on visual data obtained via different types of cameras. Using suitable object detection algorithms coupled with tracking models, you can train a machine to not just recognize one or more unique objects or persons in a particular image but also identify them in subsequent frames and follow their trajectory in a video stream [1].
 
 
 
-Applications of Object Tracking
+## Applications of Object Tracking
 
 Surveillance use cases: With the help of sophisticated algorithms that are capable of real-time tracking of objects in a video, businesses can significantly enhance their security departments [1].
 Retail market: A greatly innovative practical application of object tracking in the retail industry can be seen in Amazon Go stores. Amazon has created an amalgamation of various computer vision and artificial intelligence processes to introduce a cashier-less checkout system for their supermarket:
 Autonomous driving: self-driving cars are perhaps the most well-known application of AI-driven object detection and tracking. Since you have to keep track of the road and the objects surrounding you, object detection is very important for the advance of this industry [1].
-2.2. Action Recognition
+# Action Recognition
+
 Action recognition is the task of identifying when a person in an image or video is performing a given action. It belongs to a list of tasks that can only be performed on a sequence of images. It is very similar to how we can not understand a sentence from just one word, we cannot also recognize the action from one image. Computer vision algorithms can be trained to recognize a variety of actions, from running and sleeping to drinking, falling, or riding a bike [1].
 
 
 
-Applications of action recognition:
+## Applications of action recognition:
 
 Surveillance: One of the areas of applications of action recognition is the surveillance industry, such as detecting suspicious or abnormal behavior
 Human-Computer Interaction: Another area of application of action recognition is human-computer interaction, such as gesture-controlled devices.
@@ -221,17 +223,17 @@ Motion estimation examines the movement of objects in an image sequence to try t
 
 Motion estimation is very useful in different industries such as traffic management to estimate the velocity of cars and also in entertainment industries to capture motion in order to apply visual effects to it or to overlay 3D information on TV streams or broadcasting.
 
-3. Content-aware Image Editing
+# Content-aware Image Editing
+
 Computer vision algorithms are not only used to analyze the content of the images, as shown before but also to improve the quality and the content of the images. Nowadays basic image processing and enhancement tools such as filtering with smarter methods that use prior knowledge of the image content to improve the visual quality of the image. For example, if a model is trained to know what a bird typically looks like, then it can apply this knowledge in order to replace noisy pixels with coherent ones in bird pictures. This concept can be applied to image restoration or resolution enhancement. The figure below shows restored pixels using Nividia content-aware filling tool [1].
 
+# Scene Reconstruction
 
-
-4. Scene Reconstruction
 Scene reconstruction is the process of reconstructing a 3D digital version of a real-world object from pictures or scans of the object. It is a very complex problem with a lot of research history, open problems, and possible solutions. In this process, the correspondences between two images of scenes from different viewpoints order to derive the distance of each visualized element. More advanced methods take several images and match their content together in order to obtain a 3D model of the target scene [1].
 
 
 
-Application 
+## Application 
 
 Special Effects and 3D Modeling: There's a area of computer vision people know a little bit less about. It's used a lot in special effects, everything from capturing the shape of somebody, so you take the scan of somebody's face, whether it's laser or otherwise. You build models, and then you can make lots of these people, and you can light them from different sides and different directions because you have a full 3D model.
 
@@ -267,6 +269,7 @@ Another area that's become but this is a shot from Google Earth actually, this i
 </p>
 
 # <span style="color: #ff0000;"><strong><span style="font-size: x-large;"><span style="font-family: arial, helvetica, sans-serif;">Practical Machine Learning with Python</span></span></strong></span>
+
 
 
 
