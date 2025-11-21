@@ -3,6 +3,8 @@
 Learn Computer Vision from scratch with hands‑on Python code, OpenCV tutorials, deep‑learning projects, quizzes, and real‑world mini‑projects — all organized in one complete GitHub repository.
 
 Optimize your learning journey with a structured, SEO‑friendly, and contributor‑ready Computer Vision roadmap.
+
+ ## If you found this helpful, Please Start it to help other discover these tutorials ⭐
  
  ## <p style="font-family:JetBrains Mono; font-weight:normal; letter-spacing: 1px; color:#207d06; font-size:100%; text-align:left;padding: 0px; border-bottom: 3px solid #207d06;">**1-Introduction**</p>
 <a href="https://app.commanddash.io/agent?github=https://github.com/hussain0048/Computer-Vision"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
@@ -415,6 +417,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
