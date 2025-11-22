@@ -271,7 +271,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐3-Basis Sets**| [1](https://drive.google.com/file/d/1oi9FDXWH0clzWdL7to3xjVYMEw3Ufpgp/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8324&forceview=1)|--- |
 |**🌐4-Fourier**| [1](https://drive.google.com/file/d/1cvPWKWxE7vnHwU-KR_9HFfzYjWdixFRK/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8364&forceview=1)|--- |
 |**🌐5-A Sum of Sines**| [1](https://drive.google.com/file/d/1N8ExEmf3LvYSTF7dyPfbClox7L7XvEPu/view)[-2](https://www.youtube.com/watch?v=spUNpyF58BY)[-3](https://drive.google.com/file/d/1Ro2_NH1XJYN7NfxoSLKdJ066BUsPKhwl/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8412&forceview=1)|--- |
-|**🌐6-Time and Frequency**| [1](https://drive.google.com/file/d/1pe1zH7s14i1pvzIUdOGt7FhnjIrWC35S/view)[-2](https://www.youtube.com/watch?v=spUNpyF58BY)[-3](https://drive.google.com/file/d/1Ro2_NH1XJYN7NfxoSLKdJ066BUsPKhwl/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8413&forceview=1)|--- |
+|**🌐6-Time and Frequency**| [1](https://drive.google.com/file/d/1pe1zH7s14i1pvzIUdOGt7FhnjIrWC35S/view)[-2](https://www.youtube.com/watch?v=B6uCaGh2M7k&list=PLLC7bmONapvCXtNan7HxLupTNdMmzsOzV&index=6)[-3](https://drive.google.com/file/d/1Ro2_NH1XJYN7NfxoSLKdJ066BUsPKhwl/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8413&forceview=1)|--- |
 
 
 </details>
@@ -418,6 +418,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
