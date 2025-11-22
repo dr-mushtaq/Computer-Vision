@@ -256,11 +256,15 @@ Scene reconstruction is the process of reconstructing a 3D digital version of a 
 
 Likewise, motion capture, so if you saw Pirates of the Caribbean, the one with the, the guy with all the weird things on his face, and of course, you know, that's all CGI, but the question is, how do they know exactly where to put his face and everything? Well, that, there are these markers that are being worn that are being tracked by these cameras. And they have to figure out the three-dimensional geometry, and that's also a form of computer vision.
 
-
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/d.jpg"></a>
+</p>
 
 Another area that's become but this is a shot from Google Earth actually, this is from Microsoft's Virtual Earth. Google Earth is yet another version of it. Where basically, they can take imagery, so here's imagery, aerial imagery. But also, they can use that to figure out the models of the buildings. Put those three-dimensional models in there, and then you can fly around them however you want. So that's a structure for motion method of using lots of images, a sequence, to recover the three-dimensional structure. We'll talk only a little bit about that. We'll focus mostly on a couple of images.
 
-
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/123.jpg"></a>
+</p>
 
 ### References
 
@@ -284,6 +288,7 @@ Another area that's become but this is a shot from Google Earth actually, this i
 </p>
 
 # <span style="color: #ff0000;"><strong><span style="font-size: x-large;"><span style="font-family: arial, helvetica, sans-serif;">Practical Machine Learning with Python</span></span></strong></span>
+
 
 
 
