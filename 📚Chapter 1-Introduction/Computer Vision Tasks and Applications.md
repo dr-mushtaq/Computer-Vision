@@ -232,7 +232,11 @@ Motion estimation is very useful in different industries such as traffic managem
 
 # Content-aware Image Editing
 
-Computer vision algorithms are not only used to analyze the content of the images, as shown before but also to improve the quality and the content of the images. Nowadays basic image processing and enhancement tools such as filtering with smarter methods that use prior knowledge of the image content to improve the visual quality of the image. For example, if a model is trained to know what a bird typically looks like, then it can apply this knowledge in order to replace noisy pixels with coherent ones in bird pictures. This concept can be applied to image restoration or resolution enhancement. The figure below shows restored pixels using Nividia content-aware filling tool [1].
+Computer vision algorithms are not only used to analyze the content of the images, as shown before but also to improve the quality and the content of the images. Nowadays basic image processing and enhancement tools such as filtering with smarter methods that use prior knowledge of the image content to improve the visual quality of the image. For example, if a model is trained to know what a bird typically looks like, then it can apply this knowledge in order to replace noisy pixels with coherent ones in bird pictures. This concept can be applied to image restoration or resolution enhancement. The figure below shows restored pixels using Nividia content-aware filling tool.
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/1_F8xcHyjUlUlRHAu9Fu0gUQ.jpg"></a>
+</p>
 
 # Scene Reconstruction
 
@@ -276,6 +280,7 @@ Another area that's become but this is a shot from Google Earth actually, this i
 </p>
 
 # <span style="color: #ff0000;"><strong><span style="font-size: x-large;"><span style="font-family: arial, helvetica, sans-serif;">Practical Machine Learning with Python</span></span></strong></span>
+
 
 
 
