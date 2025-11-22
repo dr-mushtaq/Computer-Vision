@@ -224,7 +224,9 @@ Human-Computer Interaction: Another area of application of action recognition is
 2.3. Motion Estimation
 Motion estimation examines the movement of objects in an image sequence to try to obtain vectors representing the estimated motion. This is important in the application that focuses on estimating the actual velocity or trajectory that is captured in videos.
 
-
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/action.gif"></a>
+</p>
 
 Motion estimation is very useful in different industries such as traffic management to estimate the velocity of cars and also in entertainment industries to capture motion in order to apply visual effects to it or to overlay 3D information on TV streams or broadcasting.
 
@@ -274,6 +276,7 @@ Another area that's become but this is a shot from Google Earth actually, this i
 </p>
 
 # <span style="color: #ff0000;"><strong><span style="font-size: x-large;"><span style="font-family: arial, helvetica, sans-serif;">Practical Machine Learning with Python</span></span></strong></span>
+
 
 
 
