@@ -242,13 +242,17 @@ Computer vision algorithms are not only used to analyze the content of the image
 
 Scene reconstruction is the process of reconstructing a 3D digital version of a real-world object from pictures or scans of the object. It is a very complex problem with a lot of research history, open problems, and possible solutions. In this process, the correspondences between two images of scenes from different viewpoints order to derive the distance of each visualized element. More advanced methods take several images and match their content together in order to obtain a 3D model of the target scene [1].
 
-
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/1_k8AObcYXnBdVs25RO1njAw.png"></a>
+</p>
 
 ## Application 
 
-Special Effects and 3D Modeling: There's a area of computer vision people know a little bit less about. It's used a lot in special effects, everything from capturing the shape of somebody, so you take the scan of somebody's face, whether it's laser or otherwise. You build models, and then you can make lots of these people, and you can light them from different sides and different directions because you have a full 3D model.
+**Special Effects and 3D Modeling:** There's a area of computer vision people know a little bit less about. It's used a lot in special effects, everything from capturing the shape of somebody, so you take the scan of somebody's face, whether it's laser or otherwise. You build models, and then you can make lots of these people, and you can light them from different sides and different directions because you have a full 3D model.
 
-
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/ee.jpg"></a>
+</p>
 
 Likewise, motion capture, so if you saw Pirates of the Caribbean, the one with the, the guy with all the weird things on his face, and of course, you know, that's all CGI, but the question is, how do they know exactly where to put his face and everything? Well, that, there are these markers that are being worn that are being tracked by these cameras. And they have to figure out the three-dimensional geometry, and that's also a form of computer vision.
 
@@ -280,6 +284,7 @@ Another area that's become but this is a shot from Google Earth actually, this i
 </p>
 
 # <span style="color: #ff0000;"><strong><span style="font-size: x-large;"><span style="font-family: arial, helvetica, sans-serif;">Practical Machine Learning with Python</span></span></strong></span>
+
 
 
 
