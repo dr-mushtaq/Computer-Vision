@@ -268,11 +268,10 @@ Another area that's become but this is a shot from Google Earth actually, this i
 
 ### References
 
-[1- Overview of Computer Vision Tasks & Applications]()
+[1- Overview of Computer Vision Tasks & Applications](https://pub.towardsai.net/overview-of-the-computer-vision-tasks-applications-647f63e66e9f)
 
-[2-Introduction of Computer Vision]()
+[2-Introduction of Computer Vision](https://auth.udacity.com/sign-in)
 
-[3-What Is Computer Vision – A very Simple Explanation (Episode 2 | CVFE)]()
 
 
 <p align="right">
@@ -286,6 +285,7 @@ Another area that's become but this is a shot from Google Earth actually, this i
 </p>
 
 # <span style="color: #ff0000;"><strong><span style="font-size: x-large;"><span style="font-family: arial, helvetica, sans-serif;">Practical Machine Learning with Python</span></span></strong></span>
+
 
 
 
