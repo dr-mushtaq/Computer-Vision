@@ -268,13 +268,11 @@ Another area that's become but this is a shot from Google Earth actually, this i
 
 ### References
 
-1-[What is Computer Vision? & Its Applications](https://medium.com/@draj0718/what-is-computer-vision-its-applications-826c0bbd772b)
+[1- Overview of Computer Vision Tasks & Applications]()
 
-2-[-Introduction of Computer Vision](https://auth.udacity.com/sign-in)
+[2-Introduction of Computer Vision]()
 
-4-[How computer vision works](https://www.sas.com/en_us/insights/analytics/computer-vision.html#technical)
-
-5-[Computer Vision 🤖 Fundamentals with OpenCV](https://medium.com/codex/computer-vision-fundamentals-with-opencv-9fc93b61e3e8)
+[3-What Is Computer Vision – A very Simple Explanation (Episode 2 | CVFE)]()
 
 
 <p align="right">
@@ -288,6 +286,7 @@ Another area that's become but this is a shot from Google Earth actually, this i
 </p>
 
 # <span style="color: #ff0000;"><strong><span style="font-size: x-large;"><span style="font-family: arial, helvetica, sans-serif;">Practical Machine Learning with Python</span></span></strong></span>
+
 
 
 
