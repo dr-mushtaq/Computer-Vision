@@ -21,6 +21,10 @@ Concepts
 So here’s an image of an old and I think now expired comedian who’s, therefore, cannot sue me. That’s Phyllis Diller, by the way, in case you remember. And by the way, we’re going to start with black and white because black and white just makes everything easier because it’s just a single channel. We, we’ll do color on and off, but pretty much everything we do for black and white do, you do for color, hold for black and white, and, and it’s just easier. So when I show this to you, you actually think of it as a picture or something to look at. But
 
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%202-Image%20As%20Function/70c37170-d90f-4ebd-810a-e16d9117e2f6_346x427.jpg"></a>
+</p>
+
 ## 📑 Table of Contents  
 
 - [Understanding Classification](#Understanding-Classification)  
@@ -475,6 +479,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
