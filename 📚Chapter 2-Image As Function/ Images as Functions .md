@@ -387,7 +387,7 @@ Gradient Boosting Trees is a powerful machine learning algorithm that can be use
 ### References
 
 
-1-[sklearn-cheat](https://github.com/thegeekyb0y/sklearn-cheat?tab=readme-ov-file#logisticregression)
+1-[Understanding Images as Functions in Computer Vision: A Deep Dive into Image Representation and Processing](https://mushtaqmsit.substack.com/p/understanding-images-as-functions)
 
 
 
@@ -465,6 +465,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
