@@ -10,6 +10,16 @@ The image function takes these coordinates as input and returns the correspondin
 
 By treating an image as a function, we can perform various operations on it using mathematical techniques. For example, we can apply filters or transformations to the image function to enhance certain features or extract useful information.
 
+# What is an image?
+
+Def: Every image that we see in this world is nothing, but an array of numbers with various value ranges depending on the colorspaces we are using. For example, for RGB colorspace, each change value has a range of 0–255, whereas the hue channel in the HSV channel has a range of 0–180.
+
+Def: A visual representation of a real-life entity, such as a person or any object, in two-dimensional form is known as an image. Essentially, an image is a compilation of pixels arranged in various color spaces.
+
+Concepts
+
+So here’s an image of an old and I think now expired comedian who’s, therefore, cannot sue me. That’s Phyllis Diller, by the way, in case you remember. And by the way, we’re going to start with black and white because black and white just makes everything easier because it’s just a single channel. We, we’ll do color on and off, but pretty much everything we do for black and white do, you do for color, hold for black and white, and, and it’s just easier. So when I show this to you, you actually think of it as a picture or something to look at. But
+
 
 ## 📑 Table of Contents  
 
@@ -465,6 +475,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
