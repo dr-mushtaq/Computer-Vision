@@ -54,6 +54,18 @@ When images are treated as functions, they can be represented using mathematical
 Essentially, an image can be described by a 2D function, I(x, y), where x and y denote the aforementioned spatial coordinates, and the value of I at any image position (x, y) denotes the pixel intensity. In a digital image, the spatial coordinates as well as the intensity values are all finite, discrete quantities[3].
 
 So, let’s talk a little bit more about images as functions, all right? So, we can think of an image as a function, f, sometimes we’ll say f, sometimes we’ll say I. That maps, you know, to, from R squared to R. That is, it goes from an x y to some pure intensity or value at that position x y. But we’re not going to have, sort of, arbitrary functions, we’re going to limit them in certain ways. For us, an image is going to be defined to be over some bound. So x ranges from a to b. And y ranges from c to d. And the intensity ranges from some min to some max.
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%202-Image%20As%20Function/image%20(6).jpg"></a>
+</p>
+
+Now, if you think that images value go from zero to 255. okay. That is a pure accident, zero to one probably would have made a lot more sense. Zero be black, white be white, oh sorry, one be white. Where did the 255. Well, you computer nerds we all know. Well there are 8 bits in a byte, right. So if they’re all on they’re all ones we’ll call that 255. There is nothing special about 255, okay. And in fact, later we’re going to even have to have images that can have negatives in them. So the thing that you just have to remember, is we’re going to allow our images to go from some min to some max. The min will be sort of the blackest black, the max will be the whitest white, if we’re actually thinking of them as intensities. But later if we think of them as just pure functions, like image derivatives, they just going to take on some real value.
+
+By the way, we can do color images the same way. Now, instead of having one function that maps x,y to an intensity, we just have three functions, often called r, g and b, sometimes called l, u and v. We’re going to talk about that way later. All right? But they basically, you can think of this as what we call a vector-valued function so every pixel, the function is a vector of three numbers. Like I said, most of the time we’ll be sticking to gray level images.
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%202-Image%20As%20Function/195e243d-f43c-4be9-a5b9-435e45f9216e_700x379.jpg"></a>
+</p>
  
 ### References
 
@@ -64,4 +76,5 @@ So, let’s talk a little bit more about images as functions, all right? So, we 
 
 
  
+
 
