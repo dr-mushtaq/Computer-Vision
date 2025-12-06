@@ -82,6 +82,11 @@ We also know that image intensity values have a finite range. Say in this image,
 <p align="center">
 <img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%202-Image%20As%20Function/61e3acd1-47e8-4403-805c-2f0e0a9530f2_700x332.jpg"></a>
 </p>
+
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%202-Image%20As%20Function/unnamed%20(6).png"></a>
+</p>
  
 ### References
 
@@ -92,6 +97,7 @@ We also know that image intensity values have a finite range. Say in this image,
 
 
  
+
 
 
 
