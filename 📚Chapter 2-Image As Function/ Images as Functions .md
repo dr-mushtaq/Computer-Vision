@@ -66,6 +66,22 @@ By the way, we can do color images the same way. Now, instead of having one func
 <p align="center">
 <img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%202-Image%20As%20Function/195e243d-f43c-4be9-a5b9-435e45f9216e_700x379.jpg"></a>
 </p>
+
+Well, you can think of an image as a collection of light intensities at different locations. For instance, this area on the shirt is pretty bright, here this shadow is dark, and this grass somewhere in between.
+
+Now how would you identify these different locations?
+
+Note that these locations are laid out in a two-dimensional space. We can characterize it using, say an x-axis, which is the horizontal dimension, and a y-axis, which is the vertical dimension. Any location on the image can thus be specified using an x-axis value and a y-axis value. Notice that this x axis value can be any real number. Similarly for y. Now the image intensity at the position x, y can be written as f of x, y. And that’s how you can think of the image as a function.
+
+Now what about the intensity values in the image?
+
+If we assume that they are real numbers than we can say that f is a mapping from R cross R, or R square, to R. Now this definition seems to indicate that images are infinitely large, but practically speaking, images have a finite size, they have a certain width and a certain height. Assuming that our coordinate origin is here, we can define numerical bounds for the image. For instance, 10 to 210 n the x-axis, and say, 15 to 165 along the y-axis.
+
+We also know that image intensity values have a finite range. Say in this image, they range from zero through ten. Given these finite ranges. How would you define this image as a function? Complete the function definition above by filling in the boxes. Note that the first pair of boxes is the range of column values. The second set of boxes represents the range of rows, or y values. And finally, the third set of boxes represent the image in density range.
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%202-Image%20As%20Function/61e3acd1-47e8-4403-805c-2f0e0a9530f2_700x332.jpg"></a>
+</p>
  
 ### References
 
@@ -76,5 +92,6 @@ By the way, we can do color images the same way. Now, instead of having one func
 
 
  
+
 
 
