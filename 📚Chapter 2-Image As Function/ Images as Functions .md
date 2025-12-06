@@ -25,7 +25,7 @@ So here’s an image of an old and I think now expired comedian who’s, therefo
 <img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%202-Image%20As%20Function/70c37170-d90f-4ebd-810a-e16d9117e2f6_346x427.jpg"></a>
 </p>
 
-# what actually is, is a function. 
+# What actually is, is a function. 
 
 In fact, we can just call it a function of I of x y, all right, where the I has something to do with the image intensity. So, if I think of this as a function, then I can just plot this as a surface and MATLAB makes this incredibly easy. And if I did, it would look something like this. Now this is the exact same function, but instead of showing you as a picture where, you know, sort of straight on, and by the way, the way MATLAB does it it’s really cool, the, the higher the thing is it also makes it brighter, so you can see. So if you take a look at like the, the, the checkers pattern on that awful shirt she was wearing, right, so the bright spots are here, and the dark spots are down there. Okay, that function is the same function as the image that I was showing you before. Computer vision and especially image processing, we’ll be talking mostly about the image processing side of computer vision today and the next few are about taking these functions and computing something from them. Often, we’re just going to computer another image-like function, so images in, images out. And sometimes, we’ll be getting some sorts of information. So here’s a very simple example. Suppose I took that previous function, and I just smoothed it. All right, so now you see, I have the same surface I had before, but it’s now, you know, it blends smoother, and the peaks and the valleys of that shirt are, are much smoother. They’re not as steep as they were before. Okay. So that’s the function. Now, of course, I can show that to you as an image again. What’s that going to look like? Well, you’ve probably figured this out because you’re all so smart. It’s just going to be a blurry version of that image, okay. And I’m showing it here side by side with the blurred function, oh, sorry, the smooth function, right? Because there is this direct analogy between what we call blurring in the image and smoothing of that function. It’s exactly the same thing.
 
@@ -41,7 +41,19 @@ In fact, we can just call it a function of I of x y, all right, where the I has 
 <img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%202-Image%20As%20Function/111111.jpg"></a>
 </p>
 
+In computer vision, images play a crucial role in extracting meaningful information from visual data. Traditionally, images have been treated as a collection of pixels, with each pixel representing a specific color value. However, with recent advancements in computer vision techniques, there has been a paradigm shift towards viewing images as functions. In this blog post, we will explore the concept of images as functions, their applications in computer vision, and the benefits they offer over the traditional pixel-based approach.
 
+# Understanding Images as Functions
+
+In the traditional pixel-based approach, an image is represented as a grid of pixel values, where each pixel corresponds to a specific location and contains information about the color or intensity at that location. However, by treating images as functions, we can view them as mathematical entities that map spatial positions to pixel values.
+
+A digital image is made up of pixels, where each pixel is characterised by its spatial coordinates inside the image space, and its intensity or gray level value [3].
+
+When images are treated as functions, they can be represented using mathematical notations such as f(x, y), where (x, y) represents the spatial location and f(x, y) represents the corresponding pixel value. This representation allows us to perform various operations on images using mathematical operations like differentiation, integration, and convolution.
+
+Essentially, an image can be described by a 2D function, I(x, y), where x and y denote the aforementioned spatial coordinates, and the value of I at any image position (x, y) denotes the pixel intensity. In a digital image, the spatial coordinates as well as the intensity values are all finite, discrete quantities[3].
+
+So, let’s talk a little bit more about images as functions, all right? So, we can think of an image as a function, f, sometimes we’ll say f, sometimes we’ll say I. That maps, you know, to, from R squared to R. That is, it goes from an x y to some pure intensity or value at that position x y. But we’re not going to have, sort of, arbitrary functions, we’re going to limit them in certain ways. For us, an image is going to be defined to be over some bound. So x ranges from a to b. And y ranges from c to d. And the intensity ranges from some min to some max.
  
 ### References
 
@@ -52,3 +64,4 @@ In fact, we can just call it a function of I of x y, all right, where the I has 
 
 
  
+
