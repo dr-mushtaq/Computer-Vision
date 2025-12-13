@@ -274,6 +274,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐6-Time and Frequency**| [1](https://drive.google.com/file/d/1pe1zH7s14i1pvzIUdOGt7FhnjIrWC35S/view)[-2](https://www.youtube.com/watch?v=B6uCaGh2M7k&list=PLLC7bmONapvCXtNan7HxLupTNdMmzsOzV&index=6)[-3](https://drive.google.com/file/d/1Ro2_NH1XJYN7NfxoSLKdJ066BUsPKhwl/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8413&forceview=1)|--- |
 |**🌐7-Fourier Transform**| [1](https://drive.google.com/file/d/16mxFLk2PuSaTiKg7t7Lh1_I0QGOZCyhh/view)[-2](https://www.youtube.com/watch?v=o5EawXpa9AQ&list=PLLC7bmONapvCXtNan7HxLupTNdMmzsOzV&index=7)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8478&forceview=1)|--- |
 |**🌐8-Computing Fourier Transform**| [1](https://drive.google.com/file/d/1wg6qRYs0NMlPCx0qb_jmqpIdQY8JpaCF/view)[-2](https://www.youtube.com/watch?v=fbuoH-K8Alw&list=PLLC7bmONapvCXtNan7HxLupTNdMmzsOzV&index=9)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8521)|--- |
+|**🌐9-Fourier Transform More Formally**| [1](https://drive.google.com/file/d/1hrQBxaqd7EYhFgbtKCteI49Ke1WO8rOC/view)[-2](https://www.youtube.com/watch?v=V-rmbE7H6mQ&list=PLLC7bmONapvCXtNan7HxLupTNdMmzsOzV&index=10)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8521)|--- |
 
 
 </details>
@@ -420,6 +421,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
