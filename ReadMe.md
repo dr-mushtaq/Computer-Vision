@@ -307,6 +307,7 @@ v
 |[**✅1- Jeff Heaton**](https://www.youtube.com/@HeatonResearch/about)|It is Videos and github|---|
 |[**✅2- First Principles of Computer Vision**](https://www.youtube.com/@firstprinciplesofcomputerv3258/playlists)|It is Videos and github|---|
 |[**✅3-Yannic Kilcher**](https://www.youtube.com/@YannicKilcher)|It is Videos and github|---|
+|[**✅4-AI-ML-Roadmap-from-scratch**](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch)|It is Videos and github|---|
 
 ## 🔹Chapter4: - **Free Books**
 | Title/link| Description | Code |
@@ -314,7 +315,8 @@ v
 |[**✅1- Foundations of Computer Vision**](https://visionbook.mit.edu/)|Antonio Torralba, Phillip Isola, and William Freeman|---|
 |[**✅2- Computer Vision: Algorithms and Applications, 2nd ed**](https://szeliski.org/Book/)|© 2022 Richard Szeliski, The University of Washington|---|
 |[**✅3- Foundations of Computer Vision**](https://visionbook.mit.edu/)|Antonio Torralba, Phillip Isola, and William Freeman|---|
-|[**✅4- Comprehensive Study Resources**](https://github.com/Rishabh-creator601/Books/tree/master)|A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.
+|[**✅4- Comprehensive Study Resource**](https://github.com/Rishabh-creator601/Books/tree/master)|A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.
+|[**✅5- AI-ML-Roadmap-from-scratch**](https://github.com/Rishabh-creator601/Books/tree/master)|A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.
 
 |---|
 
@@ -423,6 +425,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
