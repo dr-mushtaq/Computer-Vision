@@ -277,6 +277,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐9-Fourier Transform More Formally**| [1](https://drive.google.com/file/d/1hrQBxaqd7EYhFgbtKCteI49Ke1WO8rOC/view)[-2](https://www.youtube.com/watch?v=V-rmbE7H6mQ&list=PLLC7bmONapvCXtNan7HxLupTNdMmzsOzV&index=10)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8521)|--- |
 |**🌐10-Frequency Spectra**| [1](https://drive.google.com/file/d/1VmwTSUzsKDdTPUdHEuapEg2sWCq-axIq/view)[-2](https://www.youtube.com/watch?v=J-NeLCMIUs0&list=PLLC7bmONapvCXtNan7HxLupTNdMmzsOzV&index=13)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8596&forceview=1)|--- |
 |**🌐11-Limitations**| [1](https://drive.google.com/file/d/1Z6v4tcLWtBsM0XFWzEcOBFJJ5DwQZ2LR/view)[-2](https://www.youtube.com/watch?v=H-RoPMA2fY4&list=PLLC7bmONapvCXtNan7HxLupTNdMmzsOzV&index=15)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8597&forceview=1)|--- |
+|**🌐12-Fourier Transform to Fourier Series**| [1](https://drive.google.com/file/d/17_EQOrd7r1BsTcG6N2UHTN3CyfVNuNBZ/view)[-2](https://www.youtube.com/watch?v=O60ro_1iISM&list=PLLC7bmONapvCXtNan7HxLupTNdMmzsOzV&index=17)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8635&forceview=1)|--- |
 
 
 </details>
@@ -425,6 +426,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
