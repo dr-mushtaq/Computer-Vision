@@ -279,6 +279,11 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐11-Limitations**| [1](https://drive.google.com/file/d/1Z6v4tcLWtBsM0XFWzEcOBFJJ5DwQZ2LR/view)[-2](https://www.youtube.com/watch?v=H-RoPMA2fY4&list=PLLC7bmONapvCXtNan7HxLupTNdMmzsOzV&index=15)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8597&forceview=1)|--- |
 |**🌐12-Fourier Transform to Fourier Series**| [1](https://drive.google.com/file/d/17_EQOrd7r1BsTcG6N2UHTN3CyfVNuNBZ/view)[-2](https://www.youtube.com/watch?v=O60ro_1iISM&list=PLLC7bmONapvCXtNan7HxLupTNdMmzsOzV&index=17)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8635&forceview=1)|--- |
 
+##  🔹Chapter: - ** Others topics**
+| Topic Name/Tutorial | Video | NoteBook |Note|Difficulty levels|Extra Resources|
+|---|---|---|---|---|---|
+|**🌐1-How LLMs Actually Understand Images**| [1](https://www.youtube.com/watch?v=PuodF4pq79g)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8297&forceview=1)|--- |
+
 
 </details>
 
@@ -426,6 +431,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
