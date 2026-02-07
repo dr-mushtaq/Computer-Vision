@@ -285,7 +285,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | Topic Name/Tutorial | Video | NoteBook |Note|Difficulty levels|Extra Resources|
 |---|---|---|---|---|---|
 |**🌐1-Introduction**| [1](https://drive.google.com/file/d/1BsZJJHSqYiBl5HgDBl-b79PK8ZNZ8TTB/view)[-2](https://drive.google.com/file/d/1Td_P9CQ-MeMAf9LjX7LQ8kbxZJYvhs84/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8748&forceview=1)|--- |
-**🌐2-Fourier Transform and Convolution**| [1](https://drive.google.com/file/d/1ixZR4cxxqDETZqaGI8eF_4Tbk665u5QH/view)[-2](https://www.youtube.com/watch?v=pcAEgk6pDKw&list=PLLC7bmONapvCXtNan7HxLupTNdMmzsOzV&index=23)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8769&forceview=1)|--- |
+|**🌐2-Fourier Transform and Convolution**| [1](https://drive.google.com/file/d/1ixZR4cxxqDETZqaGI8eF_4Tbk665u5QH/view)[-2](https://www.youtube.com/watch?v=pcAEgk6pDKw&list=PLLC7bmONapvCXtNan7HxLupTNdMmzsOzV&index=23)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8769&forceview=1)|--- |
+|**🌐3-FFT**| [1](https://drive.google.com/file/d/1pfo1IKAIzi-YAYB8bQ9ILvfUuxUc1PdW/view?usp=sharing)[-2](https://www.youtube.com/watch?v=884oYZqKG7A&list=PLLC7bmONapvCXtNan7HxLupTNdMmzsOzV&index=24)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8797&forceview=1)|--- |
 
 ##  🔹Chapter: - **Others topics**
 | Topic Name/Tutorial | Video | NoteBook |Note|Difficulty levels|Extra Resources|
@@ -441,6 +442,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
