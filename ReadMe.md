@@ -290,6 +290,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐4-Smoothing and Blurring**| [1](https://drive.google.com/file/d/1IbYiOO-4PhLCqVNHD9V8CURme1OQuYK9/view)[-2](https://www.youtube.com/watch?v=884oYZqKG7A&list=PLLC7bmONapvCXtNan7HxLupTNdMmzsOzV&index=24)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8826&forceview=1)|--- |
 |**🌐5-2D Example**| [1](https://drive.google.com/file/d/1WMsAslA6h-O8Ci5hB4jpVl617xOYnV5n/view)[-2](https://www.youtube.com/watch?v=6HEcRwNmR3A&list=PLLC7bmONapvCXtNan7HxLupTNdMmzsOzV&index=27)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8857&forceview=1)|--- |
 |**🌐6- Low and High Pass Filtering**| [1](https://drive.google.com/file/d/1OidchiLYxMfxLNav3mmZj_TDcKTU1HEd/view?usp=sharing)[-2](https://www.youtube.com/watch?v=aK5YhS1bDtU&list=PLLC7bmONapvCXtNan7HxLupTNdMmzsOzV&index=28)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8857&forceview=1)|--- |
+|**🌐7-Properties of Fourier Transform**| [1](https://drive.google.com/file/d/1ngY2r1sJzPwpkqCqu7BJ0tgsIu3FQFfF/view)[-2](https://youtu.be/6GeNyXedmTA?si=SUlnpYw8J3cFwMTD)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8903&forceview=1)|--- |
 
 ##  🔹Chapter: - **Others topics**
 | Topic Name/Tutorial | Video | NoteBook |Note|Difficulty levels|Extra Resources|
@@ -445,6 +446,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Computer-Vision" />
 </a>
+
 
 
 
