@@ -307,6 +307,21 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐1-image classification**| [1](https://www.youtube.com/watch?v=PuodF4pq79g)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8297&forceview=1)|--- |
 |**🌐1-transfer learning**| [1](https://www.youtube.com/watch?v=PuodF4pq79g)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8297&forceview=1)|--- |
 
+##  🔹Chapter: - **Object Detection(Comming Soon)**
+| Topic Name/Tutorial | Video | NoteBook |Note|Difficulty levels|Extra Resources|
+|---|---|---|---|---|---|
+|**🌐1-YOLO object detection**| [1](https://www.youtube.com/watch?v=PuodF4pq79g)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8297&forceview=1)|--- |
+|**🌐1-Faster R-CNN**| [1](https://www.youtube.com/watch?v=PuodF4pq79g)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8297&forceview=1)|--- |
+|**🌐1-SSD object detection**| [1](https://www.youtube.com/watch?v=PuodF4pq79g)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8297&forceview=1)|--- |
+
+##  🔹Chapter: - **Image Segmentation(Comming Soon)**
+| Topic Name/Tutorial | Video | NoteBook |Note|Difficulty levels|Extra Resources|
+|---|---|---|---|---|---|
+|**🌐1-semantic segmentation**| [1](https://www.youtube.com/watch?v=PuodF4pq79g)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8297&forceview=1)|--- |
+|**🌐1-instance segmentation**| [1](https://www.youtube.com/watch?v=PuodF4pq79g)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8297&forceview=1)|--- |
+|**🌐1-U-Net neural network**| [1](https://www.youtube.com/watch?v=PuodF4pq79g)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8297&forceview=1)|--- |
+|**🌐1-Mask R-CNN**| [1](https://www.youtube.com/watch?v=PuodF4pq79g)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8297&forceview=1)|--- |
+
 
 
 ##  🔹Chapter: - **Others topics**
