@@ -293,6 +293,11 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**🌐7-Properties of Fourier Transform**| [1](https://drive.google.com/file/d/1ngY2r1sJzPwpkqCqu7BJ0tgsIu3FQFfF/view)[-2](https://youtu.be/6GeNyXedmTA?si=SUlnpYw8J3cFwMTD)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8903&forceview=1)|--- |
 |**🌐8-Fourier Pairs**| [1](https://drive.google.com/file/d/1ZANKGj8Uus6ePF5HEoy1R0Y9UDeNus5E/view)[-2](https://youtu.be/7ASwE6T1yE4?si=I_WqVnbKsDwOyu_O)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8927&forceview=1)|--- |
 
+##  🔹Chapter13: - **Aliasing**
+| Topic Name/Tutorial | Video | NoteBook |Note|Difficulty levels|Extra Resources|
+|---|---|---|---|---|---|
+|**🌐1-Introduction**| [1](https://drive.google.com/file/d/1BsZJJHSqYiBl5HgDBl-b79PK8ZNZ8TTB/view)[-2](https://youtu.be/8KNqBFe9LhU?si=64bpmudMcxOW2ZTx)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Computer-Vision-/blob/main/Introduction_to_Computer_Vision.ipynb)|[Notes](https://coursesteach.com/mod/page/view.php?id=8748&forceview=1)|--- |
+
 ##  🔹Chapter: - **Feature Detection (Comming Soon)**
 | Topic Name/Tutorial | Video | NoteBook |Note|Difficulty levels|Extra Resources|
 |---|---|---|---|---|---|
