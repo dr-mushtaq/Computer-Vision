@@ -359,6 +359,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅5-Stanford CS231N Deep Learning for computer Vsion**](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16)|Highly recommend for anyone working on self-driving projects, OpenCV practice, or just learning how CV pipelines are structured in real-world scenarios.|
 |[**✅6-The Ancient Secrets of Computer Vision by Joseph Redmon**](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p)|Highly recommend for anyone working on self-driving projects, OpenCV practice, or just learning how CV pipelines are structured in real-world scenarios.|
 |[**✅7-The Ancient Secrets of Computer Vision by Joseph Redmon**](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p)|Highly recommend for anyone working on self-driving projects, OpenCV practice, or just learning how CV pipelines are structured in real-world scenarios.|
+|[**✅8-Computer Vision with Embedded Machine Learning**](https://www.coursera.org/learn/computer-vision-with-embedded-machine-learning?irclickid=wHVwSVSvAxycRa02tazz-V1JUku1qMWWGQ0W2o0&irgwc=1&afsrc=1&utm_medium=partners&utm_source=impact&utm_campaign=3310965&utm_content=b2c&utm_campaignid=MLTUT&utm_term=14726_CR_1164545_#modules)|Highly recommend for anyone working on self-driving projects, OpenCV practice, or just learning how CV pipelines are structured in real-world scenarios.|
 v
 ##  🔹Chapter2: - **Important Website**
 | Title/link| Description | Code |
