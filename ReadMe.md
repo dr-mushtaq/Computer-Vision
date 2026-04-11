@@ -360,6 +360,9 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅6-The Ancient Secrets of Computer Vision by Joseph Redmon**](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p)|Highly recommend for anyone working on self-driving projects, OpenCV practice, or just learning how CV pipelines are structured in real-world scenarios.|
 |[**✅7-The Ancient Secrets of Computer Vision by Joseph Redmon**](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p)|Highly recommend for anyone working on self-driving projects, OpenCV practice, or just learning how CV pipelines are structured in real-world scenarios.|
 |[**✅8-Computer Vision with Embedded Machine Learning**](https://www.coursera.org/learn/computer-vision-with-embedded-machine-learning?irclickid=wHVwSVSvAxycRa02tazz-V1JUku1qMWWGQ0W2o0&irgwc=1&afsrc=1&utm_medium=partners&utm_source=impact&utm_campaign=3310965&utm_content=b2c&utm_campaignid=MLTUT&utm_term=14726_CR_1164545_#modules)|Highly recommend for anyone working on self-driving projects, OpenCV practice, or just learning how CV pipelines are structured in real-world scenarios.|
+|[**✅9-CS 198-126: Modern Computer Vision Fall 2022 (UC Berkeley)**](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)|Highly recommend for anyone working on self-driving projects, OpenCV practice, or just learning how CV pipelines are structured in real-world scenarios.|
+|[**✅10-Computer Science courses with video lectures)**](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md#computer-vision)|Highly recommend for anyone working on self-driving projects, OpenCV practice, or just learning how CV pipelines are structured in real-world scenarios.|
+v
 v
 ##  🔹Chapter2: - **Important Website**
 | Title/link| Description | Code |
