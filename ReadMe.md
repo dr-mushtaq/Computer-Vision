@@ -431,6 +431,7 @@ v
 |[**✅5-Community-led Computer Vision Community Course**](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome)|This is the repository for a community-led course on Computer Vision. Over 60 contributors from the Hugging Face| Inprogress|
 |[Computer Vision](https://github.com/the-akira/Computer-Science-Resources/blob/master/db/computer_vision.md)|---|---|
 |[Computer Vision Tutorial Series M1C1](https://pub.towardsai.net/computer-vision-tutorial-series-m1c1-535c27cd36ca)|---|---|
+|[Learning-based 3D Vision](https://github.com/dongjiacheng06/Learning-based-3D-Vision)|---|---|
 
 ## 👁️ Chapter 1: - **🔍 Tools, Frameworks & Platforms**
 
