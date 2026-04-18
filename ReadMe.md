@@ -364,6 +364,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅9-CS 198-126: Modern Computer Vision Fall 2022 (UC Berkeley)**](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)|Highly recommend for anyone working on self-driving projects, OpenCV practice, or just learning how CV pipelines are structured in real-world scenarios.|
 |[**✅10-Computer Science courses with video lectures)**](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md#computer-vision)|Highly recommend for anyone working on self-driving projects, OpenCV practice, or just learning how CV pipelines are structured in real-world scenarios.|
 |[**✅11-CS231n: Deep Learning for Computer Vision**](https://cs231n.github.io/)|Highly recommend for anyone working on self-driving projects, OpenCV practice, or just learning how CV pipelines are structured in real-world scenarios.|
+|[**✅12-Introduction to Computer Vision**](https://www.cs.cornell.edu/courses/cs5670/2025sp/lectures/)|Highly recommend for anyone working on self-driving projects, OpenCV practice, or just learning how CV pipelines are structured in real-world scenarios.|
 v
 v
 ##  🔹Chapter2: - **Important Website**
