@@ -373,6 +373,10 @@ v
 |[**✅2-visionbrick**](https://visionbrick.com/deeplearning/))|Road Map on Coggle|---|
 |[**✅3-computer Vision Study Plan**](https://pixelbank.dev/cv-study-plan))|Road Map on Coggle|---|
 
+##  🔹Chapter2: - **Road Map**
+| Title/link| Description | Code |
+|---|---|---|
+|[**✅1- ai-learning-roadmaps**](https://github.com/bishwaghimire/ai-learning-roadmaps)|Road Map on Coggle|---|
 
 ##  🔹Chapter3: - **Important Social medica Groups**
 | Title/link| Description | Code |
