@@ -10,7 +10,7 @@ Optimize your learning journey with a structured, SEO‑friendly, and contributo
 <a href="https://github.com/dr-mushtaq/Computer-Vision/blob/main/imresizer-Media%20(1).jpg"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
  
 <p align="center">
-<img src="https://github.com/hussain0048/Computer-Vision-/blob/main/CoursesTeach%20(2).png"></a>
+<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/imresizer-Media%20(1).jpg"></a>
 </p>
 
 🚀 Explore the vast landscape of computer vision through our comprehensive repository, It include resource about deep learning for vision, image processing tutorials, OpenCV projects, YOLO object detection, CNN tutorials, vision transformers,  serving as your A-Z guide to this captivating field. Whether you're delving into image processing, object detection, or deep learning, you'll find a treasure trove of resources here to deepen your understanding and hone your skills.
