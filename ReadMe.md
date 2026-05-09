@@ -497,6 +497,11 @@ Explore cutting-edge tools and Python libraries, access insightful slides and so
 
 * [Computer Vision Basic](https://coursesteach.com/enrol/index.php?id=133)
 
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+All source code and educational material in this repository are released under the MIT License.
    
 ## **✨Top Contributors**
 We would love your help in making this repository even better! If you know of an amazing Computer Vision course or you know intrested Computer Vision related tutorial/Video  that isn't listed here, or if you have any suggestions for improvement in any course content, feel free to open an issue or submit a course contribution request.
