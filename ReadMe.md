@@ -43,7 +43,7 @@ computer vision course,  computer vision with Python, AI in image analysis, edge
 
 ## 🙌 Become a Sponsor
 
-You can support this project by becoming a sponsor on **[GitHub Sponsors](https://github.com/sponsors/dr-mushtaq)** or via **bank transfer** — please contact me at 📧 [mushtaqmsit@gmail.com](mailto:mushtaqmsit@gmail.com).
+You can support this project by becoming a sponsor on mm Supporting this project helps keep educational AI content free**[GitHub Sponsors](https://github.com/sponsors/dr-mushtaq)** or via **bank transfer** — please contact me at 📧 [mushtaqmsit@gmail.com](mailto:mushtaqmsit@gmail.com).
 
 
 ## 📚 Table of Contents
@@ -99,10 +99,7 @@ Also please subscribe to my [youtube channel!](https://www.youtube.com/@coursest
 ### ✅ How to Contribute
 
 1. **Fork** this repository.
-2. **Add resources or notes** in the appropriate Chapter (alphabetically, if possible).
-3. Include the following details:
-   - Course, Tutoral **Name** (with link)
-   - A **short description** (15 words)
+2. **Add resources or notes** You can fill in a notebook, fix a bug, improve the docs, or propose a new technique. Every contribution helps the next reader..
 4. Create a **Pull Request (PR)** with a clear title and description of your changes.
 
 
