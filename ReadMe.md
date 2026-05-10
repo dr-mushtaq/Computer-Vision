@@ -96,6 +96,16 @@ Also please subscribe to my [youtube channel!](https://www.youtube.com/@coursest
 - Suggest new topics or Video ,Course
 - Create Video from blog
 
+### ✅ How to Contribute
+
+1. **Fork** this repository.
+2. **Add resources or notes** in the appropriate Chapter (alphabetically, if possible).
+3. Include the following details:
+   - Course, Tutoral **Name** (with link)
+   - A **short description** (15 words)
+4. Create a **Pull Request (PR)** with a clear title and description of your changes.
+
+
 ## 🎓 **Enrolled Courses**
 
 Please enrolled in the following courses to strengthen knowledge and practical skills in Computer Vision. These courses are designed to provide both theoretical understanding and hands-on experience with real-world Computer Vision applications.
