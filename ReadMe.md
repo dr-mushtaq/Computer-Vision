@@ -358,6 +358,19 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 </details>
 
+<details> 
+<summary> <h2>📕Course Title - 👁️ Course Title: Advance  Computer Vision </h2> </summary>
+ 
+
+## 👁️ Chapter1: - **Vision Transformers**
+explore transformer architecture in the context of computer vision and learn how they compare to CNNs. Understand common vision transformers such as Swin, DETR, and CVT, along with techniques for transfer learning and fine-tuning.
+
+| Topic Name/Tutorial | Video | Code | Note|Difficulty|
+|---|---|---|---|---|
+| [**1- What is computer Vision**](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/Introduction%20of%20Computer%20Vision%20.md)| [1](https://drive.google.com/file/d/1Cb-Cz0dRwNZzAp5f2K5cVNNwBRo3hki4/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)]
+
+</details>
+
 <details>
 <summary> <h2>📕 Computer Vision Resources </h2> </summary>
 
@@ -378,8 +391,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅11-CS231n: Deep Learning for Computer Vision**](https://cs231n.github.io/)|Highly recommend for anyone working on self-driving projects, OpenCV practice, or just learning how CV pipelines are structured in real-world scenarios.|
 |[**✅12-Introduction to Computer Vision**](https://www.cs.cornell.edu/courses/cs5670/2025sp/lectures/)|Highly recommend for anyone working on self-driving projects, OpenCV practice, or just learning how CV pipelines are structured in real-world scenarios.|
 |[**✅13-Computer Vision Course by hugging face**](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome)|we’ll cover everything from the basics to the latest advancements in computer vision.|
-v
-v
+
 ##  🔹Chapter2: - **Important Website**
 | Title/link| Description | Code |
 |---|---|---|
