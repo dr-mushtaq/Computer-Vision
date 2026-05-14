@@ -369,6 +369,13 @@ explore transformer architecture in the context of computer vision and learn how
 |---|---|---|---|---|
 | [**1- What is computer Vision**](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/Introduction%20of%20Computer%20Vision%20.md)| [1](https://drive.google.com/file/d/1Cb-Cz0dRwNZzAp5f2K5cVNNwBRo3hki4/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)]
 
+## 👁️ Chapter2: - **Multimodal Models**
+understand the fusion of text and vision by exploring multimodal tasks like image-to-text and text-to-image. Study models such as CLIP and its relatives (GroupViT, BLIPM, Owl-VIT), and master transfer learning techniques for multimodal tasks.
+
+| Topic Name/Tutorial | Video | Code | Note|Difficulty|
+|---|---|---|---|---|
+| [**1- What is computer Vision**](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/Introduction%20of%20Computer%20Vision%20.md)| [1](https://drive.google.com/file/d/1Cb-Cz0dRwNZzAp5f2K5cVNNwBRo3hki4/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)]
+
 </details>
 
 <details>
