@@ -41,3 +41,24 @@ Orientation Assignment: SIFT computes a dominant orientation for each keypoint b
 Descriptor Generation: A descriptor is computed for each keypoint region, capturing information about the local image gradients near the keypoint. This descriptor is a compact representation that encapsulates the key characteristics of the image patch surrounding the keypoint.
 Descriptor Matching: Finally, these descriptors are used for matching keypoints between different images. The descriptors from one image are compared to those in another image to find correspondences.
 SIFT’s robustness to various image transformations and its ability to find distinctive features in an image makes it valuable in applications like object recognition, image stitching, and 3D reconstruction.
+
+It stands for Speeded Up Robust features. It is another popular algorithm in computer vision and image processing. It is particularly known for its speed and robustness in detecting and describing local image features.
+
+The basic workflow of SURF is given below:
+
+Integral images: SURF utilizes integral images, precomputed representations of the original image. They allow fast calculations of rectangular area sums within an image, enabling a quicker feature computation.
+
+Blob detection: Similar to other feature detection algorithms, SURF starts by identifying potential interest points or keypoints in the image. It uses a Hessian matrix to detect blobs or regions that exhibit significant variations in intensity in multiple directions and scales. These regions are potential keypoints.
+
+Scale Selection: It determines the scale of the keypoints by identifying regions with significant changes in scale-space. It analyzes the determinant of the Hessian matrix across different scales to find robust keypoints at multiple scales.
+
+Orientation Assignment: For each detected keypoint, SURF assigns a dominant orientation. This is done by calculating Haar wavelet responses in different directions around the keypoint’s neighborhood. Unlike SIFT, SURF uses a set of rectangular filters (Haar wavelets) applied to subregions of the keypoint’s neighborhood. The responses of these filters are used to create a feature vector representing the keypoint.
+
+Descriptor Matching: The generated descriptors are then used to match key points between different images. Matching involves comparing the feature vectors of keypoints in one image to those in another image to find correspondences.
+
+The key strengths of SURF lie in its computational efficiency, which is achieved through the use of integral images and Haar wavelet approximations while maintaining robustness to scale, rotation, and illumination changes. This makes SURF suitable for real-time applications where speed plays a crucial part in object detection, tracking, and image stitching.
+
+## References
+[OpenCV Tutorial - Introduction to SURF (Speeded-Up Robust Features](https://docs.opencv.org/3.4/df/dd2/tutorial_py_surf_intro.html)
+[Journal Paper - Feature Extraction Using SURF Algorithm for Object Recognition]()
+
