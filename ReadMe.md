@@ -455,7 +455,7 @@ delve into the realm of zero-shot learning in computer vision, covering aspects 
 |[**✅10-Computer Science courses with video lectures)**](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md#computer-vision)|Highly recommend for anyone working on self-driving projects, OpenCV practice, or just learning how CV pipelines are structured in real-world scenarios.|
 |[**✅11-CS231n: Deep Learning for Computer Vision**](https://cs231n.github.io/)|Highly recommend for anyone working on self-driving projects, OpenCV practice, or just learning how CV pipelines are structured in real-world scenarios.|
 |[**✅12-Introduction to Computer Vision**](https://www.cs.cornell.edu/courses/cs5670/2025sp/lectures/)|Highly recommend for anyone working on self-driving projects, OpenCV practice, or just learning how CV pipelines are structured in real-world scenarios.|
-|[**✅13-Computer Vision Course by hugging face**](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome)|we’ll cover everything from the basics to the latest advancements in computer vision.|
+|[**✅13-Computer Vision Course by hugging face**](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome)|we’ll cover everything from the basics to the latest advancements in computer vision.|[Github](https://github.com/huggingface/computer-vision-course/tree/main)|
 
 ##  🔹Chapter2: - **Important Website**
 | Title/link| Description | Code |
