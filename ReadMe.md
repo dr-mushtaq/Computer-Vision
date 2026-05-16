@@ -413,6 +413,27 @@ discover the importance of synthetic data creation using deep generative models.
 |---|---|---|---|---|
 | [**1- What is computer Vision**](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/Introduction%20of%20Computer%20Vision%20.md)| [1](https://drive.google.com/file/d/1Cb-Cz0dRwNZzAp5f2K5cVNNwBRo3hki4/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)]
 
+## 👁️ Chapter7: - **Zero Shot Computer Vision**
+delve into the realm of zero-shot learning in computer vision, covering aspects of generalization, transfer learning, and its applications in tasks such as zero-shot recognition and image segmentation. Explore the relationship between zero-shot learning and transfer learning across various computer vision domains.
+
+| Topic Name/Tutorial | Video | Code | Note|Difficulty|
+|---|---|---|---|---|
+| [**1- What is computer Vision**](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/Introduction%20of%20Computer%20Vision%20.md)| [1](https://drive.google.com/file/d/1Cb-Cz0dRwNZzAp5f2K5cVNNwBRo3hki4/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)]
+
+## 👁️ Chapter8: - ** Ethics and Biases in Computer Vision**
+ understand the ethical considerations specific to computer vision. Explore why ethics matter, how biases can infiltrate AI models, and the types of biases prevalent in these domains. Learn how to do bias evaluation and mitigation strategies, emphasizing responsible development and deployment of AI technologies..
+
+| Topic Name/Tutorial | Video | Code | Note|Difficulty|
+|---|---|---|---|---|
+| [**1- What is computer Vision**](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/Introduction%20of%20Computer%20Vision%20.md)| [1](https://drive.google.com/file/d/1Cb-Cz0dRwNZzAp5f2K5cVNNwBRo3hki4/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)]
+
+## 👁️ Chapter9: - ** Outlook and Emerging Trends**
+ explore current trends and emerging architectures . Delve into innovative approaches like Retentive Network, Hiera, Hyena, I-JEPA, and Retention Vision Models.
+
+| Topic Name/Tutorial | Video | Code | Note|Difficulty|
+|---|---|---|---|---|
+| [**1- What is computer Vision**](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/Introduction%20of%20Computer%20Vision%20.md)| [1](https://drive.google.com/file/d/1Cb-Cz0dRwNZzAp5f2K5cVNNwBRo3hki4/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)]
+
 </details>
 
 <details>
