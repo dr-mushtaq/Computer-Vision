@@ -391,6 +391,27 @@ examine the characteristics of videos, the role of video processing, and the cha
 |---|---|---|---|---|
 | [**1- What is computer Vision**](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/Introduction%20of%20Computer%20Vision%20.md)| [1](https://drive.google.com/file/d/1Cb-Cz0dRwNZzAp5f2K5cVNNwBRo3hki4/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)]
 
+## 👁️ Chapter3: - **3D Vision, Scene Rendering, and Reconstruction**
+delve into the complexities of three-dimensional vision, exploring concepts like Nerf and GQN for scene rendering and reconstruction. Understand the challenges and applications of 3D vision in computer vision, and how it provides an even more comprehensive view of spatial information..
+
+| Topic Name/Tutorial | Video | Code | Note|Difficulty|
+|---|---|---|---|---|
+| [**1- What is computer Vision**](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/Introduction%20of%20Computer%20Vision%20.md)| [1](https://drive.google.com/file/d/1Cb-Cz0dRwNZzAp5f2K5cVNNwBRo3hki4/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)]
+
+## 👁️ Chapter4: - **Model Optimization**
+Explore the critical aspects of model optimization. Cover techniques such as model compression, deployment considerations, and the usage of tools and frameworks. Include topics like distillation, pruning, and TinyML for efficient model deployment
+
+| Topic Name/Tutorial | Video | Code | Note|Difficulty|
+|---|---|---|---|---|
+| [**1- What is computer Vision**](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/Introduction%20of%20Computer%20Vision%20.md)| [1](https://drive.google.com/file/d/1Cb-Cz0dRwNZzAp5f2K5cVNNwBRo3hki4/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)]
+
+
+## 👁️ Chapter6: - **Synthetic Data Creation**
+discover the importance of synthetic data creation using deep generative models. Explore methods like point clouds and diffusion models and investigate major synthetic datasets and their applications in computer vision
+
+| Topic Name/Tutorial | Video | Code | Note|Difficulty|
+|---|---|---|---|---|
+| [**1- What is computer Vision**](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%201-Introduction/Introduction%20of%20Computer%20Vision%20.md)| [1](https://drive.google.com/file/d/1Cb-Cz0dRwNZzAp5f2K5cVNNwBRo3hki4/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)]
 
 </details>
 
