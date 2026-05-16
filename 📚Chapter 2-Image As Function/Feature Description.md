@@ -43,7 +43,7 @@ Descriptor Matching: Finally, these descriptors are used for matching keypoints 
 SIFT’s robustness to various image transformations and its ability to find distinctive features in an image makes it valuable in applications like object recognition, image stitching, and 3D reconstruction.
 
 It stands for Speeded Up Robust features. It is another popular algorithm in computer vision and image processing. It is particularly known for its speed and robustness in detecting and describing local image features.
-
+![l](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%202-Image%20As%20Function/Flow-Chart-for-SURF-Feature-Detection.png)
 The basic workflow of SURF is given below:
 
 Integral images: SURF utilizes integral images, precomputed representations of the original image. They allow fast calculations of rectangular area sums within an image, enabling a quicker feature computation.
