@@ -1,135 +1,73 @@
-# Feature Matching
+How can we match detected features from one image to another? Feature matching involves comparing key attributes in different images to find similarities. Feature matching is useful in many computer vision applications, including scene understanding, image stitching, object tracking, and pattern recognition.
 
-How can we match detected features from one image to another?  
-Feature matching involves comparing key attributes in different images to find similarities.
+Brute-Force Search
+Imagine you have a giant box of puzzle pieces, and you’re trying to find a specific piece that fits into your puzzle. This is similar to searching for matching features in images. Instead of having any special strategy, you decide to check every piece, one by one until you find the right one. This straightforward method is a brute-force search. The advantage of brute force is its simplicity. You don’t need any special tricks – just patience. However, it can be time-consuming, especially if there are a lot of pieces to check. In the context of feature matching, this brute force approach is akin to comparing every pixel in one image to every pixel in another to see if they match. It’s exhaustive and it might take a lot of time, especially for large images.
 
-Feature matching is useful in many computer vision applications, including:
-- Scene understanding
-- Image stitching
-- Object tracking
-- Pattern recognition
+Now that we have an intuitive idea of how brute-force matches are found, let’s dive into the algorithms. We are going to use the descriptors that we learned about in the previous chapter to find the matching features in two images.
 
----
+First install and load libraries.
 
-# Brute-Force Search
-
-Imagine you have a giant box of puzzle pieces, and you’re trying to find a specific piece that fits into your puzzle.
-
-This is similar to searching for matching features in images.
-
-Instead of having any special strategy, you decide to check every piece, one by one, until you find the right one. This straightforward method is a **brute-force search**.
-
-The advantage of brute force is its simplicity. You don’t need any special tricks — just patience.
-
-However, it can be time-consuming, especially if there are a lot of pieces to check.
-
-In the context of feature matching, this brute-force approach is akin to comparing every pixel in one image to every pixel in another to see if they match.
-
-It’s exhaustive, and it might take a lot of time, especially for large images.
-
----
-
-# Install and Import Libraries
-
-```python
+Copied
 !pip install opencv-python
-```
-
-```python
+Copied
 import cv2
 import numpy as np
-```
+Brute Force with SIFT
 
----
+Let’s start by initializing SIFT detector.
 
-# Brute Force with SIFT
-
-## Initialize SIFT Detector
-
-```python
+Copied
 sift = cv2.SIFT_create()
-```
+Find the keypoints and descriptors with SIFT.
 
-## Find Keypoints and Descriptors
-
-```python
+Copied
 kp1, des1 = sift.detectAndCompute(img1, None)
 kp2, des2 = sift.detectAndCompute(img2, None)
-```
+Find matches using k nearest neighbors.
 
-## Find Matches Using k-Nearest Neighbors
-
-```python
+Copied
 bf = cv2.BFMatcher()
 matches = bf.knnMatch(des1, des2, k=2)
-```
+Apply ratio test to threshold the best matches.
 
-## Apply Ratio Test
-
-```python
+Copied
 good = []
-
 for m, n in matches:
     if m.distance < 0.75 * n.distance:
         good.append([m])
-```
+Draw the matches.
 
-## Draw the Matches
-
-```python
+Copied
 img3 = cv2.drawMatchesKnn(
-    img1,
-    kp1,
-    img2,
-    kp2,
-    good,
-    None,
-    flags=cv2.DrawMatchesFlags_NOT_DRAW_SINGLE_POINTS
+    img1, kp1, img2, kp2, good, None, flags=cv2.DrawMatchesFlags_NOT_DRAW_SINGLE_POINTS
 )
-```
+SIFT
+Brute Force with ORB (binary) descriptors
 
----
+Initialize the ORB descriptor.
 
-# Brute Force with ORB (Binary Descriptors)
-
-## Initialize ORB
-
-```python
+Copied
 orb = cv2.ORB_create()
-```
+Find keypoints and descriptors.
 
-## Find Keypoints and Descriptors
-
-```python
+Copied
 kp1, des1 = orb.detectAndCompute(img1, None)
 kp2, des2 = orb.detectAndCompute(img2, None)
-```
+Because ORB is a binary descriptor, we find matches using Hamming Distance, which is a measure of the difference between two strings of equal length.
 
-Because ORB is a binary descriptor, we use **Hamming Distance** to compare descriptors.
-
-Hamming distance measures the difference between two binary strings of equal length.
-
-## Create Brute Force Matcher
-
-```python
+Copied
 bf = cv2.BFMatcher(cv2.NORM_HAMMING, crossCheck=True)
-```
+We will now find the matches.
 
-## Find Matches
-
-```python
+Copied
 matches = bf.match(des1, des2)
-```
+We can sort them in the order of their distance like the following.
 
-## Sort Matches by Distance
-
-```python
+Copied
 matches = sorted(matches, key=lambda x: x.distance)
-```
+Draw first n matches.
 
-## Draw Best Matches
-
-```python
+Copied
 img3 = cv2.drawMatches(
     img1,
     kp1,
@@ -139,146 +77,57 @@ img3 = cv2.drawMatches(
     None,
     flags=cv2.DrawMatchesFlags_NOT_DRAW_SINGLE_POINTS,
 )
-```
+Fast Library for Approximate Nearest Neighbors (FLANN)
 
----
+FLANN was proposed in Fast Approximate Nearest Neighbors With Automatic Algorithm Configuration by Muja and Lowe. To explain FLANN, we will continue with our puzzle solving example. Visualize a giant puzzle with hundreds of pieces scattered around. Your goal is to organize these pieces based on how well they fit together. Instead of randomly trying to match pieces, FLANN uses some clever tricks to quickly figure out which pieces are most likely to go together. Instead of trying every piece against every other piece, FLANN streamlines the process by finding pieces that are approximately similar. This means it can make educated guesses about which pieces might fit well together, even if they’re not an exact match. Under the hood, FLANN is uses something called k-D trees. Think of it as organizing the puzzle pieces in a special way. Instead of checking every piece against every other piece, FLANN arranges them in a tree-like structure that makes finding matches faster. In each node of the k-D tree, FLANN puts pieces with similar features together. It’s like sorting puzzle pieces with similar shapes or colors into piles. This way, when you’re looking for a match, you can quickly check the pile that’s most likely to have similar pieces. Let’s say you’re looking for a “sky” piece. Instead of searching through all the pieces, FLANN guides you to the right spot in the k-D tree where the sky-colored pieces are sorted. FLANN also adjusts its strategy based on the features of the puzzle pieces. If you have a puzzle with lots of colors, it will focus on color features. Alternately, if it’s a puzzle with intricate shapes, it pays attention to those shapes. By balancing speed and accuracy when finding matching features, FLANN substantially improves query time.
 
-# Fast Library for Approximate Nearest Neighbors (FLANN)
+First, we create a dictionary to specify the algorithm we will use, for SIFT or SURF it looks like the following.
 
-FLANN stands for:
-
-**Fast Library for Approximate Nearest Neighbors**
-
-It was proposed in:
-
-> *Fast Approximate Nearest Neighbors With Automatic Algorithm Configuration*  
-> by Muja and Lowe.
-
----
-
-## Intuition Behind FLANN
-
-Let’s continue with the puzzle example.
-
-Imagine a giant puzzle with hundreds of pieces scattered around.
-
-Instead of randomly checking every piece against every other piece, FLANN uses clever shortcuts to quickly figure out which pieces are likely to fit together.
-
-FLANN does not always search for exact matches.
-
-Instead, it searches for **approximately similar** matches, which makes the process much faster.
-
----
-
-# k-D Trees in FLANN
-
-Under the hood, FLANN uses something called a **k-D tree**.
-
-Think of it as organizing puzzle pieces into smart groups.
-
-Pieces with similar shapes or colors are placed together.
-
-So when you search for a match:
-- you don’t search the entire puzzle
-- you only search the relevant group
-
-This dramatically improves speed.
-
----
-
-# FLANN Parameters for SIFT or SURF
-
-```python
+Copied
 FLANN_INDEX_KDTREE = 1
+index_params = dict(algorithm=FLANN_INDEX_KDTREE, trees=5)
+For ORB, will use the parameters from the paper.
 
-index_params = dict(
-    algorithm=FLANN_INDEX_KDTREE,
-    trees=5
-)
-```
-
----
-
-# FLANN Parameters for ORB
-
-```python
+Copied
 FLANN_INDEX_LSH = 6
-
 index_params = dict(
-    algorithm=FLANN_INDEX_LSH,
-    table_number=12,
-    key_size=20,
-    multi_probe_level=2
+    algorithm=FLANN_INDEX_LSH, table_number=12, key_size=20, multi_probe_level=2
 )
-```
+We also create a dictionary to specify the maximum leafs to visit as follows.
 
----
-
-# Search Parameters
-
-```python
+Copied
 search_params = dict(checks=50)
-```
+Initiate SIFT detector.
 
----
-
-# FLANN with SIFT
-
-## Initialize SIFT
-
-```python
+Copied
 sift = cv2.SIFT_create()
-```
+Find the keypoints and descriptors with SIFT.
 
-## Find Keypoints and Descriptors
-
-```python
+Copied
 kp1, des1 = sift.detectAndCompute(img1, None)
 kp2, des2 = sift.detectAndCompute(img2, None)
-```
+We will now define the FLANN parameters. Here, trees is the number of bins you want.
 
-## Define FLANN Parameters
-
-```python
+Copied
 FLANN_INDEX_KDTREE = 1
-
-index_params = dict(
-    algorithm=FLANN_INDEX_KDTREE,
-    trees=5
-)
-
+index_params = dict(algorithm=FLANN_INDEX_KDTREE, trees=5)
 search_params = dict(checks=50)
-```
-
-## Create FLANN Matcher
-
-```python
 flann = cv2.FlannBasedMatcher(index_params, search_params)
-```
 
-## Find Matches
-
-```python
 matches = flann.knnMatch(des1, des2, k=2)
-```
+We will only draw good matches, so create a mask.
 
-## Create Match Mask
-
-```python
+Copied
 matchesMask = [[0, 0] for i in range(len(matches))]
-```
+We can perform a ratio test to determine good matches.
 
-## Ratio Test
-
-```python
+Copied
 for i, (m, n) in enumerate(matches):
     if m.distance < 0.7 * n.distance:
         matchesMask[i] = [1, 0]
-```
+Now let’s visualize the matches.
 
-## Visualize Matches
-
-```python
+Copied
 draw_params = dict(
     matchColor=(0, 255, 0),
     singlePointColor=(255, 0, 0),
@@ -286,182 +135,79 @@ draw_params = dict(
     flags=cv2.DrawMatchesFlags_DEFAULT,
 )
 
-img3 = cv2.drawMatchesKnn(
-    img1,
-    kp1,
-    img2,
-    kp2,
-    matches,
-    None,
-    **draw_params
-)
-```
+img3 = cv2.drawMatchesKnn(img1, kp1, img2, kp2, matches, None, **draw_params)
+FLANN
 
----
+Local Feature Matching with Transformers (LoFTR)
+LoFTR was proposed in LoFTR: Detector-Free Local Feature Matching with Transformers by Sun, et. al. Instead of using feature detectors, LoFTR uses a learning-based approach to feature matching.
 
-# Local Feature Matching with Transformers (LoFTR)
+Let’s keep it simple and use our puzzle example once again. Instead of simply comparing images pixel by pixel, LoFTR looks for specific key points, or features, in each image. It’s like identifying the corners and edges of each puzzle piece. And just as someone really good a putting together a puzzle might focus on distinctive marks, LoFTR identifies these unique points in one image. These could be key landmarks or structures that stand out. As we have already learned, it is important that the matching algorithm handles changes in rotation or scale. If a feature is turned or resized, LoFTR would still recognize it. It’s like solving puzzles where pieces may be flipped or adjusted. As LoFTR matches features, it assigns a similarity score to indicate how well the features align. Higher scores mean better matches. It’s like giving a grade to how well one puzzle piece fits with another. LoFTR is also invariant to certain transformations, meaning it can handle variations in lighting, angle, or perspective. This is crucial when dealing with images that might be photographed under different conditions. LoFTR’s ability to robustly match features makes it valuable for tasks like image stitching, where you combine multiple images seamlessly by identifying and connecting common features.
 
-LoFTR was proposed in:
+We can use Kornia to find matching features in two images using LoFTR.
 
-> *LoFTR: Detector-Free Local Feature Matching with Transformers*  
-> by Sun et al.
+Copied
+!pip install kornia  kornia-rs  kornia_moons opencv-python --upgrade
+Import the necessary libraries.
 
-Unlike traditional methods, LoFTR uses a **deep learning-based approach** instead of handcrafted feature detectors.
-
----
-
-# Understanding LoFTR Intuitively
-
-Imagine solving a puzzle again.
-
-Instead of manually checking edges or corners, LoFTR learns what good matches look like directly from data.
-
-It identifies:
-- landmarks
-- corners
-- edges
-- important structures
-
-And it can still recognize them even if:
-- the image is rotated
-- resized
-- viewed from another angle
-- captured under different lighting
-
----
-
-# Install Dependencies
-
-```python
-!pip install kornia kornia-rs kornia_moons opencv-python --upgrade
-```
-
----
-
-# Import Libraries
-
-```python
+Copied
 import cv2
 import kornia as K
 import kornia.feature as KF
 import matplotlib.pyplot as plt
 import numpy as np
 import torch
-
 from kornia_moons.viz import draw_LAF_matches
-```
+Load and resize the images.
 
----
-
-# Load and Resize Images
-
-```python
+Copied
 from kornia.feature import LoFTR
 
-img1 = K.io.load_image(
-    "image1.jpg",
-    K.io.ImageLoadType.RGB32
-)[None, ...]
+img1 = K.io.load_image(image1.jpg, K.io.ImageLoadType.RGB32)[None, ...]
+img2 = K.io.load_image(image2.jpg, K.io.ImageLoadType.RGB32)[None, ...]
 
-img2 = K.io.load_image(
-    "image2.jpg",
-    K.io.ImageLoadType.RGB32
-)[None, ...]
+img1 = K.geometry.resize(img1, (512, 512), antialias=True)
+img2 = K.geometry.resize(img2, (512, 512), antialias=True)
+Indicate whether the image is an “indoor” or “outdoor” image.
 
-img1 = K.geometry.resize(
-    img1,
-    (512, 512),
-    antialias=True
-)
-
-img2 = K.geometry.resize(
-    img2,
-    (512, 512),
-    antialias=True
-)
-```
-
----
-
-# Initialize LoFTR
-
-Choose whether the images are:
-- indoor
-- outdoor
-
-```python
+Copied
 matcher = LoFTR(pretrained="outdoor")
-```
+LoFTR only works on grayscale images, so convert to images to grayscale.
 
----
-
-# Convert Images to Grayscale
-
-LoFTR works on grayscale images.
-
-```python
+Copied
 input_dict = {
     "image0": K.color.rgb_to_grayscale(img1),
     "image1": K.color.rgb_to_grayscale(img2),
 }
-```
+Let’s perform the inference.
 
----
-
-# Run Inference
-
-```python
+Copied
 with torch.inference_mode():
     correspondences = matcher(input_dict)
-```
+Clean up the correspondences using Random Sample Consensus (RANSAC). This helps to deal with noise or outliers in the data.
 
----
-
-# Clean Correspondences with RANSAC
-
-RANSAC helps remove noisy or incorrect matches.
-
-```python
+Copied
 mkpts0 = correspondences["keypoints0"].cpu().numpy()
 mkpts1 = correspondences["keypoints1"].cpu().numpy()
-
-Fm, inliers = cv2.findFundamentalMat(
-    mkpts0,
-    mkpts1,
-    cv2.USAC_MAGSAC,
-    0.5,
-    0.999,
-    100000
-)
-
+Fm, inliers = cv2.findFundamentalMat(mkpts0, mkpts1, cv2.USAC_MAGSAC, 0.5, 0.999, 100000)
 inliers = inliers > 0
-```
+Finally, we can visualize the matches.
 
----
-
-# Visualize LoFTR Matches
-
-```python
+Copied
 draw_LAF_matches(
     KF.laf_from_center_scale_ori(
         torch.from_numpy(mkpts0).view(1, -1, 2),
         torch.ones(mkpts0.shape[0]).view(1, -1, 1, 1),
         torch.ones(mkpts0.shape[0]).view(1, -1, 1),
     ),
-
     KF.laf_from_center_scale_ori(
         torch.from_numpy(mkpts1).view(1, -1, 2),
         torch.ones(mkpts1.shape[0]).view(1, -1, 1, 1),
         torch.ones(mkpts1.shape[0]).view(1, -1, 1),
     ),
-
     torch.arange(mkpts0.shape[0]).view(-1, 1).repeat(1, 2),
-
     K.tensor_to_image(img1),
     K.tensor_to_image(img2),
-
     inliers,
-
     draw_dict={
         "inlier_color": (0.1, 1, 0.1, 0.5),
         "tentative_color": None,
@@ -469,19 +215,16 @@ draw_LAF_matches(
         "vertical": False,
     },
 )
-```
+The best matches are visualized in green, while less certain matches are in blue.
 
-The best matches are shown in green, while uncertain matches are shown in blue.
+LoFTR
 
----
-
-# Resources and Further Reading
-
-- FLANN Github
-- OpenCV Github
-- LoFTR Github
-- Kornia Tutorial on Image Matching
-- OpenCV Feature Matching Tutorial
-- ORB (Oriented FAST and Rotated BRIEF) Tutorial
-- OpenGlue: Open Source Graph Neural Net Based Pipeline for Image Matching
-- Image Matching Using SIFT, SURF, BRIEF and ORB: Performance Comparison for Distorted Images
+Resources and Further Reading
+FLANN Github
+Image Matching Using SIFT, SURF, BRIEF and ORB: Performance Comparison for Distorted Images
+ORB (Oriented FAST and Rotated BRIEF) tutorial
+Kornia tutorial on Image Matching
+LoFTR Github
+OpenCV Github
+OpenCV Feature Matching Tutorial
+OpenGlue: Open Source Graph Neural Net Based Pipeline for Image Matching
