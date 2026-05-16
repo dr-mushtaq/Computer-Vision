@@ -17,6 +17,6 @@ Inductive bias is a term used in machine learning to describe the set of assumpt
 
 Here’s a couple of inductive biases we observe in CNNs:
 
-Translational Equivariance: an object can appear anywhere in the image, and CNNs can detect its features.
-Locality: pixels in an image interact mainly with its surrounding pixels to form features.
+- **Translational Equivariance:** an object can appear anywhere in the image, and CNNs can detect its features.
+- **Locality:** pixels in an image interact mainly with its surrounding pixels to form features.
 CNN models are very good at these two biases. ViT do not have this assumption. That is why for a dataset size up to a certain threshold actually CNNs are better than ViT. But ViT has another power! The transformer architecture being (mostly) different types of linear functions allows ViT to become highly scalable. And that in turn allows ViT to overcome the problem of not having the above two inductive biases with massive ammount of data!
