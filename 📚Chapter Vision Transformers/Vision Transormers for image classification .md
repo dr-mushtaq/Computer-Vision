@@ -22,6 +22,15 @@ Here’s a couple of inductive biases we observe in CNNs:
   
 CNN models are very good at these two biases. ViT do not have this assumption. That is why for a dataset size up to a certain threshold actually CNNs are better than ViT. But ViT has another power! The transformer architecture being (mostly) different types of linear functions allows ViT to become highly scalable. And that in turn allows ViT to overcome the problem of not having the above two inductive biases with massive ammount of data!
 
+## Transfer Learning & Fine-Tuning for Image Classification
+
+The idea of transfer learning is that we can leverage the features learned by the Vision Transformers trained on a very large dataset and apply these features to our dataset. This can lead to significant improvements in model performance, especially when our dataset has limited data available for training.
+
+Since we are taking advantage of the learned features, we do not need to update the entire model either. By freezing most of the weights, we can train only certain layers to get excellent performance with less training time and low GPU consumption.
+
+## Multi-class Image Classification
+You can go through the transfer learning tutorial using Vision Transformers for image classification in this notebook:
+
 **But how can everyone get access to massive datasets?**
 It’s not feasible for everyone to train a Vision Transformer on millions of images to get good performance. Instead, one can use openly available model weights from places such as the ![Hugging Face Hub](https://huggingface.co/models?sort=trending).
 
