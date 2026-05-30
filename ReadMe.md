@@ -5,13 +5,6 @@ Learn Computer Vision from scratch with hands‑on Python code, OpenCV tutorials
 Optimize your learning journey with a structured, SEO‑friendly, and contributor‑ready Computer Vision roadmap.
 
  ## If you found this helpful, Please Start it to help other discover these tutorials ⭐
- 
- ## <p style="font-family:JetBrains Mono; font-weight:normal; letter-spacing: 1px; color:#207d06; font-size:100%; text-align:left;padding: 0px; border-bottom: 3px solid #207d06;">**1-Introduction**</p>
-<a href="https://github.com/dr-mushtaq/Computer-Vision/blob/main/imresizer-Media%20(1).jpg"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
- 
-<p align="center">
-<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/imresizer-Media%20(1).jpg"></a>
-</p>
 
 🚀 Explore the vast landscape of computer vision through our comprehensive repository, It include resource about deep learning for vision, image processing tutorials, OpenCV projects, YOLO object detection, CNN tutorials, vision transformers,  serving as your A-Z guide to this captivating field. Whether you're delving into image processing, object detection, or deep learning, you'll find a treasure trove of resources here to deepen your understanding and hone your skills.
 
@@ -21,20 +14,7 @@ Optimize your learning journey with a structured, SEO‑friendly, and contributo
 - Enroll in Complete Machine Learning Courese [Computer Vision Course!](https://coursesteach.com/course/view.php?id=133) to Solve quiz and find extr resources.
 - Subscribe to [Convulaton Nerual Network Playlist](https://www.youtube.com/playlist?list=PLLC7bmONapvAEwgRn8WA50H_sMTBgcqn7) 
      
-
 computer vision course,  computer vision with Python, AI in image analysis, edge detection, computer vision GitHub repository, free computer vision resources
-
-<p align="center">
-<img src="https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9A%20Diagram/1755137645005.gif "></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/dr-mushtaq/Computer-Vision/discussions" target="_blank">
-    <button style="background-color:#0366d6; color:white; border:none; padding:10px 20px; font-size:16px; border-radius:6px; cursor:pointer;">
-      💬 Join the Discussion
-    </button>
-  </a>
-</p>
 
 <!-- Social card for GitHub -->
 <meta property="og:image" content="https://raw.githubusercontent.com/hussain0048/Computer-Vision-/main/CoursesTeach%20(2).png">
@@ -44,15 +24,6 @@ computer vision course,  computer vision with Python, AI in image analysis, edge
 ## 🙌 Become a Sponsor
 
 You can support this project by becoming a sponsor on mm Supporting this project helps keep educational AI content free**[GitHub Sponsors](https://github.com/sponsors/dr-mushtaq)** or via **bank transfer** — please contact me at 📧 [mushtaqmsit@gmail.com](mailto:mushtaqmsit@gmail.com).
-
-
-## 📚 Table of Contents
-- [Introduction](#1-introduction)
-- [Why Join This Course?](#-Why-Join-This-Course?)
-- [How to Get Involved](#how-to-get-involved-in-the-computer-vision-project)
-- [Chapters Overview](#course-01---introduction-of-computer-vision)
-- [Computer Vision Resources](#computer-vision-resources)
-
 
  ## **⭐ Why This Repository Is Your Best Computer Vision Learning Hub**
  
