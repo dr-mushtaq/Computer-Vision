@@ -53,13 +53,16 @@ Key parts of the implementation of Swin from the original paper is outlined belo
 
 ### 3- Apply Depth Decay: Depth decay helps with regularization and preventing overfitting. Depth decay usually done by skipping layers during training. In this Swin implementation, stochastic depth decay is used, which means the deeper the layer, the higher the chance it might be skipped.
 
-Layer Construction:
+**4- Layer Construction:**
 
-The model is composed of multiple layers (BasicLayer) of SwinTransformerBlocks, each downsampling the feature map for hierarchical processing using PatchMerging.
-The dimensionality of features and resolution of feature maps change across layers.
-Classification Head: Similar to ViT, it uses an Multi-Layer Perceptron (MLP) head for classification tasks, as defined in self.head, as the last step.
+- The model is composed of multiple layers (BasicLayer) of SwinTransformerBlocks, each downsampling the feature map for hierarchical processing using PatchMerging.
 
-Copied
+- The dimensionality of features and resolution of feature maps change across layers.
+- 
+5- **Classification Head:** Similar to ViT, it uses an Multi-Layer Perceptron (MLP) head for classification tasks, as defined in self.head, as the last step.
+
+```python
+
 class SwinTransformer(nn.Module):
     def __init__(
         self,
@@ -188,6 +191,7 @@ class SwinTransformer(nn.Module):
         x = self.forward_features(x)
         x = self.head(x)
         return x
+```
 Swin Transformer Block
 The SwinTransformerBlock encapsulates the core operations of the Swin Transformer: local windowed attention and subsequent MLP processing. It plays a key role in enabling the Swin Transformer to efficiently handle large images by focusing on local patches while maintaining the ability to learn global representations.
 
