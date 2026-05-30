@@ -37,17 +37,21 @@ Swin2SR is another image restoration model. It is an improvement on SwinIR by in
 
 Key parts of the implementation of Swin from the original paper is outlined below:
 
-Swin Transformer class
-Initialize Parameters. Among various other dropout and normalization parameters, these parameters include:
+## Swin Transformer class
 
-window_size: Size of the windows for local self-attention.
-ape (bool): If True, add absolute position embedding to the patch embedding.
-fused_window_process: Optional hardware optimization.
-Apply Patch Embedding: Similar to ViT, Images are split into non-overlapping patches and linearly embedded using Conv2D.
+### 1- Initialize Parameters. Among various other dropout and normalization parameters, these parameters include:
 
-Apply Positional Embeddings: SwinTransformer optionally uses absolute position embeddings (ape), added to the patch embeddings. Absolute positional embeddings often help the model learn to use positional information about each patch to make more informed predictions.
+- window_size: Size of the windows for local self-attention.
+- 
+- ape (bool): If True, add absolute position embedding to the patch embedding.
+  
+- fused_window_process: Optional hardware optimization.
+  
+### 2- Apply Patch Embedding: Similar to ViT, Images are split into non-overlapping patches and linearly embedded using Conv2D.
 
-Apply Depth Decay: Depth decay helps with regularization and preventing overfitting. Depth decay usually done by skipping layers during training. In this Swin implementation, stochastic depth decay is used, which means the deeper the layer, the higher the chance it might be skipped.
+### 3- Apply Positional Embeddings: SwinTransformer optionally uses absolute position embeddings (ape), added to the patch embeddings. Absolute positional embeddings often help the model learn to use positional information about each patch to make more informed predictions.
+
+### 3- Apply Depth Decay: Depth decay helps with regularization and preventing overfitting. Depth decay usually done by skipping layers during training. In this Swin implementation, stochastic depth decay is used, which means the deeper the layer, the higher the chance it might be skipped.
 
 Layer Construction:
 
