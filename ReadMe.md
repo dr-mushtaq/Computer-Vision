@@ -25,19 +25,6 @@ computer vision course,  computer vision with Python, AI in image analysis, edge
 
 You can support this project by becoming a sponsor on mm Supporting this project helps keep educational AI content free**[GitHub Sponsors](https://github.com/sponsors/dr-mushtaq)** or via **bank transfer** — please contact me at 📧 [mushtaqmsit@gmail.com](mailto:mushtaqmsit@gmail.com).
 
- ## **⭐ Why This Repository Is Your Best Computer Vision Learning Hub**
- 
-1.  📸 End-to-End Learning: Master the full spectrum of computer vision — from image basics and filters to deep learning, object detection, and segmentation.
-
-2. 🛠 Practical Implementation: Each topic includes hands-on coding exercises, Jupyter notebooks, and real-world projects.
-
-3. 🌍 Collaborative Development: Join a global community of learners, developers, and researchers. Contribute on GitHub through pull requests, discussions, and issue tracking..
-
-4. 🤖 Cutting-Edge Tech Stack: Stay at the forefront with tools like CNNs, YOLO, OpenCV, Vision Transformers, and more — all integrated with AI-powered workflows.
-
-![GitHub stars](https://img.shields.io/github/stars/hussain0048/Computer-Vision)
-![GitHub forks](https://img.shields.io/github/forks/hussain0048/Computer-Vision)
-
 
 ## **💡 How to Get Involved in the Computer Vision Project?**
 
@@ -100,15 +87,6 @@ If link is not working then you need to create account in couresteach.com then y
 
 
 📬 Need Help? Connect with us on [**WhatsApp**](https://chat.whatsapp.com/L9URPRThBEa7GFl0mlwggg)
-
-## 📬 Stay Updated with Weekly Computer Vison Lessons!
-
-Never miss a tutorial! Get weekly insights, updates, and bonus content straight to your inbox.  
-
-**Join hundreds of Computer Vision learners on Substack.**
-
-👉 [**Subscribe to Our Computer Vision  Newsletter**](https://substack.com/@coursesteach) ✨
-
 
 <details> 
 <summary> <h2>📕Course Title - 👁️ Course Title: Basics of Computer Vision </h2> </summary>
