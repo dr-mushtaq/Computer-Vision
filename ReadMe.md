@@ -1,12 +1,7 @@
  ## **👁️ Computer Vision with Python & OpenCV — The Ultimate A‑to‑Z Learning Repository**
- 
-Learn Computer Vision from scratch with hands‑on Python code, OpenCV tutorials, deep‑learning projects, quizzes, and real‑world mini‑projects — all organized in one complete GitHub repository.
-
-Optimize your learning journey with a structured, SEO‑friendly, and contributor‑ready Computer Vision roadmap.
+ 🚀 Explore the vast landscape of computer vision through our comprehensive repository, It include resource about deep learning for vision, image processing tutorials, OpenCV projects, YOLO object detection, CNN tutorials, vision transformers,  serving as your A-Z guide to this captivating field. Whether you're delving into image processing, object detection, or deep learning, you'll find a treasure trove of resources here to deepen your understanding and hone your skills.
 
  ## If you found this helpful, Please Start it to help other discover these tutorials ⭐
-
-🚀 Explore the vast landscape of computer vision through our comprehensive repository, It include resource about deep learning for vision, image processing tutorials, OpenCV projects, YOLO object detection, CNN tutorials, vision transformers,  serving as your A-Z guide to this captivating field. Whether you're delving into image processing, object detection, or deep learning, you'll find a treasure trove of resources here to deepen your understanding and hone your skills.
 
 ## Quick Start Checklist with Links
 
