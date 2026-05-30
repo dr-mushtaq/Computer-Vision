@@ -54,12 +54,27 @@ Also please subscribe to my [youtube channel!](https://www.youtube.com/@coursest
 - Suggest new topics or Video ,Course
 - Create Video from blog
 
-### ✅ How to Contribute
+## 🤝 How to Contribute
 
 1. **Fork** this repository.
-2. **Add resources or notes** You can fill in a notebook, fix a bug, improve the docs, or propose a new technique. Every contribution helps the next reader..
-4. Create a **Pull Request (PR)** with a clear title and description of your changes.
+2. Choose a contribution type:
+   - 📚 Add tutorials (Python, OpenCV, YOLO, AI, ML, etc.)
+   - 📓 Create or improve Google Colab / Jupyter notebooks
+   - 🌍 Translate content into other languages (e.g., Urdu, Spanish, etc.)
+   - ❓ Add quizzes, exercises, or solutions
+   - 📝 Improve blogs, documentation, links, and examples
+   - 🎥 Create video scripts or educational videos
+   - 🔗 Suggest useful websites, repositories, courses, datasets, or YouTube channels
+   - 🚀 Propose new topics, projects, roadmaps, or courses
+3. Include the following details:
+   - **Title / Name** (with link if applicable)
+   - **Short Description** (15–30 words)
+   - **Category**
+   - **Tags** (e.g., Python, OpenCV, YOLO, AI, Beginner, Free)
 
+4. Create a **Pull Request (PR)** with a clear title and description of your changes.
+---
+⭐ Thank you for helping improve this learning platform!
 
 ## 🎓 **Enrolled Courses**
 
