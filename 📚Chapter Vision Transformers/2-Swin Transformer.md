@@ -1,10 +1,10 @@
 Swin Transformer
-Introduced in the 2021 paper, Swin Transformer: Hierarchical Vision Transformer using Shifted Windows, the Swin Transformer architecture optimizes for latency and performance using a shifted window (as opposed to sliding window) approach which reduces the number of operations required. Swin is considered a hierarchical backbone for computer vision. Swin can be used for tasks like image classification.
+Introduced in the 2021 paper, **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows**, the Swin Transformer architecture optimizes for latency and performance using a shifted window (as opposed to sliding window) approach which reduces the number of operations required. Swin is considered a hierarchical backbone for computer vision. Swin can be used for tasks like image classification.
 
 A backbone, in terms of deep learning, is a part of a neural network that does feature extraction. Additional layers can be added to the backbone to do a variety of vision tasks. Hierarchical backbones have tiered structures, sometimes with varying resolutions. This is in contrast to the non-hierarchical plain backbone in VitDet model.
 
-Main Highlights
-Shifted windows
+# Main Highlights
+## Shifted windows
 In the original ViT, attention is done between each patch and all other patches, which gets computationally intensive. Swin optimizes this process by reducing the normally quadratic complexity ViT into linear complexity (with respect to image size). Swin achieves this using a technique similar to CNN, where patches only attend to other patches in the same window, as opposed to all other patches, and then are gradually merged with neighboring patches. This is what makes Swin a hierarchical model.
 
 Architecture Diagram of Swin vs Vit, taken from Swin transformer paperImage taken from Swin Transformer paper
