@@ -10,24 +10,31 @@ In the original ViT, attention is done between each patch and all other patches,
 
 Architecture Diagram of Swin vs Vit, taken from Swin transformer paperImage taken from Swin Transformer paper
 
-**Advantages**
-Computational efficiency
+## **Advantages**
+
+**Computational efficiency**
+
 Swin is more performant than completely patch-based approaches like ViT.
 
-Large datasets
+**Large datasets**
+
 SwinV2 is one of the first 3B parameter models. As training size goes up, Swin outperforms CNN. The large number of parameters enables increased capacity for learning and more complex representations.
 
-Swin Transformer V2 (paper)
+### Swin Transformer V2 (paper)
+
 Swin Transformer V2 is a large vision model that can support up to 3B parameters and capable of training with high resolution images. It improves upon the original Swin Transformer by stabilizing training, transfer models pre-trained with low-resolution images to high-resolution tasks, and using SimMIM, a self-supervised training approach that reduces the number of labeled images required for training.
 
-Applications in Image Restoration
-SwinIR (paper)
+### Applications in Image Restoration
+
+**SwinIR (paper)**
 SwinIR is a model for turning low resolution images into high resolution images based on Swin Transformer.
 
-Swin2SR (paper)
+##Swin2SR (paper)##
+
 Swin2SR is another image restoration model. It is an improvement on SwinIR by incorporating Swin Transformer V2, applying the benefits of Swin V2 like training stability and higher image resolution capacity.
 
-Overview of PyTorch Implementation of Swin
+# Overview of PyTorch Implementation of Swin
+
 Key parts of the implementation of Swin from the original paper is outlined below:
 
 Swin Transformer class
