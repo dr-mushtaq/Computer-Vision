@@ -6,10 +6,11 @@ A backbone, in terms of deep learning, is a part of a neural network that does f
 # Main Highlights
 ## Shifted windows
 In the original ViT, attention is done between each patch and all other patches, which gets computationally intensive. Swin optimizes this process by reducing the normally quadratic complexity ViT into linear complexity (with respect to image size). Swin achieves this using a technique similar to CNN, where patches only attend to other patches in the same window, as opposed to all other patches, and then are gradually merged with neighboring patches. This is what makes Swin a hierarchical model.
+![](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%20Vision%20Transformers/swim1.png)
 
 Architecture Diagram of Swin vs Vit, taken from Swin transformer paperImage taken from Swin Transformer paper
 
-Advantages
+**Advantages**
 Computational efficiency
 Swin is more performant than completely patch-based approaches like ViT.
 
