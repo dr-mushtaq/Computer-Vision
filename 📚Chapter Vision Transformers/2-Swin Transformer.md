@@ -192,19 +192,21 @@ class SwinTransformer(nn.Module):
         x = self.head(x)
         return x
 ```
-Swin Transformer Block
+# Swin Transformer Block
+
 The SwinTransformerBlock encapsulates the core operations of the Swin Transformer: local windowed attention and subsequent MLP processing. It plays a key role in enabling the Swin Transformer to efficiently handle large images by focusing on local patches while maintaining the ability to learn global representations.
 
-Layer Components:
+# Layer Components:
 
-Normalization Layer 1 (self.norm1): Applied before the attention mechanism.
-Window Attention (self.attn): Computes self-attention within local windows.
-Drop Path (self.drop_path): Implements stochastic depth for regularization.
-Normalization Layer 2 (self.norm2): Applied before the MLP layer.
-MLP (mlp): A multi-layer perceptron for processing features post-attention.
-Attention Mask (self.register_buffer): The attention mask is used during the self-attention computation to control which elements in the windowed input are allowed to interact (i.e., attend to each other). The shifted window approach helps the model to capture broader contextual information by allowing some cross-window interaction.
-Swin Transformer Block’s Initialization
-Copied
+- Normalization Layer 1 (self.norm1): Applied before the attention mechanism.
+- Window Attention (self.attn): Computes self-attention within local windows.
+- Drop Path (self.drop_path): Implements stochastic depth for regularization.
+- Normalization Layer 2 (self.norm2): Applied before the MLP layer.
+- MLP (mlp): A multi-layer perceptron for processing features post-attention.
+- Attention Mask (self.register_buffer): The attention mask is used during the self-attention computation to control which elements in the windowed input are allowed to interact (i.e., attend to each other). The shifted window approach helps the model to capture broader contextual information by allowing some cross-window interaction.
+  
+# Swin Transformer Block’s Initialization
+```python
 class SwinTransformerBlock(nn.Module):
     r"""Swin Transformer Block.
 
@@ -224,7 +226,6 @@ class SwinTransformerBlock(nn.Module):
         norm_layer (nn.Module, optional): Normalization layer.  Default: nn.LayerNorm
         fused_window_process (bool, optional): If True, use one kernel to fused window shift & window partition for acceleration, similar for the reversed part. Default: False
     """
-
     def __init__(
         self,
         dim,
@@ -376,19 +377,21 @@ class SwinTransformerBlock(nn.Module):
         x = x + self.drop_path(self.mlp(self.norm2(x)))
 
         return x
-Swin Transformer Block’s Forward Pass
+```
+
+# Swin Transformer Block’s Forward Pass
 There are 4 key steps:
 
-Cyclic shift: The feature map is partitioned into windows via window_partition. A cyclic shift is then applied to the partitions. Cyclic shift is done by moving elements (in this case, partitions) in a sequence to the left or right, and wrapping around the elements that go off one end back to the other end. This process changes the positions of the elements relative to each other but keeps the sequence otherwise intact. For example, if you cyclically shift the sequence A, B, C, D to the right by one position, it becomes D, A, B, C.
+- Cyclic shift: The feature map is partitioned into windows via window_partition. A cyclic shift is then applied to the partitions. Cyclic shift is done by moving elements (in this case, partitions) in a sequence to the left or right, and wrapping around the elements that go off one end back to the other end. This process changes the positions of the elements relative to each other but keeps the sequence otherwise intact. For example, if you cyclically shift the sequence A, B, C, D to the right by one position, it becomes D, A, B, C.
 Cyclic shift allows the model to capture relationships between adjacent windows, enhancing its ability to learn spatial contexts beyond the local scope of individual windows.
 
-Windowed attention: Perform attention using window-based multi-head self attention (W-MSA) module.
+- Windowed attention: Perform attention using window-based multi-head self attention (W-MSA) module.
 
-Merge Patches: Patches are merged via PatchMerging.
+- Merge Patches: Patches are merged via PatchMerging.
 
-Reverse cyclic shift: After attention is done, the window partitioning is undone via reverse_window, and the cyclic shift operation is reversed, so that the feature map retains its original form.
+- Reverse cyclic shift: After attention is done, the window partitioning is undone via reverse_window, and the cyclic shift operation is reversed, so that the feature map retains its original form.
 
-Copied
+```python
 class WindowAttention(nn.Module):
     """
     Args:
@@ -496,7 +499,8 @@ class WindowAttention(nn.Module):
         x = self.proj(x)
         x = self.proj_drop(x)
         return x
-Window Attention
+```
+# Window Attention
 WindowAttention is a window-based multi-head self attention (W-MSA) module with relative position bias. This can be used for both shifted and non-shifted windows.
 
 Copied
