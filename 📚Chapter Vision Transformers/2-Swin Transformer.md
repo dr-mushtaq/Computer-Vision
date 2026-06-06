@@ -503,7 +503,7 @@ class WindowAttention(nn.Module):
 # Window Attention
 WindowAttention is a window-based multi-head self attention (W-MSA) module with relative position bias. This can be used for both shifted and non-shifted windows.
 
-Copied
+```python
 class PatchMerging(nn.Module):
     r"""Patch Merging Layer.
 
@@ -542,10 +542,11 @@ class PatchMerging(nn.Module):
         x = self.reduction(x)
 
         return x
-Patch Merging Layer
+```
+# Patch Merging Layer
 Patch merging method is used for downsampling. It is used to reduce the spatial dimensions of the feature map, similar to pooling in traditional convolutional neural networks (CNNs). It helps in building hierarchical feature representations by progressively increasing the receptive field and reducing the spatial resolution.
 
-Copied
+```python
 from datasets import load_dataset
 from transformers import AutoImageProcessor, SwinForImageClassification
 import torch
@@ -569,13 +570,14 @@ predicted_label_id = logits.argmax(-1).item()
 predicted_label_text = model.config.id2label[predicted_label_id]
 
 print(predicted_label_text)
-Try it out
+```
+# Try it out
 You can find the 🤗 documentation for Swin here.
 
 Usage of pretrained Swin model for classification
 Here is how to use Swin model to classify a cat image into one of the 1,000 ImageNet classes:
 
-Copied
+ ```python
 from datasets import load_dataset
 from transformers import AutoImageProcessor, SwinForImageClassification
 import torch
@@ -599,3 +601,4 @@ predicted_label_id = logits.argmax(-1).item()
 predicted_label_text = model.config.id2label[predicted_label_id]
 
 print(predicted_label_text)
+```
