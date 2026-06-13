@@ -329,6 +329,11 @@ If link is not working then you need to create account in couresteach.com then y
 
 <details> 
 <summary> <h2>📕Course Title - 👁️ Course Title: Advance  Computer Vision </h2> </summary>
+
+#### YouTube Channels
+- **[CS 198-126: Modern Computer Vision Fall 2022 (UC Berkeley)](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)** - FREE
+#### Course
+- **[Computer Vision by huggingface](https://huggingface.co/learn/computer-vision-course/unit3/vision-transformers/vision-transformer-for-object-detection)** - FREE
  
 
 ## 👁️ Chapter1: - **Vision Transformers**
