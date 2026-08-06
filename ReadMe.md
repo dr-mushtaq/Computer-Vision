@@ -558,6 +558,7 @@ Of course, these won’t solve every use case, and I’m not listing every suppo
 | Title/link| Description | Status |
 |---|---|---|
 |[**✅1- Multimodal Data Analysis with Deep Learning**](https://rackenzik.com/multimodal-data-analysis-with-deep-learning/)|It is Videos and github|pending|
+|[**✅2-How Vision-Language Models (VLMs) Actually Work**](https://amanxai.com/2026/08/05/build-a-vision-ai-app-with-python/?fbclid=IwY2xjawTg-CNwZG9mAWV4dG4DYWVtAjExAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4y-Xm9u85TvEYFFpPQoCf7fZRs68Pjq6oPKtpfOyQ_zyHModb6CChWXxFV9g_aem_M-EKQTLHyhzfCshtifOs8g)|It is Videos and github|pending|
 </details>
 
 ##  💻 Workflow:
