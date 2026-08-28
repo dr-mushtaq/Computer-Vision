@@ -492,6 +492,7 @@ delve into the realm of zero-shot learning in computer vision, covering aspects 
 |[**✅4- Comprehensive Study Resource**](https://github.com/Rishabh-creator601/Books/tree/master)|A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.
 |[**✅5- AI-ML-Roadmap-from-scratch**](https://github.com/Rishabh-creator601/Books/tree/master)|A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.
 |[**✅6- Dive into Deep Learning**](https://d2l.ai/)|Antonio Torralba, Phillip Isola, and William Freeman|---|
+|[**✅7- 2026_KFCA_Computer_Vision**](https://github.com/KAUST-Academy/2026_KFCA_Computer_Vision/tree/master)|Antonio Torralba, Phillip Isola, and William Freeman|---|
 
 |---|
 
