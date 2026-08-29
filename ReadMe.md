@@ -83,10 +83,6 @@ Star this repo if you find it useful ⭐
 
 🔗 [**YouTube Channe**l](https://www.youtube.com/@coursesteach-mv5si/videos)
 
-🔗 [**Bloger Blogs**](https://coursesteach.blogspot.com/2025/08/top-computer-vision-tasks-and-real.html)
-
-🔗 [**Facebook**](https://www.facebook.com/CourseTeach)
-
 🔗 [**LinkedIn**](https://www.linkedin.com/company/90909828/admin/page-posts/published/)
 
 🔗 [**Enbroll in Complate Computer Vision Course**](https://coursesteach.com/course/view.php?id=133)
@@ -104,7 +100,6 @@ If link is not working then you need to create account in couresteach.com then y
 #### Notes
 - **[Georgia Tech OMSCS](https://courses.learntosolveit.com/gatech/)** - FREE
  
-
 ## 👁️ Chapter1: - **Foundations of Computer Vision**
 | Topic Name/Tutorial | Video | Code | Note|Difficulty|
 |---|---|---|---|---|
@@ -529,6 +524,7 @@ delve into the realm of zero-shot learning in computer vision, covering aspects 
 |[Computer Vision](https://github.com/the-akira/Computer-Science-Resources/blob/master/db/computer_vision.md)|---|---|
 |[Computer Vision Tutorial Series M1C1](https://pub.towardsai.net/computer-vision-tutorial-series-m1c1-535c27cd36ca)|---|---|
 |[Learning-based 3D Vision](https://github.com/dongjiacheng06/Learning-based-3D-Vision)|---|---|
+|[Artificial-Intelligence-Courses by KAUST Academy](https://github.com/KAUST-Academy/Artificial-Intelligence-Courses)|---|---|
 
 ## 👁️ Chapter 1: - **🔍 Tools, Frameworks & Platforms**
 
