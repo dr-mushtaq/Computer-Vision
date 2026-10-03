@@ -95,7 +95,7 @@ If link is not working then you need to create account in couresteach.com then y
 📬 Need Help? Connect with us on [**WhatsApp**](https://chat.whatsapp.com/L9URPRThBEa7GFl0mlwggg)
 
 <details> 
-<summary> <h2>📕Course Title - 👁️ Course Title: Basics of Computer Vision </h2> </summary>
+<summary> <h2>📕Course Title - 👁️ Basics of Computer Vision </h2> </summary>
  
 #### Notes
 - **[Georgia Tech OMSCS](https://courses.learntosolveit.com/gatech/)** - FREE
