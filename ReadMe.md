@@ -20,56 +20,12 @@ computer vision course,  computer vision with Python, AI in image analysis, edge
 
 You can support this project by becoming a sponsor on mm Supporting this project helps keep educational AI content free**[GitHub Sponsors](https://github.com/sponsors/dr-mushtaq)** or via **bank transfer** — please contact me at 📧 [mushtaqmsit@gmail.com](mailto:mushtaqmsit@gmail.com).
 
-
-## **💡 How to Get Involved in the Computer Vision Project?**
-
-🚀 **Fork & Star the Repo**:Show your support and stay updated — fork the repository and give it a ⭐ on GitHub!
-
-👩‍💻 **Dive Into Structured Lessons**: Start learning with well-organized, beginner-to-advanced tutorials curated to help you build real skills step by step.
-
-🛠️ **Contribute to Code & Content**:Enhance existing blogs, refine code, fix bugs, or write new tutorials on exciting computer vision topics.
-
-🧪 **Experiment & Innovate**:Use the provided codebase as your playground — tweak, test, and explore to discover something new.
-
-🤝 **Collaborate with the Community**:Join discussions, review PRs, and team up with fellow developers, students, and AI enthusiasts around the world.
-
-📌 **Share Your Knowledge**:Submit your own implementations, mini-projects, or useful resources like blogs, website, videos, GitHub repos, and research papers etc.
-
 Also please subscribe to my [youtube channel!](https://www.youtube.com/@coursesteach-mv5si)
 
-## 🛠️ We're Actively Looking for Contributors To:
-- Add new tutorials (Python, OpenCV, YOLO, etc.)
-- Convert lessons into interactive Colab notebooks
-- Fix broken links and typos
-- Translate lessons into other languages (e.g., Urdu, Spanish)
-- Add quizzes or solutions
-- improve the current blog
-- suggestion other important website ,repistory,youtube Channel etc
-- Create blog from next topic in our jounrney 
-- Suggest new topics or Video ,Course
-- Create Video from blog
 
 ## 🤝 How to Contribute
 
-1. **Fork** this repository.
-2. Choose a contribution type:
-   - 📚 Add tutorials (Python, OpenCV, YOLO, AI, ML, etc.)
-   - 📓 Create or improve Google Colab / Jupyter notebooks
-   - 🌍 Translate content into other languages (e.g., Urdu, Spanish, etc.)
-   - ❓ Add quizzes, exercises, or solutions
-   - 📝 Improve blogs, documentation, links, and examples
-   - 🎥 Create video scripts or educational videos
-   - 🔗 Suggest useful websites, repositories, courses, datasets, or YouTube channels
-   - 🚀 Propose new topics, projects, roadmaps, or courses
-3. Include the following details:
-   - **Title / Name** (with link if applicable)
-   - **Short Description** (15–30 words)
-   - **Category**
-   - **Tags** (e.g., Python, OpenCV, YOLO, AI, Beginner, Free)
-
-4. Create a **Pull Request (PR)** with a clear title and description of your changes.
----
-⭐ Thank you for helping improve this learning platform!
+[ Contributing to Computer Vision](https://github.com/dr-mushtaq/Computer-Vision/blob/main/CONTRIBUTING.md)
 
 ## 🎓 **Enrolled Courses**
 
