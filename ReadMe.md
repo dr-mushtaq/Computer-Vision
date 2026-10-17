@@ -306,7 +306,7 @@ If link is not working then you need to create account in couresteach.com then y
 </details>
 
 <details> 
-<summary> <h2>📕Course Title - 👁️ Course Title:Computer Vision with Deep learning</h2> </summary>
+<summary> <h2>📕Course Title - 👁️ Course Title:Computer Vision with Machine learning</h2> </summary>
 
 #### YouTube Channels
 - **[CS 198-126: Modern Computer Vision Fall 2022 (UC Berkeley)](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)** - FREE
@@ -330,7 +330,7 @@ explore transformer architecture in the context of computer vision and learn how
 
 | Topic Name/Tutorial | Video | Code | Note|Extra Resoruces|
 |---|---|---|---|---|
-| [**1- Introduction to Image Classification**](https://github.com/dr-mushtaq/Computer-Vision/blob/main/%F0%9F%93%9AChapter%20Vision%20Transformers/Vision%20Transormers%20for%20image%20classification%20.md)| [1](https://drive.google.com/file/d/1Lw4QSll5R6jXtEm5NOrHdfFoo_Rd8L-m/view?usp=sharing)[-2](https://youtu.be/mR7xR7I-5OM?si=cX4PSaG2JDzxk0tw) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Computer-Vision/blob/main/notebooks/Unit%203%20-%20Vision%20Transformers/transfer-learning-image-classification.ipynb)|---|---|
+| [**1- Introduction to Image Classification**](https://coursesteach.com/mod/page/view.php?id=10657)| [1](https://drive.google.com/file/d/1KFnLbH22xmUURQ3xOVidlA1DqJTtthr8/view?usp=sharing)[-2](https://youtu.be/o9XrwPZI_F0?si=OkH2bh09wip2VLlo) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Computer-Vision/blob/main/notebooks/Unit%203%20-%20Vision%20Transformers/transfer-learning-image-classification.ipynb)|---|---|
 
 </details>
 
