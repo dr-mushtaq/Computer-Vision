@@ -331,6 +331,8 @@ explore transformer architecture in the context of computer vision and learn how
 | Topic Name/Tutorial | Video | Code | Note|Extra Resoruces|
 |---|---|---|---|---|
 | [**1- Introduction to Image Classification**](https://coursesteach.com/mod/page/view.php?id=10657)| [1](https://drive.google.com/file/d/1KFnLbH22xmUURQ3xOVidlA1DqJTtthr8/view?usp=sharing)[-2](https://youtu.be/o9XrwPZI_F0?si=OkH2bh09wip2VLlo) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Computer-Vision/blob/main/notebooks/Unit%203%20-%20Vision%20Transformers/transfer-learning-image-classification.ipynb)|---|---|
+| [**2- Image Classification with KNN**](https://coursesteach.com/mod/page/view.php?id=10661&forceview=1)| [1](https://drive.google.com/file/d/1PsHeoxMSC88JvgHKsXI3rH5kA9-G_3qH/view?usp=sharing)[-2](https://youtu.be/phzKCvyxcuE) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Computer-Vision/blob/main/notebooks/Unit%203%20-%20Vision%20Transformers/transfer-learning-image-classification.ipynb)|---|---|
+
 
 </details>
 
