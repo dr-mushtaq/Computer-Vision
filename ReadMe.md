@@ -459,6 +459,7 @@ delve into the realm of zero-shot learning in computer vision, covering aspects 
 |[**✅2-visionbrick**](https://visionbrick.com/deeplearning/))|Road Map on Coggle|---|
 |[**✅3-computer Vision Study Plan**](https://pixelbank.dev/cv-study-plan))|Road Map on Coggle|---|
 |[**✅4-computer Vision with keras**](https://keras.io/examples/vision/image_classification_from_scratch/)|implement all Computer In keras|---|
+|[**✅5-Teachable Machine**](https://teachablemachine.withgoogle.com/)|train a model with your webcam|---|
 
 
 ##  🔹Chapter2: - **Road Map**
