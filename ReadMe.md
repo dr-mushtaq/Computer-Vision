@@ -16,11 +16,13 @@ computer vision course,  computer vision with Python, AI in image analysis, edge
 <meta property="og:title" content="Computer Vision Course - Learn with Code, Notebooks, and Projects">
 <meta property="og:description" content="An end-to-end guide to Computer Vision with Python, OpenCV, YOLO, and Deep Learning — curated for learners and contributors.">
 
-## 🙌 Become a Sponsor
+### 🙌 Become a Sponsor
 
-You can support this project by becoming a sponsor on mm Supporting this project helps keep educational AI content free**[GitHub Sponsors](https://github.com/sponsors/dr-mushtaq)** or via **bank transfer** — please contact me at 📧 [mushtaqmsit@gmail.com](mailto:mushtaqmsit@gmail.com).
+You can support this project by becoming a sponsor on **[GitHub Sponsors](https://github.com/sponsors/dr-mushtaq)** or via **Gumroad:** —  📧 [Gumroad:]( https://couresesteach.gumroad.com/l/SupportCoursesTeach).
 
-Also please subscribe to my [youtube channel!](https://www.youtube.com/@coursesteach-mv5si)
+Every contribution — big or small — helps sustain the development of **AI tools and Resources**, **AI-driven educational resources**, and **data science tools**.  
+Thank you for your generous support! 🌟
+
 
 
 ## 🤝 How to Contribute
